@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,8 +19,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
           </p>
         </availability>
       </publicationStmt>
@@ -32,8 +30,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,10 +51,10 @@
     <body>
       <div xml:id="aconf-l6">
         <head xml:id="aconf-l6-Hd1e97">Liber 6</head>
-        <div>
-          <head>1</head>
+        <div xml:id="aconf-l6-Dd1e95">
+          <head xml:id="aconf-l6-Hd1e9a">1</head>
         <!--Mater consecuta est eum Mediolani.-->
-        <p xml:id="aconf-l6-d1e102" n="1"><quote source="http://scta.info/resource/ps70_5@7-12">Spes mea a iuventute mea</quote>, ubi mihi eras et quo
+        <p xml:id="aconf-l6-d1e102" n="1"><quote xml:id="aconf-l6-Qd1e102" source="http://scta.info/resource/ps70_5@7-12">Spes mea a iuventute mea</quote>, ubi mihi eras et quo
           recesseras? An vero non tu feceras me et discreveras me a quadrupedibus et a volatilibus
           caeli sapientiorem me feceras? Et ambulabam per tenebras et lubricum et quaerebam te
           foris a me et non inveniebam Deum cordis mei; et veneram in profundum maris et
@@ -69,7 +66,7 @@
           ei cum indicassem non me quidem iam esse Manichaeum, sed neque catholicum christianum,
           non, quasi inopinatum aliquid audierit, exiluit laetitia, cum iam secura fieret ex ea
           parte miseriae meae, in qua me tamquam mortuum sed resuscitandum tibi flebat et feretro
-          cogitationis offerebat, ut diceres filio viduae: <quote source="http://scta.info/resource/lc7_14@13-16">Iuvenis, tibi dico, surge</quote>, et
+          cogitationis offerebat, ut diceres filio viduae: <quote xml:id="aconf-l6-Qd1e105" source="http://scta.info/resource/lc7_14@13-16">Iuvenis, tibi dico, surge</quote>, et
           revivesceret et inciperet loqui et traderes illum matri suae. Nulla ergo turbulenta
           exsultatione trepidavit cor eius, cum audisset ex tanta parte iam factum, quod tibi
           quotidie plangebat ut fieret, veritatem me nondum adeptum, sed falsitati iam ereptum; immo
@@ -78,14 +75,14 @@
           emigraret, me visura esset fidelem catholicum. Et hoc quidem mihi. Tibi autem, fons
           misericordiarum, preces et lacrimas densiores, ut accelerares adiutorium tuum et
           illuminares tenebras meas, et studiosius ad ecclesiam currere et in Ambrosii ora
-          suspendi, ad <quote source="http://scta.info/resource/io4_14@9-14">fontem salientis aquae in vitam aeternam</quote>. Diligebat autem illum virum
+          suspendi, ad <quote xml:id="aconf-l6-Qd1e108" source="http://scta.info/resource/io4_14@9-14">fontem salientis aquae in vitam aeternam</quote>. Diligebat autem illum virum
           sicut angelum Dei, quod per illum cognoverat me interim ad illam ancipitem
           fluctuationem iam esse perductum, per quam transiturum me ab aegritudine ad sanitatem
           intercurrente artiore periculo quasi per accessionem, quam criticam medici vocant, certa
           praesumebat.</p>
         </div>
-        <div>
-          <head>2</head>
+        <div xml:id="aconf-l6-Dd1e113">
+          <head xml:id="aconf-l6-Hd1e115">2</head>
         <!--Quam religiose Monica Ambrosium coluerit et observaverit.-->
         <p xml:id="aconf-l6-d1e107" n="2">Itaque cum ad memorias sanctorum, sicut in Africa solebat,
           pultes et panem et merum attulisset atque ab ostiario prohiberetur, ubi hoc episcopum
@@ -114,8 +111,8 @@
           qualem illa me filium, qui dubitabam de illis omnibus et inveniri posse viam vitae
           minime putabam.</p>
         </div>
-        <div>
-          <head>3</head>
+        <div xml:id="aconf-l6-Dd1e123">
+          <head xml:id="aconf-l6-Hd1e125">3</head>
         <!--Ambrosius vir admirabilis.-->
         <p xml:id="aconf-l6-d1e113" n="3">Nec iam ingemescebam orando, ut subvenires mihi, sed ad
           quaerendum intentus et ad disserendum inquietus erat animus meus, ipsumque Ambrosium
@@ -143,7 +140,7 @@
         <p xml:id="aconf-l6-d1e118" n="4">Sed certe mihi nulla dabatur copia sciscitandi quae
           cupiebam de tam sancto oraculo tuo, pectore illius, nisi cum aliquid breviter esset
           audiendum. Aestus autem illi mei otiosum eum valde, cui refunderentur, requirebant nec
-          umquam inveniebant. Et eum quidem in populo <quote source="http://scta.info/resource/IItim2_15@10-13">verbum veritatis recte tractantem</quote> omni die
+          umquam inveniebant. Et eum quidem in populo <quote xml:id="aconf-l6-Qd1e136" source="http://scta.info/resource/IItim2_15@10-13">verbum veritatis recte tractantem</quote> omni die
           dominico audiebam, et magis magisque mihi confirmabatur omnes versutarum calumniarum
           nodos, quos illi deceptores nostri adversus divinos Libros innectebant, posse dissolvi.
           Ubi vero etiam comperi ad imaginem tuam hominem a te factum ab spiritalibus filiis
@@ -154,11 +151,11 @@
           figmenta latrasse. Eo quippe temerarius et impius fueram, quod ea quae debebam quaerendo
           dicere, accusando dixeram. Tu enim, altissime et proxime, secretissime et
           praesentissime, cui membra non sunt alia maiora et alia minora, sed ubique totus es et
-          nusquam locorum es, non es utique forma ista corporea, tamen <quote source="http://scta.info/resource/gen1_27@2-7">fecisti hominem ad imaginem
+          nusquam locorum es, non es utique forma ista corporea, tamen <quote xml:id="aconf-l6-Qd1e139" source="http://scta.info/resource/gen1_27@2-7">fecisti hominem ad imaginem
           tuam</quote>, et ecce ipse a capite usque ad pedes in loco est.</p>
         </div>
-        <div>
-          <head>4</head>
+        <div xml:id="aconf-l6-Dd1e144">
+          <head xml:id="aconf-l6-Hd1e146">4</head>
         <!--Sana doctrina Ecclesiae unicae Dei Aug. claruit.-->
         <p xml:id="aconf-l6-d1e123" n="5">Cum ergo nescirem, quomodo haec subsisteret imago tua,
           pulsans proponerem, quomodo credendum esset, non insultans opponerem, quasi ita
@@ -178,7 +175,7 @@
           iam non illo oculo mihi legenda proponerentur, quo antea videbantur absurda, cum
           arguebam tamquam ita sentientes sanctos tuos; verum autem non ita sentiebant. Et tamquam
           regulam diligentissime commendaret, saepe in popularibus sermonibus suis dicentem
-          Ambrosium laetus audiebam: <quote source="http://scta.info/resource/IIcor3_6@13-18">Littera occidit, spiritus autem vivificat</quote>, cum ea, quae ad
+          Ambrosium laetus audiebam: <quote xml:id="aconf-l6-Qd1e157" source="http://scta.info/resource/IIcor3_6@13-18">Littera occidit, spiritus autem vivificat</quote>, cum ea, quae ad
           litteram perversitatem docere videbantur, remoto mystico velamento spiritaliter aperiret,
           non dicens quod me offenderet, quamvis ea diceret, quae utrum vera essent adhuc ignorarem.
           Tenebam enim cor meum ab omni assensione timens praecipitium et suspendio magis necabar.
@@ -213,8 +210,8 @@
           philosophorum extorquere mihi potuit, ut aliquando non crederem te esse quidquid esses,
           quod ego nescirem, aut administrationem rerum humanarum ad te pertinere. I</p>
         </div>
-        <div>
-          <head>5</head>
+        <div xml:id="aconf-l6-Dd1e169">
+          <head xml:id="aconf-l6-Hd1e171">5</head>
         <p xml:id="aconf-l6-d1e137" n="8">Sed id credebam aliquando robustius, aliquando exilius,
           semper tamen credidi et esse te et curam nostri gerere, etiamsi ignorabam vel quid
           sentiendum esset de substantia tua vel quae via duceret aut reduceret ad te. Ideoque cum
@@ -232,8 +229,8 @@
           hauriret. Cogitabam haec et aderas mihi, suspirabam et audiebas me, fluctuabam et
           gubernabas me, ibam per viam saeculi latam nec deserebas.</p>
         </div>
-        <div>
-          <head>6</head>
+        <div xml:id="aconf-l6-Dd1e177">
+          <head xml:id="aconf-l6-Hd1e179">6</head>
         <!--Cuiusdam mendici secura laetitia cum Aug. miseria comparata.-->
         <p xml:id="aconf-l6-d1e142" n="9">Inhiabam honoribus, lucris, coniugio, et tu irridebas.
           Patiebar in eis cupiditatibus amarissimas difficultates te propitio tanto magis, quanto
@@ -274,8 +271,8 @@
           male mihi esse et dolebam et conduplicabam ipsum male, et si quid arrisisset prosperum,
           taedebat apprehendere, quia paene priusquam teneretur avolabat.</p>
         </div>
-        <div>
-          <head>7</head>
+        <div xml:id="aconf-l6-Dd1e190">
+          <head xml:id="aconf-l6-Hd1e192">7</head>
         <!--De amicis et consiliis initis cum eis-->
         <!--Alypius ut magistrum Aug. audivit eumque dilexit.-->
         <p xml:id="aconf-l6-d1e153" n="11">Congemiscebamus in his qui simul amice vivebamus, et
@@ -320,8 +317,8 @@
           virtutis altitudinem scientes tangere et superficie decipi faciles, sed tamen adumbratae
           simulataeque <unclear>irtutis</unclear>.</p>
         </div>
-        <div>
-          <head>8</head>
+        <div xml:id="aconf-l6-Dd1e207">
+          <head xml:id="aconf-l6-Hd1e209">8</head>
         <!--Alypius cruenta circensium voluptate abreptus.-->
         <p xml:id="aconf-l6-d1e162" n="13">Non sane relinquens incantatam sibi a parentibus terrenam
           viam Romam praecesserat, ut ius disceret, et ibi gladiatorii spectaculi hiatu incredibili
@@ -349,8 +346,8 @@
           illis et alios trahens. Et inde tamen manu validissima et misericordissima eruisti eum tu
           et docuisti non sui habere, sed tui fiduciam, sed longe postea.</p>
         </div>
-        <div>
-          <head>9</head>
+        <div xml:id="aconf-l6-Dd1e217">
+          <head xml:id="aconf-l6-Hd1e219">9</head>
         <!--Alypius tamquam fur Carthagine comprehensus.-->
         <p xml:id="aconf-l6-d1e167" n="14">Verumtamen iam hoc ad medicinam futuram in eius memoria
           reponebatur. Nam et illud, quod, cum adhuc studeret iam me audiens apud Carthaginem et
@@ -387,8 +384,8 @@
           coeperant, futurus dispensator verbi tui et multarum in Ecclesia tua causarum examinator
           experientior instructiorque discessit.</p>
         </div>
-        <div>
-          <head>10</head>
+        <div xml:id="aconf-l6-Dd1e230">
+          <head xml:id="aconf-l6-Hd1e232">10</head>
         <!--Alypius Romae assessoris munere functus est integre.-->
         <p xml:id="aconf-l6-d1e175" n="16">Hunc ergo Romae inveneram, et adhaesit mihi fortissimo
           vinculo mecumque Mediolanum profectus est, ut nec me desereret et de iure, quod didicerat,
@@ -406,8 +403,8 @@
           re vera, si ipse faceret, iste discederet. Hoc solo autem paene iam illectus erat studio
           litterario, ut pretiis praetorianis codices sibi conficiendos curaret, sed consulta
           iustitia deliberationem in melius vertit utiliorem iudicans aequitatem, qua prohibebatur,
-          quam potestatem, qua sinebatur. Parvum est hoc; sed <quote source="http://scta.info/resource/lc16_10@1-10">qui in parvo fidelis est, et in magno
-          fidelis est</quote>, nec ullo modo erit inane, quod tuae veritatis ore processit: <quote source="http://scta.info/resource/lc16_11@1-14 http://scta.info/resource/lc16_12@1-13">Si in
+          quam potestatem, qua sinebatur. Parvum est hoc; sed <quote xml:id="aconf-l6-Qd1e238" source="http://scta.info/resource/lc16_10@1-10">qui in parvo fidelis est, et in magno
+          fidelis est</quote>, nec ullo modo erit inane, quod tuae veritatis ore processit: <quote xml:id="aconf-l6-Qd1e241" source="http://scta.info/resource/lc16_11@1-14 http://scta.info/resource/lc16_12@1-13">Si in
           iniusto mammona fideles non fuistis, verum quis dabit vobis? Et si in alieno fideles non
           fuistis, vestrum quis dabit vobis?</quote> Talis ille tunc inhaerebat mihi mecumque nutabat in
           consilio, quisnam esset tenendus vitae modus.</p>
@@ -425,8 +422,8 @@
           Et hoc crebro dicebamus et dicentes non relinquebamus ea, quia non elucebat certum
           aliquid, quod illis relictis apprehenderemus.</p>
         </div>
-        <div>
-          <head>11</head>
+        <div xml:id="aconf-l6-Dd1e252">
+          <head xml:id="aconf-l6-Hd1e254">11</head>
         <!--Aug. aestuat in dubio haeretque anceps.-->
         <p xml:id="aconf-l6-d1e186" n="18">Et ego maxime mirabar satagens et recolens, quam longum
           tempus esset ab undevicesimo anno aetatis meae, quo fervere coeperam studio sapientiae,
@@ -464,18 +461,18 @@
           dediti fuerunt".</p>
 
         <p xml:id="aconf-l6-d1e192" n="20">Cum haec dicebam et alternabant hi venti et impellebant
-          huc atque illuc cor meum, transibant tempora, et <quote source="http://scta.info/resource/sir5_8@1-12">tardabam converti ad Dominum et
+          huc atque illuc cor meum, transibant tempora, et <quote xml:id="aconf-l6-Qd1e266" source="http://scta.info/resource/sir5_8@1-12">tardabam converti ad Dominum et
           differebam de die in diem</quote> vivere in te et non differebam quotidie in memetipso mori;
           amans beatam vitam timebam illam in sede sua et ab ea fugiens quaerebam eam. Putabam enim
           me miserum fore nimis, si feminae privarer amplexibus, et medicinam misericordiae tuae ad
           eamdem infirmitatem sanandam non cogitabam, quia expertus non eram, et propriarum
           virium credebam esse continentiam, quarum mihi non eram conscius, cum tam stultus essem,
-          ut nescirem, sicut scriptum est, <quote source="http://scta.info/resource/sap8_21@6-12">neminem posse esse continentem, nisi tu dederis</quote>.
-          Utique dares, si gemitu interno pulsarem aures tuas et fide solida <quote source="http://scta.info/resource/ps54_23@1-5">in te iactarem curam
+          ut nescirem, sicut scriptum est, <quote xml:id="aconf-l6-Qd1e269" source="http://scta.info/resource/sap8_21@6-12">neminem posse esse continentem, nisi tu dederis</quote>.
+          Utique dares, si gemitu interno pulsarem aures tuas et fide solida <quote xml:id="aconf-l6-Qd1e272" source="http://scta.info/resource/ps54_23@1-5">in te iactarem curam
           meam</quote>.</p>
         </div>
-        <div>
-          <head>12</head>
+        <div xml:id="aconf-l6-Dd1e277">
+          <head xml:id="aconf-l6-Hd1e279">12</head>
         <!--Aug. non sprevit, et Alypius ipse desideraverit coniugium.-->
         <p xml:id="aconf-l6-d1e198" n="21">Prohibebat me sane Alypius ab uxore ducenda cantans
           nullo modo nos posse securo otio simul in amore sapientiae vivere, sicut iam diu
@@ -502,15 +499,15 @@
           placebat, non mihi vita, sed poena videretur. Stupebat enim liber ab illo vinculo animus
           servitutem meam et stupendo ibat in experiendi cupidinem venturus in ipsam experientiam
           atque inde fortasse lapsurus in eam quam stupebat servitutem, quoniam sponsionem volebat
-          facere cum morte, et <quote source="http://scta.info/resource/sir3_27@8-13">qui amat periculum, incidet in illud</quote>. Neutrum enim nostrum, si
+          facere cum morte, et <quote xml:id="aconf-l6-Qd1e288" source="http://scta.info/resource/sir3_27@8-13">qui amat periculum, incidet in illud</quote>. Neutrum enim nostrum, si
           quod est coniugale decus in officio regendi matrimonii et suscipiendorum liberorum,
           ducebat nisi tenuiter. Magna autem ex parte atque vehementer consuetudo satiandae
           insatiabilis concupiscentiae me captum excruciabat, illum autem admiratio capiendum
           trahebat. Sic eramus, donec tu, Altissime, non deserens humum nostram miseratus miseros
           subvenires miris et occultis modis.</p>
         </div>
-        <div>
-          <head>13</head>
+        <div xml:id="aconf-l6-Dd1e293">
+          <head xml:id="aconf-l6-Hd1e295">13</head>
         <!--Puella nondum nobilis desponsata est Augustino.-->
         <p xml:id="aconf-l6-d1e206" n="23">Et instabatur impigre, ut ducerem uxorem. Iam petebam,
           iam promittebatur maxime matre dante operam, quo me iam coniugatum baptismus salutaris
@@ -524,8 +521,8 @@
           somniantem. Instabatur tamen, et puella petebatur, cuius aetas ferme biennio minus quam
           nubilis erat, et quia ea placebat, exspectabatur.</p>
         </div>
-        <div>
-          <head>14</head>
+        <div xml:id="aconf-l6-Dd1e303">
+          <head xml:id="aconf-l6-Hd1e305">14</head>
         <!--Aug. eiusque amici in animo habuerunt sodalitatem constituere, quae perfecta non est.-->
         <p xml:id="aconf-l6-d1e211" n="24">Et multi amici agitaveramus animo et colloquentes ac
           detestantes turbulentas humanae vitae molestias paene iam firmaveramus remoti a turbis
@@ -546,8 +543,8 @@
           escam in opportunitate et aperturus manum atque impleturus animas nostras benedictione
          .</p>
         </div>
-        <div>
-          <head>15</head>
+        <div xml:id="aconf-l6-Dd1e313">
+          <head xml:id="aconf-l6-Hd1e315">15</head>
         <!--Muliere, ex qua filium susceperat, in Africam profecta, aliam feminam Aug. procuravit.-->
         <p xml:id="aconf-l6-d1e217" n="25">Interea mea peccata multiplicabantur, et avulsa a
           latere meo tamquam impedimento coniugii cum qua cubare solitus eram, cor, ubi adhaerebat,
@@ -560,8 +557,8 @@
           illud meum, quod prioris praecisione factum erat, sed post fervorem doloremque acerrimum
           putrescebat et quasi frigidius, sed desperatius dolebat.</p>
         </div>
-        <div>
-          <head>16</head>
+        <div xml:id="aconf-l6-Dd1e323">
+          <head xml:id="aconf-l6-Hd1e325">16</head>
         <!--Disputatio cum Alypio et Nebridio de finibus bonorum et malorum.-->
         <p xml:id="aconf-l6-d1e222" n="26">Tibi laus, tibi gloria, fons misericordiarum! Ego
           fiebam miserior et tu propinquior. Aderat iam iamque dextera tua raptura me de caeno et
@@ -581,7 +578,7 @@
           Vae animae audaci, quae speravit, si a te recessisset, se aliquid melius habituram!
           Versa et reversa in tergum et in latera et in ventrem, et dura sunt omnia, et tu solus
           requies. Et ecce ades et liberas a miserabilibus erroribus et constituis nos in via tua
-          et consolaris et dicis: "Currite, <quote source="http://scta.info/resource/is46_4@15-19">ego feram, et ego perducam et ibi ego
+          et consolaris et dicis: "Currite, <quote xml:id="aconf-l6-Qd1e331" source="http://scta.info/resource/is46_4@15-19">ego feram, et ego perducam et ibi ego
           feram</quote>".</p>
         </div>
       </div>

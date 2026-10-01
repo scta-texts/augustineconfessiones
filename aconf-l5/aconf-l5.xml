@@ -55,10 +55,10 @@
                <head xml:id="aconf-l5-Hd1e9X">1</head>
                <p xml:id="aconf-l5-d1e102" n="1">Accipe sacrificium confessionum mearum de manu
                   linguae meae, quam formasti et excitasti, ut confiteatur nomini tuo, et sana
-                  <quote source="http://scta.info/resource/ps34_10@1-8">omnia ossa mea, et dicant: Domine, quis similis tibi?</quote> Neque enim docet te, quid
+                  <quote xml:id="aconf-l5-Qd1e102" source="http://scta.info/resource/ps34_10@1-8">omnia ossa mea, et dicant: Domine, quis similis tibi?</quote> Neque enim docet te, quid
                   in se agatur, qui tibi confitetur, quia oculum tuum non excludit cor clausum nec
                   manum tuam repellit duritia hominum, sed solvis eam, cum voles, aut miserans aut
-                  vindicans, et <quote source="http://scta.info/resource/ps18_7@13-20">non est qui se abscondat a calore tuo</quote>. Sed te laudet anima mea,
+                  vindicans, et <quote xml:id="aconf-l5-Qd1e105" source="http://scta.info/resource/ps18_7@13-20">non est qui se abscondat a calore tuo</quote>. Sed te laudet anima mea,
                   ut amet te, et confiteatur tibi miserationes tuas, ut laudet te. Non cessat nec
                   tacet laudes tuas universa creatura tua nec spiritus omnis per os conversum ad
                   te nec animalia nec corporalia per os considerantium ea, ut exsurgat in te a
@@ -99,8 +99,8 @@
                   peritissimus et apprime disciplinis liberalibus eruditus. Et quoniam multa
                   philosophorum legeram memoriaeque mandata retinebam, ex eis quaedam comparabam
                   illis Manichaeorum longis fabulis, et mihi probabiliora ista videbantur, quae
-                  dixerunt illi, qui <quote source="http://scta.info/resource/sap13_9@3-15">tantum potuerunt valere, ut possent aestimare saeculum,
-                  quamquam eius Dominum minime invenerint</quote>. Quoniam magnus es, Domine, et <quote source="http://scta.info/resource/ps137_6@4-11">humilia
+                  dixerunt illi, qui <quote xml:id="aconf-l5-Qd1e126" source="http://scta.info/resource/sap13_9@3-15">tantum potuerunt valere, ut possent aestimare saeculum,
+                  quamquam eius Dominum minime invenerint</quote>. Quoniam magnus es, Domine, et <quote xml:id="aconf-l5-Qd1e129" source="http://scta.info/resource/ps137_6@4-11">humilia
                   respicis, excelsa autem a longe cognoscis</quote>, nec propinquas nisi obtritis corde
                   nec inveniris a superbis, nec si illi curiosa peritia numerent stellas et
                   harenam et dimetiantur sidereas plagas et vestigent vias astrorum.</p>
@@ -125,18 +125,18 @@
                <p xml:id="aconf-l5-d1e123" n="5">Sed non noverunt viam, Verbum tuum, per quod
                   fecisti ea quae numerant et ipsos qui numerant et sensum, quo cernunt quae
                   numerant, et mentem, de qua numerant; et sapientiae tuae non est numerus. Ipse
-                  autem Unigenitus <quote source="http://scta.info/resource/Icor1_30@9-19">factus est nobis sapientia et iustitia et sanctificatio</quote>, et
+                  autem Unigenitus <quote xml:id="aconf-l5-Qd1e138" source="http://scta.info/resource/Icor1_30@9-19">factus est nobis sapientia et iustitia et sanctificatio</quote>, et
                   numeratus est inter nos et solvit tributum Caesari. Non noverunt hanc viam, qua
                   descendant ad illum a se et per eum ascendant ad eum. Non noverunt hanc viam et
                   putant se excelsos esse cum sideribus et lucidos, et ecce ruerunt in terram, et
-                  <quote source="http://scta.info/resource/rom1_21@17-22">obscuratum est insipiens cor eorum</quote>. Et multa vera de creatura dicunt et veritatem,
+                  <quote xml:id="aconf-l5-Qd1e141" source="http://scta.info/resource/rom1_21@17-22">obscuratum est insipiens cor eorum</quote>. Et multa vera de creatura dicunt et veritatem,
                   creaturae artificem, non pie quaerunt et ideo non inveniunt, aut si inveniunt,
-                  <quote source="http://scta.info/resource/rom1_21@2-16">cognoscentes Deum non sicut Deum honorant aut gratias agunt et evanescunt in
+                  <quote xml:id="aconf-l5-Qd1e144" source="http://scta.info/resource/rom1_21@2-16">cognoscentes Deum non sicut Deum honorant aut gratias agunt et evanescunt in
                   cogitationibus suis</quote> et dicunt se esse sapientes sibi tribuendo quae tua sunt,
                   ac per hoc student perversissima caecitate etiam tibi tribuere quae sua sunt,
-                  mendacia scilicet in te conferentes, qui veritas es, et <quote source="http://scta.info/resource/rom1_23@1-16">immutantes gloriam
+                  mendacia scilicet in te conferentes, qui veritas es, et <quote xml:id="aconf-l5-Qd1e147" source="http://scta.info/resource/rom1_23@1-16">immutantes gloriam
                   incorrupti Dei in similitudinem imaginis corruptibilis hominis et volucrum et
-                  quadrupedum et serpentium</quote>, et <quote source="http://scta.info/resource/rom1_25@2-14">convertunt veritatem tuam in mendacium et colunt et
+                  quadrupedum et serpentium</quote>, et <quote xml:id="aconf-l5-Qd1e150" source="http://scta.info/resource/rom1_25@2-14">convertunt veritatem tuam in mendacium et colunt et
                   serviunt creaturae potius quam Creatori</quote>.</p>
                <p xml:id="aconf-l5-d1e128" n="6">Multa tamen ab eis ex ipsa creatura vera dicta
                   retinebam, et occurrebat mihi ratio per numeros et ordinem temporum et visibiles
@@ -151,16 +151,16 @@
                <p xml:id="aconf-l5-d1e134" n="7"> Numquid, Domine Deus veritatis, quisquis novit
                   ista, iam placet tibi? Infelix enim homo, qui scit illa omnia, te autem nescit;
                   beatus autem, qui te scit, etiamsi illa nesciat. Qui vero et te et illa novit, non
-                  propter illa beatior, sed propter te solum beatus est, si <quote source="http://scta.info/resource/rom1_21@2-16">cognoscens te sicut te
+                  propter illa beatior, sed propter te solum beatus est, si <quote xml:id="aconf-l5-Qd1e165" source="http://scta.info/resource/rom1_21@2-16">cognoscens te sicut te
                   glorificet et gratias agat et non evanescat in cogitationibus suis</quote>. Sicut enim
                   melior est, qui novit possidere arborem et de usu eius tibi gratias agit, quamvis
                   nesciat vel quot cubitis alta sit vel quanta latitudine diffusa, quam ille, qui
                   eam metitur et omnes ramos eius numerat et neque possidet eam neque creatorem eius
-                  novit aut diligit, sic fidelis homo, cuius totus mundus divitiarum est et <quote source="http://scta.info/resource/IIcor6_10@11-16">quasi
+                  novit aut diligit, sic fidelis homo, cuius totus mundus divitiarum est et <quote xml:id="aconf-l5-Qd1e168" source="http://scta.info/resource/IIcor6_10@11-16">quasi
                   nihil habens omnia possidet</quote> inhaerendo tibi, cui serviunt omnia, quamvis nec
                   saltem septentrionum gyros noverit, dubitare stultum est, quin utique melior sit
                   quam mensor caeli et numerator siderum et pensor elementorum et neglegens tui, qui
-                  <quote source="http://scta.info/resource/sap11_21@22-28">omnia in mensura et numero et pondere disposuisti</quote>.</p>
+                  <quote xml:id="aconf-l5-Qd1e171" source="http://scta.info/resource/sap11_21@22-28">omnia in mensura et numero et pondere disposuisti</quote>.</p>
 
             </div>
             <div xml:id="aconf-l5-Dd1e137">
@@ -187,7 +187,7 @@
                   autem, si hoc ad ipsam doctrinae pietatis formam pertinere arbitretur et
                   pertinacius affirmare audeat quod ignorat. Sed etiam talis infirmitas in fidei
                   cunabulis a caritate matre sustinetur, donec assurgat novus homo in virum
-                  perfectum et <quote source="http://scta.info/resource/eph4_14@8-11">circumferri non possit omni vento doctrinae</quote>. In illo autem, qui
+                  perfectum et <quote xml:id="aconf-l5-Qd1e187" source="http://scta.info/resource/eph4_14@8-11">circumferri non possit omni vento doctrinae</quote>. In illo autem, qui
                   doctor, qui auctor, qui dux et princeps eorum, quibus illa suaderet, ita fieri
                   ausus est, ut qui eum sequerentur non quemlibet hominem, sed Spiritum tuum Sanctum
                   se sequi arbitrarentur, quis tantam dementiam, sicubi falsa dixisse convinceretur,
@@ -275,7 +275,7 @@
                   volens nec sciens. Manus enim tuae, Deus meus, in abdito providentiae tuae non
                   deserebant animam meam, et de sanguine cordis matris meae per lacrimas eius diebus
                   et noctibus pro me sacrificabatur tibi, et egisti mecum miris modis. Tu illud
-                  egisti, Deus meus. Nam <quote source="http://scta.info/resource/ps36_23@1-9">a Domino gressus hominis diriguntur, et viam eius volet</quote>.
+                  egisti, Deus meus. Nam <quote xml:id="aconf-l5-Qd1e214" source="http://scta.info/resource/ps36_23@1-9">a Domino gressus hominis diriguntur, et viam eius volet</quote>.
                   Aut quae procuratio salutis praeter manum tuam reficientem quae fecisti?</p>
             </div>
             <div xml:id="aconf-l5-Dd1e170">
@@ -297,7 +297,7 @@
                   licebit, et impune se facere arbitrantur, cum ipsa faciendi caecitate puniantur et
                   incomparabiliter patiantur peiora, quam faciunt. Ergo quos mores cum studerem meos
                   esse nolui, eos cum docerem cogebar perpeti alienos, et ideo placebat ire, ubi
-                  talia non fieri omnes qui noverant indicabant. Verum autem tu, <quote source="http://scta.info/resource/ps141_6@6-14">spes mea et portio
+                  talia non fieri omnes qui noverant indicabant. Verum autem tu, <quote xml:id="aconf-l5-Qd1e226" source="http://scta.info/resource/ps141_6@6-14">spes mea et portio
                   mea in terra viventium</quote>, ad mutandum terrarum locum pro salute animae meae et
                   Carthagini stimulos, quibus inde avellerer, admovebas et Romae illecebras, quibus
                   attraherer, proponebas mihi per homines, qui diligunt vitam mortuam, hinc insana
@@ -332,7 +332,7 @@
                <head xml:id="aconf-l5-Hd1e183">9</head>
                <p xml:id="aconf-l5-d1e179" n="16"> Et ecce excipior ibi flagello aegritudinis
                   corporalis et ibam iam ad inferos portans omnia mala, quae commiseram et in te
-                  et in me et in alios, multa et gravia super originalis peccati vinculum, quo <quote source="http://scta.info/resource/Icor15_22@3-6">omnes
+                  et in me et in alios, multa et gravia super originalis peccati vinculum, quo <quote xml:id="aconf-l5-Qd1e241" source="http://scta.info/resource/Icor15_22@3-6">omnes
                   in Adam morimur</quote>. Non enim quidquam eorum mihi donaveras in Christo, nec
                   solverat ille in cruce sua inimicitias, quas tecum contraxeram peccatis meis.
                   Quomodo enim eas solveret in cruce phantasmatis, quod de illo credideram? Quam
@@ -352,7 +352,7 @@
                <p xml:id="aconf-l5-d1e185" n="17"> Non itaque video, quomodo sanaretur, si mea talis
                   illa mors transverberasset viscera dilectionis eius. Et ubi essent tantae preces
                   et tam crebrae sine intermissione? Nusquam nisi ad te. An vero tu, Deus
-                  misericordiarum, sperneres <quote source="http://scta.info/resource/ps50_19@5-8">cor contritum et humiliatum</quote> viduae castae ac
+                  misericordiarum, sperneres <quote xml:id="aconf-l5-Qd1e247" source="http://scta.info/resource/ps50_19@5-8">cor contritum et humiliatum</quote> viduae castae ac
                   sobriae, frequentantis eleemosynas, obsequentis atque servientis sanctis tuis,
                   nullum diem praetermittentis oblationem ad altare tuum, bis die, mane et vespere,
                   ad ecclesiam tuam sine ulla intermissione venientis, non ad vanas fabulas et
@@ -369,7 +369,7 @@
             </div>
             <div xml:id="aconf-l5-Dd1e192">
                <head xml:id="aconf-l5-Hd1e194">10</head>
-               <p xml:id="aconf-l5-d1e190" n="18"> Recreasti ergo me ab illa aegritudine et <quote source="http://scta.info/resource/ps85_16@12-17">salvum
+               <p xml:id="aconf-l5-d1e190" n="18"> Recreasti ergo me ab illa aegritudine et <quote xml:id="aconf-l5-Qd1e259" source="http://scta.info/resource/ps85_16@12-17">salvum
                   fecisti filium ancillae tuae</quote> tunc interim corpore, ut esset cui salutem
                   meliorem atque certiorem dares. Et iungebar etiam tunc Romae falsis illis atque
                   fallentibus sanctis: non enim tantum auditoribus eorum, quorum e numero erat etiam
@@ -381,8 +381,8 @@
                   esset et ego non essem. Verum autem totum ego eram et adversus me impietas mea me
                   diviserat, et id erat peccatum insanabilius, quo me peccatorem non esse
                   arbitrabar, et execrabilis iniquitas, te, Deus omnipotens, te in me ad
-                  perniciem meam, quam me a te ad salutem malle superari. Nondum ergo <quote source="http://scta.info/resource/ps140_3@1-10">posueras
-                  custodiam ori meo et ostium continentiae circum labia mea</quote>, ut non <quote source="http://scta.info/resource/ps140_4@1-16">declinaret cor
+                  perniciem meam, quam me a te ad salutem malle superari. Nondum ergo <quote xml:id="aconf-l5-Qd1e262" source="http://scta.info/resource/ps140_3@1-10">posueras
+                  custodiam ori meo et ostium continentiae circum labia mea</quote>, ut non <quote xml:id="aconf-l5-Qd1e265" source="http://scta.info/resource/ps140_4@1-16">declinaret cor
                   meum in verba mala ad excusandas excusationes in peccatis cum hominibus
                   operantibus iniquitatem</quote>, et ideo adhuc combinabam cum electis eorum, sed tamen
                   iam desperans in ea falsa doctrina me posse proficere, eaque ipsa, quibus, si

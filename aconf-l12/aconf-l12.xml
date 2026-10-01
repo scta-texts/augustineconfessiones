@@ -51,32 +51,32 @@
     <body>
       <div xml:id="aconf-l12">
         <head xml:id="aconf-l12-Hd1e97">Liber 12</head>
-        <div>
-          <head>1</head>
+        <div xml:id="aconf-l12-Dd1e95">
+          <head xml:id="aconf-l12-Hd1e9a">1</head>
         <!--Inopes sumus, sed Deus pro nobis.-->
         <p xml:id="aconf-l12-d1e102" n="1">Multa satagit cor meum, Domine, in hac inopia vitae meae pulsatum verbis sanctae
           Scripturae tuae, et ideo plerumque in sermone copiosa est egestas humanae intellegentiae,
           quia plus loquitur inquisitio quam inventio et longior est petitio quam impetratio et
-          operosior est manus pulsans quam sumens. Tenemus promissum: quis corrumpet illud? <quote source="http://scta.info/resource/rom8_31@6-12">Si
-          Deus pro nobis, quis contra nos?</quote> <quote source="http://scta.info/resource/mt7_7@1-11 http://scta.info/resource/mt7_8@1-12">Petite, et accipietis; quaerite, et invenietis;
+          operosior est manus pulsans quam sumens. Tenemus promissum: quis corrumpet illud? <quote xml:id="aconf-l12-Qd1e103" source="http://scta.info/resource/rom8_31@6-12">Si
+          Deus pro nobis, quis contra nos?</quote> <quote xml:id="aconf-l12-Qd1e106" source="http://scta.info/resource/mt7_7@1-11 http://scta.info/resource/mt7_8@1-12">Petite, et accipietis; quaerite, et invenietis;
           pulsate, et aperietur vobis. Omnis enim, qui petit, accipit et quaerens inveniet et
           pulsanti aperietur</quote>. Promissa tua sunt, et quis falli timeat, cum promittit Veritas
          ?</p>
         </div>
-        <div>
-          <head>2</head>
+        <div xml:id="aconf-l12-Dd1e111">
+          <head xml:id="aconf-l12-Hd1e113">2</head>
         <!--Caelum caeli, quod dicitur.-->
         <p xml:id="aconf-l12-d1e107" n="2">Confitetur altitudini tuae humilitas linguae meae, quoniam tu fecisti caelum et
           terram; hoc caelum, quod video, terramque, quam calco, unde est haec terra, quam porto; tu
-          fecisti. Sed ubi est caelum caeli, Domine, de quo audivimus in voce Psalmi: <quote source="http://scta.info/resource/ps113_24@1-8">Caelum caeli
+          fecisti. Sed ubi est caelum caeli, Domine, de quo audivimus in voce Psalmi: <quote xml:id="aconf-l12-Qd1e119" source="http://scta.info/resource/ps113_24@1-8">Caelum caeli
           Domino; terram autem dedit filiis hominum</quote> ? Ubi est caelum, quod non cernimus, cui terra
           est hoc omne, quod cernimus? Hoc enim totum corporeum non ubique totum ita cepit speciem
           pulchram in novissimis, cuius fundus est terra nostra, sed ad illud caelum caeli etiam
           terrae nostrae caelum terra est. Et hoc utrumque magnum corpus non absurde terra est ad
           illud nescio quale caelum, quod Domino est, non filiis hominum.</p>
         </div>
-        <div>
-          <head>3</head>
+        <div xml:id="aconf-l12-Dd1e124">
+          <head xml:id="aconf-l12-Hd1e126">3</head>
         <!--Terra, tenebris et abysso materia informis significatur.-->
         <p xml:id="aconf-l12-d1e113" n="3">Et nimirum haec terra erat invisibilis et incomposita et nescio qua profunditas
           abyssi, super quam non erat lux, quia nulla species erat illi; unde iussisti, ut
@@ -89,8 +89,8 @@
           distingueres, non erat aliquid, non color, non figura, non corpus, non spiritus? Non tamen
           omnino nihil: erat quaedam informitas sine ulla specie.</p>
         </div>
-        <div>
-          <head>4</head>
+        <div xml:id="aconf-l12-Dd1e134">
+          <head xml:id="aconf-l12-Hd1e136">4</head>
         <!--Usitatis vocabulis notio quaedam obscura insinuatur.-->
         <p xml:id="aconf-l12-d1e118" n="4">Quid ergo vocaretur, quo etiam sensu tardioribus utcumque insinuaretur, nisi
           usitato aliquo vocabulo? Quid autem in omnibus mundi partibus reperiri potest propinquius
@@ -99,8 +99,8 @@
           materiae, quam sine specie feceras, unde speciosum mundum faceres, ita commode hominibus
           intimatam, ut appellaretur terra invisibilis et incomposita?</p>
         </div>
-        <div>
-          <head>5</head>
+        <div xml:id="aconf-l12-Dd1e145">
+          <head xml:id="aconf-l12-Hd1e147">5</head>
         <!--Mens dubia nutat.-->
         <p xml:id="aconf-l12-d1e123" n="5">Ut cum in ea quaerit cogitatio, quid sensus attingat, et dicit sibi: "Non est
           intellegibilis forma sicut vita, sicut iustitia, quia materies est corporum, neque
@@ -108,8 +108,8 @@
           dum sibi haec dicit humana cogitatio, conetur eam vel nosse ignorando vel ignorare
           noscendo.</p>
         </div>
-        <div>
-          <head>6</head>
+        <div xml:id="aconf-l12-Dd1e155">
+          <head xml:id="aconf-l12-Hd1e157">6</head>
         <!--Quid antea Augustinus cogitaverit de materia.-->
         <p xml:id="aconf-l12-d1e129" n="6">Ego vero, Domine, si totum confitear tibi ore meo et calamo meo, quidquid de
           ista materia docuisti me, cuius antea nomen audiens et non intellegens narrantibus mihi
@@ -134,12 +134,12 @@
           "nihil aliquid" et "est non est", hoc eam dicerem; et tamen iam utcumque erat, ut species
           caperet istas visibiles et compositas.</p>
         </div>
-        <div>
-          <head>7</head>
+        <div xml:id="aconf-l12-Dd1e165">
+          <head xml:id="aconf-l12-Hd1e167">7</head>
         <!--De nihilo Deus fecit materiam.-->
         <p xml:id="aconf-l12-d1e134" n="7">Et unde utcumque erat, nisi esset abs te, a quo sunt omnia, in quantumcumque sunt?
           Sed tanto a te longius, quanto dissimilius: neque enim locis. Itaque tu, Domine, qui non
-          es alias aliud et alias aliter, sed id ipsum et id ipsum et id ipsum, <quote source="http://scta.info/resource/ap4_8@25-30">sanctus, sanctus,
+          es alias aliud et alias aliter, sed id ipsum et id ipsum et id ipsum, <quote xml:id="aconf-l12-Qd1e173" source="http://scta.info/resource/ap4_8@25-30">sanctus, sanctus,
           sanctus, Dominus Deus omnipotens</quote>, in principio, quod est de te, in Sapientia tua, quae
           nata est de substantia tua, fecisti aliquid et de nihilo. Fecisti enim caelum et terram
           non de te; nam esset aequale Unigenito tuo ac per hoc et tibi, et nullo modo iustum esset,
@@ -150,8 +150,8 @@
           quaedam, unum prope te, alterum prope nihil, unum, quo superior tu esses, alterum, quo
           inferius nihil esset.</p>
         </div>
-        <div>
-          <head>8</head>
+        <div xml:id="aconf-l12-Dd1e178">
+          <head xml:id="aconf-l12-Hd1e180">8</head>
         <!--De materia informi Deus haec omnia fecit.-->
         <p xml:id="aconf-l12-d1e139" n="8">Sed illud caelum caeli tibi, Domine; terra autem, quam dedisti filiis hominum
           cernendam atque tangendam, non erat talis, qualem nunc cernimus et tangimus. Invisibilis
@@ -173,8 +173,8 @@
           et dinumerari possunt tempora, quia rerum mutationibus fiunt tempora, dum variantur et
           vertuntur species, quarum materies praedicta est terra invisibilis.</p>
         </div>
-        <div>
-          <head>9</head>
+        <div xml:id="aconf-l12-Dd1e188">
+          <head xml:id="aconf-l12-Hd1e190">9</head>
         <!--Caelum caeli informisque materia extra tempus sunt.-->
         <p xml:id="aconf-l12-d1e145" n="9">Ideoque Spiritus, doctor famuli tui, cum te commemorat fecisse in principio caelum
           et terram, tacet de temporibus, silet de diebus. Nimirum enim caelum caeli, quod in
@@ -186,8 +186,8 @@
           nullus ordo, nec venit quidquam nec praeterit, et ubi hoc non fit, non sunt utique dies
           nec vicissitudo spatiorum temporalium.</p>
         </div>
-        <div>
-          <head>10</head>
+        <div xml:id="aconf-l12-Dd1e198">
+          <head xml:id="aconf-l12-Hd1e200">10</head>
         <!--Reditus ad fontem vitae.-->
         <p xml:id="aconf-l12-d1e150" n="10">O Veritas, lumen cordis mei, non tenebrae meae loquantur mihi! Defluxi ad ista et
           obscuratus sum, sed hinc, etiam hinc adamavi te. Erravi et recordatus sum tui.
@@ -196,11 +196,11 @@
           vivam. Non ego vita mea sim: male vixi ex me, mors mihi fui; in te revivisco. Tu me
           alloquere, tu mihi sermocinare. Credidi libris tuis, et verba eorum arcana valde.</p>
         </div>
-        <div>
-          <head>11</head>
+        <div xml:id="aconf-l12-Dd1e209">
+          <head xml:id="aconf-l12-Hd1e211">11</head>
         <!--Deus aeternus est et omnia fecit.-->
         <p xml:id="aconf-l12-d1e155" n="11">Iam dixisti mihi, Domine, voce forti in aurem interiorem, quia tu aeternus es,
-          <quote source="http://scta.info/resource/Itim6_16@1-4">solus habens immortalitatem</quote>, quoniam ex nulla specie motuve mutaris nec temporibus
+          <quote xml:id="aconf-l12-Qd1e217" source="http://scta.info/resource/Itim6_16@1-4">solus habens immortalitatem</quote>, quoniam ex nulla specie motuve mutaris nec temporibus
           variatur voluntas tua, quia non est immortalis voluntas, quae alia et alia est. Hoc in
           conspectu tuo claret mihi et magis magisque clarescat, oro te, atque in ea
           manifestatione persistam sobrius sub alis tuis. Item dixisti mihi, Domine, voce forti in
@@ -222,8 +222,8 @@
           concordissime unam stabilimento pacis sanctorum spirituum, civium civitatis tuae in
           caelestibus super ista caelestia.</p>
         <p xml:id="aconf-l12-d1e164" n="13">Unde intellegat anima, cuius peregrinatio longinqua facta est, si iam sitit
-          tibi, si iam <quote source="http://scta.info/resource/ps41_4@1-5">factae sunt ei lacrimae suae panis</quote>, <quote source="http://scta.info/resource/ps41_11@12-21">dum dicitur ei per singulos dies: ubi est
-          Deus tuus?</quote> si iam <quote source="http://scta.info/resource/ps26_4@1-15">petit a te unam et hanc requirit, ut inhabitet in domo tua per omnes
+          tibi, si iam <quote xml:id="aconf-l12-Qd1e229" source="http://scta.info/resource/ps41_4@1-5">factae sunt ei lacrimae suae panis</quote>, <quote xml:id="aconf-l12-Qd1e232" source="http://scta.info/resource/ps41_11@12-21">dum dicitur ei per singulos dies: ubi est
+          Deus tuus?</quote> si iam <quote xml:id="aconf-l12-Qd1e235" source="http://scta.info/resource/ps26_4@1-15">petit a te unam et hanc requirit, ut inhabitet in domo tua per omnes
           dies vitae suae</quote>? Et quae vita eius nisi tu? Et qui dies tui nisi aeternitas tua, sicut
           anni tui, qui non deficiunt, quia idem ipse es? Hinc ergo intellegat anima, quae
           potest, quam longe super omnia tempora sis aeternus, quando tua domus, quae peregrinata
@@ -239,8 +239,8 @@
           exhibere vices temporum? Omnino enim non potest, quia sine varietate motionum non sunt
           tempora: et nulla varietas, ubi nulla species.</p>
         </div>
-        <div>
-          <head>12</head>
+        <div xml:id="aconf-l12-Dd1e245">
+          <head xml:id="aconf-l12-Hd1e247">12</head>
         <!--Duae creaturae carent temporibus.-->
         <p xml:id="aconf-l12-d1e174" n="15">Quibus consideratis, quantum donas, Deus meus, quantum me ad pulsandum excitas
           quantumque pulsanti aperis, duo reperio, quae fecisti carentia temporibus, cum tibi
@@ -257,10 +257,10 @@
           sunt, ut in eis agantur vicissitudines temporum propter ordinatas commutationes motionum
           atque formarum.</p>
         </div>
-        <div>
-          <head>13</head>
+        <div xml:id="aconf-l12-Dd1e255">
+          <head xml:id="aconf-l12-Hd1e257">13</head>
         <!--Caelum intellectuale et terra informis extra tempus facta sunt.-->
-        <p xml:id="aconf-l12-d1e180" n="16">Hoc interim sentio, Deus meus, cum audio loquentem Scripturam tuam: <quote source="http://scta.info/resource/gen1_1@1-7 http://scta.info/resource/gen1_2@1-11">In principio
+        <p xml:id="aconf-l12-d1e180" n="16">Hoc interim sentio, Deus meus, cum audio loquentem Scripturam tuam: <quote xml:id="aconf-l12-Qd1e263" source="http://scta.info/resource/gen1_1@1-7 http://scta.info/resource/gen1_2@1-11">In principio
           fecit Deus caelum et terram; terra autem erat invisibilis et incomposita et tenebrae erant
           super abyssum</quote>, neque commemorantem, quoto die feceris haec. Sic interim sentio propter
           illud caelum caeli, caelum intellectuale, ubi est intellectus nosse simul, non ex
@@ -270,13 +270,13 @@
           temporum, quae solet habere modo hoc et modo illud, quia ubi nulla species, nusquam est
           hoc et illud; propter duo haec, primitus formatum et penitus informe, illud caelum, sed
           caelum caeli, hoc vero terram, sed terram invisibilem et incompositam, propter duo haec
-          interim sentio sine commemoratione dierum dicere Scripturam tuam: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus
+          interim sentio sine commemoratione dierum dicere Scripturam tuam: <quote xml:id="aconf-l12-Qd1e266" source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus
           caelum et terram</quote>. Statim quippe subiecit, quam terram dixerit. Et quod secundo die
           commemoratur factum firmamentum et vocatum caelum, insinuat, de quo caelo prius sine
           diebus sermo locutus sit.</p>
         </div>
-        <div>
-          <head>14</head>
+        <div xml:id="aconf-l12-Dd1e271">
+          <head xml:id="aconf-l12-Hd1e273">14</head>
         <!--Diversa possunt intellegi in verbis Scripturae sanctae-->
         <!--Mira est profunditas eloquiorum Dei.-->
         <p xml:id="aconf-l12-d1e187" n="17">Mira profunditas eloquiorum tuorum, quorum ecce ante nos superficies blandiens
@@ -288,8 +288,8 @@
           voluit intellegi, quod tu dicis, sed aliud, quod nos dicimus". Quibus ego te arbitro, Deus
           omnium nostrum, ita respondeo.</p>
         </div>
-        <div>
-          <head>15</head>
+        <div xml:id="aconf-l12-Dd1e283">
+          <head xml:id="aconf-l12-Hd1e285">15</head>
         <!--Pater quidem:- Deum esse aeternum;-->
         <p xml:id="aconf-l12-d1e192" n="18">Num dicetis falsa esse, quae mihi
           veritas voce forti in aurem interiorem dicit de vera aeternitate Creatoris, quod nequaquam
@@ -314,9 +314,9 @@
           Deus, diligenti te, quantum praecipis, ostendis ei te et sufficis ei, et ideo non
           declinat a te nec ad se? Haec est domus Dei non terrena neque ulla caelesti mole
           corporea, sed spiritalis et particeps aeternitatis tuae, quia sine labe in aeternum.
-          <quote source="http://scta.info/resource/ps148_6@1-13">Statuisti enim eam in saeculum et in saeculum saeculi; praeceptum posuisti et non
+          <quote xml:id="aconf-l12-Qd1e296" source="http://scta.info/resource/ps148_6@1-13">Statuisti enim eam in saeculum et in saeculum saeculi; praeceptum posuisti et non
           praeteribit</quote>. Nec tamen tibi coaeterna, quoniam non sine initio: facta est enim.</p>
-        <p xml:id="aconf-l12-d1e201" n="20">Nam etsi non invenimus tempus ante illam (<quote source="http://scta.info/resource/sir1_4@1-5">prior quippe omnium creata est
+        <p xml:id="aconf-l12-d1e201" n="20">Nam etsi non invenimus tempus ante illam (<quote xml:id="aconf-l12-Qd1e303" source="http://scta.info/resource/sir1_4@1-5">prior quippe omnium creata est
           sapientia</quote>) nec utique illa Sapientia tibi, Deus noster, Patri suo, plane coaeterna et
           aequalis et per quam creata sunt omnia et in quo principio fecisti caelum et terram,
           sed profecto Sapientia, quae creata est, intellectualis natura scilicet, quae
@@ -324,10 +324,10 @@
           quantum interest inter lumen, quod illuminat et quod illuminatur, tantum inter Sapientiam,
           quae creat, et istam, quae creata est, sicut inter iustitiam iustificantem et iustitiam,
           quae iustificatione facta est; nam et nos dicti sumus iustitia tua; ait enim quidam servus
-          tuus: <quote source="http://scta.info/resource/IIcor5_21@10-16">Ut nos simus iustitia Dei in ipso</quote>) ergo quia prior omnium creata est quaedam
+          tuus: <quote xml:id="aconf-l12-Qd1e306" source="http://scta.info/resource/IIcor5_21@10-16">Ut nos simus iustitia Dei in ipso</quote>) ergo quia prior omnium creata est quaedam
           sapientia, quae creata est, mens rationalis et intellectualis castae civitatis tuae,
-          matris nostrae, <quote source="http://scta.info/resource/gal4_26@1-8">quae sursum est et libera est</quote> et aeterna in caelis (quibus caelis,
-          nisi qui te laudant caeli caelorum, quia hoc est et <quote source="http://scta.info/resource/ps113_24@1-3">caelum caeli Domino</quote>?) Etsi non
+          matris nostrae, <quote xml:id="aconf-l12-Qd1e309" source="http://scta.info/resource/gal4_26@1-8">quae sursum est et libera est</quote> et aeterna in caelis (quibus caelis,
+          nisi qui te laudant caeli caelorum, quia hoc est et <quote xml:id="aconf-l12-Qd1e312" source="http://scta.info/resource/ps113_24@1-3">caelum caeli Domino</quote>?) Etsi non
           invenimus tempus ante illam, quia et creaturam temporis antecedit, quae prior omnium
           creata est, ante illam tamen est ipsius Creatoris aeternitas, a quo facta sumpsit
           exordium, quamvis non temporis, quia nondum erat tempus, ipsius tamen conditionis
@@ -337,9 +337,9 @@
           videre nec uspiam deflectitur ab ea; quo fit, ut nulla mutatione varietur. Inest ei
           tamen ipsa mutabilitas, unde tenebresceret et frigesceret, nisi amore grandi tibi
           cohaerens tamquam semper meridies luceret et ferveret ex te. O domus luminosa et
-          speciosa, <quote source="http://scta.info/resource/ps25_8@2-10">dilexi decorem tuum et locum habitationis gloriae Domini mei</quote>, fabricatoris et
+          speciosa, <quote xml:id="aconf-l12-Qd1e318" source="http://scta.info/resource/ps25_8@2-10">dilexi decorem tuum et locum habitationis gloriae Domini mei</quote>, fabricatoris et
           possessoris tui! Tibi suspiret peregrinatio mea, et dico ei qui fecit te, ut possideat et
-          me in te, quia fecit et me. <quote source="http://scta.info/resource/ps118_176@1-5">Erravi sicut ovis perdita</quote>, sed in umeris pastoris mei,
+          me in te, quia fecit et me. <quote xml:id="aconf-l12-Qd1e321" source="http://scta.info/resource/ps118_176@1-5">Erravi sicut ovis perdita</quote>, sed in umeris pastoris mei,
           structoris tui, spero me reportari tibi.</p> 
         <!--- has duas creaturas extra tempus esse.-->
           <p xml:id="aconf-l12-d1e209" n="22">Quid dicitis mihi quos alloquebar contradictores, qui tamen et Moysen pium
@@ -354,8 +354,8 @@
           utique erat, a quo est quidquid est, quod utcumque aliquid est. "Hoc quoque, aiunt, non
           negamus".</p>
         </div>
-        <div>
-          <head>16</head>
+        <div xml:id="aconf-l12-Dd1e331">
+          <head xml:id="aconf-l12-Hd1e333">16</head>
         <!--Cum quibus hominibus Augustinus loquatur.-->
         <p xml:id="aconf-l12-d1e215" n="23">Cum his enim volo coram te aliquid colloqui, Deus meus, qui haec omnia, quae
           intus in mente mea non tacet veritas tua, vera esse concedunt. Nam qui haec negant,
@@ -369,18 +369,18 @@
           castas et fortes delicias et solidum gaudium et omnia bona ineffabilia, simul omnia, quia
           unum summum et verum bonum: et non avertar, donec in eius pacem, matris carissimae, ubi
           sunt primitiae spiritus mei, unde ista mihi certa sunt, colligas totum quod sum a
-          dispersione et deformitate hac et conformes atque confirmes in aeternum, <quote source="http://scta.info/resource/ps58_18@10-13">Deus meus,
+          dispersione et deformitate hac et conformes atque confirmes in aeternum, <quote xml:id="aconf-l12-Qd1e339" source="http://scta.info/resource/ps58_18@10-13">Deus meus,
           misericordia mea</quote>. Cum his autem, qui cuncta illa, quae vera sunt, falsa esse non dicunt
           honorantes et in culmine sequendae auctoritatis nobiscum constituentes illam per sanctum
           Moysen editam sanctam Scripturam tuam, et tamen nobis aliquid contradicunt, ita loquor. Tu
           esto, Deus noster, arbiter inter confessiones meas et contradictiones eorum.</p>
         </div>
-        <div>
-          <head>17</head>
+        <div xml:id="aconf-l12-Dd1e345">
+          <head xml:id="aconf-l12-Hd1e347">17</head>
         <!--Nomina caeli et terrae significantur - totus mundus; --> 
           <p xml:id="aconf-l12-d1e220" n="24">Dicunt enim:
           "Quamvis vera sint haec, non ea tamen duo Moyses intuebatur, cum revelante Spiritu
-          diceret: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et terram</quote>. Non caeli nomine spiritalem vel
+          diceret: <quote xml:id="aconf-l12-Qd1e353" source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et terram</quote>. Non caeli nomine spiritalem vel
           intellectualem illam creaturam semper faciem Dei contemplantem significavit nec terrae
           nomine informem materiam". Quid igitur? "Quod nos dicimus, inquiunt, hoc ille vir sensit,
           hoc verbis istis elocutus est". Quid illud est? "Nomine, aiunt, caeli et terrae totum
@@ -411,17 +411,17 @@
         <!--- inchoatio et materia creabilis rerum.--> 
         <p xml:id="aconf-l12-d1e231" n="26">Est adhuc quod dicat, si quis alius velit, non scilicet iam perfectas
           atque formatas invisibiles visibilesque naturas caeli et terrae nomine significari, cum
-          legitur: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et terram</quote>, sed ipsam adhuc informem inchoationem
+          legitur: <quote xml:id="aconf-l12-Qd1e367" source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et terram</quote>, sed ipsam adhuc informem inchoationem
           rerum formabilem creabilemque materiam his nominibus appellatam, quod in ea iam essent
           ista confusa, nondum qualitatibus formisque distincta, quae nunc iam digesta suis
           ordinibus vocantur caelum et terra, illa spiritalis, haec corporalis creatura.</p>
         </div>
-        <div>
-          <head>18</head>
+        <div xml:id="aconf-l12-Dd1e372">
+          <head xml:id="aconf-l12-Hd1e374">18</head>
         <!--Alius aliud verum in Scripturis sanctis potest percipere.-->
-        <p xml:id="aconf-l12-d1e236" n="27">Quibus omnibus auditis et consideratis <quote source="http://scta.info/resource/IItim2_14@6-14">nolo verbis contendere; ad nihil enim
-          utile est nisi ad subversionem audientium</quote>. Ad aedificationem autem <quote source="http://scta.info/resource/Itim1_8@4-11">bona est lex, si
-          quis ea legitime utatur</quote>, quia <quote source="http://scta.info/resource/Itim1_5@1-15">finis eius est caritas de corde puro et conscientia bona et
+        <p xml:id="aconf-l12-d1e236" n="27">Quibus omnibus auditis et consideratis <quote xml:id="aconf-l12-Qd1e380" source="http://scta.info/resource/IItim2_14@6-14">nolo verbis contendere; ad nihil enim
+          utile est nisi ad subversionem audientium</quote>. Ad aedificationem autem <quote xml:id="aconf-l12-Qd1e383" source="http://scta.info/resource/Itim1_8@4-11">bona est lex, si
+          quis ea legitime utatur</quote>, quia <quote xml:id="aconf-l12-Qd1e386" source="http://scta.info/resource/Itim1_5@1-15">finis eius est caritas de corde puro et conscientia bona et
           fide non ficta</quote>; et novi magister noster in quibus duobus praeceptis totam Legem
           Prophetasque suspenderit. Quae mihi ardenter confitenti, Deus meus, lumen oculorum
           meorum in occulto, quid mihi obest, cum diversa in his verbis intellegi possint, quae
@@ -433,8 +433,8 @@
           est, si hoc sentiat, quod tu, lux omnium veridicarum mentium, ostendis verum esse, etiamsi
           non hoc sensit ille, quem legit, cum et ille verum nec tamen hoc senserit?</p>
         </div>
-        <div>
-          <head>19</head>
+        <div xml:id="aconf-l12-Dd1e391">
+          <head xml:id="aconf-l12-Hd1e393">19</head>
         <!--Quaedam profecto vera.-->
         <p xml:id="aconf-l12-d1e241" n="28">Verum est enim, Domine, fecisse te caelum et terram. Et verum est esse
           principium Sapientiam tuam, in qua fecisti omnia. Item verum est, quod mundus iste
@@ -450,59 +450,59 @@
           atque formabile est tu fecisti, ex quo sunt omnia. Verum est omne, quod ex informi
           formatur, prius esse informe, deinde formatum.</p>
         </div>
-        <div>
-          <head>20</head>
+        <div xml:id="aconf-l12-Dd1e401">
+          <head xml:id="aconf-l12-Hd1e403">20</head>
         <!--Quaedam recte enarrata de verbis: In principio.-->
         <p xml:id="aconf-l12-d1e247" n="29">Ex his omnibus veris, de quibus non dubitant, quorum interiori oculo talia videre
           donasti et qui Moysen, famulum tuum, in spiritu veritatis locutum esse immobiliter
-          credunt, ex his ergo omnibus aliud sibi tollit qui dicit: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum
+          credunt, ex his ergo omnibus aliud sibi tollit qui dicit: <quote xml:id="aconf-l12-Qd1e409" source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum
           et terram</quote>, id est in Verbo suo sibi coaeterno fecit Deus intellegibilem atque
-          sensibilem vel spiritalem corporalemque creaturam, aliud qui dicit: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit
+          sensibilem vel spiritalem corporalemque creaturam, aliud qui dicit: <quote xml:id="aconf-l12-Qd1e412" source="http://scta.info/resource/gen1_1@1-7">In principio fecit
           Deus caelum et terram</quote>, id est in Verbo suo sibi coaeterno fecit Deus universam istam molem
           corporei mundi huius cum omnibus quas continet manifestis notisque naturis; aliud qui
-          dicit: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et terram</quote>, id est in Verbo suo sibi coaeterno fecit
-          informem materiam creaturae spiritalis et corporalis; aliud qui dicit: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit
+          dicit: <quote xml:id="aconf-l12-Qd1e415" source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et terram</quote>, id est in Verbo suo sibi coaeterno fecit
+          informem materiam creaturae spiritalis et corporalis; aliud qui dicit: <quote xml:id="aconf-l12-Qd1e418" source="http://scta.info/resource/gen1_1@1-7">In principio fecit
           Deus caelum et terram</quote>, id est in Verbo suo sibi coaeterno fecit Deus informem materiam
           creaturae corporalis, ubi confusum adhuc erat caelum et terra, quae nunc iam distincta
-          atque formata in istius mundi mole sentimus; aliud qui dicit: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus
+          atque formata in istius mundi mole sentimus; aliud qui dicit: <quote xml:id="aconf-l12-Qd1e421" source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus
           caelum et terram</quote>, id est in ipso exordio faciendi atque operandi fecit Deus informem
           materiam confuse habentem caelum et terram, unde formata nunc eminent et apparent cum
           omnibus, quae in eis sunt.</p>
         </div>
-        <div>
-          <head>21</head>
+        <div xml:id="aconf-l12-Dd1e426">
+          <head xml:id="aconf-l12-Hd1e428">21</head>
         <!--Quaedam recte enarrata de terra incomposita et abysso.-->
         <p xml:id="aconf-l12-d1e252" n="30">Item quod attinet ad intellectum verborum sequentium, ex illis omnibus veris
-          aliud sibi tollit, qui dicit: <quote source="http://scta.info/resource/gen1_2@1-11">Terra autem erat invisibilis et incomposita, et tenebrae
+          aliud sibi tollit, qui dicit: <quote xml:id="aconf-l12-Qd1e434" source="http://scta.info/resource/gen1_2@1-11">Terra autem erat invisibilis et incomposita, et tenebrae
           erant super abyssum</quote>, id est corporale illud, quod fecit Deus, adhuc materies erat
-          corporearum rerum informis, sine ordine, sine luce; aliud qui dicit: <quote source="http://scta.info/resource/gen1_2@1-11">Terra autem erat
+          corporearum rerum informis, sine ordine, sine luce; aliud qui dicit: <quote xml:id="aconf-l12-Qd1e437" source="http://scta.info/resource/gen1_2@1-11">Terra autem erat
           invisibilis et incomposita, et tenebrae erant super abyssum</quote>, id est hoc totum, quod caelum
           et terra appellatum est, adhuc informis et tenebrosa materies erat, unde fieret caelum
           corporeum et terra corporea cum omnibus quae in eis sunt corporeis sensibus nota; aliud
-          qui dicit: <quote source="http://scta.info/resource/gen1_2@1-11">Terra autem erat invisibilis et incomposita, et tenebrae erant super abyssum</quote>,
+          qui dicit: <quote xml:id="aconf-l12-Qd1e440" source="http://scta.info/resource/gen1_2@1-11">Terra autem erat invisibilis et incomposita, et tenebrae erant super abyssum</quote>,
           id est hoc totum, quod caelum et terra appellatum est, adhuc informis et tenebrosa
           materies erat, unde fieret caelum intellegibile (quod alibi dicitur caelum caeli) et
           terra, scilicet omnis natura corporea, sub quo nomine intellegatur etiam hoc caelum
           corporeum, id est unde fieret omnis invisibilis visibilisque creatura; aliud qui dicit:
-          <quote source="http://scta.info/resource/gen1_2@1-11">Terra autem erat invisibilis et incomposita, et tenebrae erant super abyssum</quote>, non illam
+          <quote xml:id="aconf-l12-Qd1e443" source="http://scta.info/resource/gen1_2@1-11">Terra autem erat invisibilis et incomposita, et tenebrae erant super abyssum</quote>, non illam
           informitatem nomine caeli et terrae Scriptura appellavit, sed iam erat, inquit, ipsa
           informitas, quam terram invisibilem et incompositam tenebrosamque abyssum nominavit, de
           qua caelum et terram Deum fecisse praedixerat, spiritalem scilicet corporalemque
-          creaturam; aliud qui dicit: <quote source="http://scta.info/resource/gen1_2@1-11">Terra autem erat invisibilis et incomposita, et tenebrae erant
+          creaturam; aliud qui dicit: <quote xml:id="aconf-l12-Qd1e446" source="http://scta.info/resource/gen1_2@1-11">Terra autem erat invisibilis et incomposita, et tenebrae erant
           super abyssum</quote>, id est informitas quaedam iam materies erat, unde caelum et terram Deum
           fecisse Scriptura praedixit, totam scilicet corpoream mundi molem in duas maximas partes
           superiorem atque inferiorem distributam cum omnibus quae in eis sunt usitatis notisque
           creaturis.</p>
         </div>
-        <div>
-          <head>22</head>
+        <div xml:id="aconf-l12-Dd1e451">
+          <head xml:id="aconf-l12-Hd1e453">22</head>
         <!--Scriptura non commemoravit multa a Deo facta.-->
         <p xml:id="aconf-l12-d1e257" n="31">Cum enim duabus istis extremis sententiis resistere quisquam ita temptaverit: "Si
           non vultis hanc informitatem materiae caeli et terrae nomine appellatam videri, erat ergo
           aliquid, quod non fecerat Deus, unde caelum et terram faceret; neque enim Scriptura
           narravit, quod istam materiem Deus fecerit, nisi intellegamus eam caeli et terrae aut
-          solius terrae vocabulo significatam, cum diceretur: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et
-          terram</quote>, ut id, quod sequitur: <quote source="http://scta.info/resource/gen1_2@1-6">Terra autem erat invisibilis et incomposita</quote>, quamvis
+          solius terrae vocabulo significatam, cum diceretur: <quote xml:id="aconf-l12-Qd1e459" source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et
+          terram</quote>, ut id, quod sequitur: <quote xml:id="aconf-l12-Qd1e462" source="http://scta.info/resource/gen1_2@1-6">Terra autem erat invisibilis et incomposita</quote>, quamvis
           informem materiam sic placuerit appellare, non tamen intellegamus nisi eam, quam fecit
           Deus in eo, quod praescriptum est: fecit caelum et terram", respondebunt assertores duarum
           istarum sententiarum, quas extremas posuimus, aut illius aut illius, cum haec audierint,
@@ -510,7 +510,7 @@
           bona valde, quia, sicut dicimus amplius bonum esse quod creatum atque formatum est, ita
           fatemur minus bonum esse quod factum est creabile atque formabile, sed tamen bonum: non
           autem commemorasse Scripturam, quod hanc informitatem fecerit Deus, sicut alia multa non
-          commemoravit, ut Cherubim et Seraphim, et quae Apostolus distincte ait: <quote source="http://scta.info/resource/col1_16@15-22">Sedes,
+          commemoravit, ut Cherubim et Seraphim, et quae Apostolus distincte ait: <quote xml:id="aconf-l12-Qd1e465" source="http://scta.info/resource/col1_16@15-22">Sedes,
           Dominationes, Principatus, Potestates</quote>, quae tamen omnia Deum fecisse manifestum est.
           Aut si eo, quod dictum est: Fecit caelum et terram, comprehensa sunt omnia, quid de aquis
           dicimus, super quas ferebatur spiritus Dei? Si enim terra nominata simul intelleguntur,
@@ -518,7 +518,7 @@
           ? Aut si ita accipitur, cur ex eadem informitate scriptum est factum firmamentum et
           vocatum caelum, neque scriptum est factas esse aquas? Non enim adhuc informes sunt et
           invisae, quas ita decora specie fluere cernimus. Aut si tunc acceperunt istam speciem, cum
-          dixit Deus: <quote source="http://scta.info/resource/gen1_9@4-9">Congregetur aqua, quae est sub firmamento</quote>, ut congregatio sit ipsa
+          dixit Deus: <quote xml:id="aconf-l12-Qd1e468" source="http://scta.info/resource/gen1_9@4-9">Congregetur aqua, quae est sub firmamento</quote>, ut congregatio sit ipsa
           formatio, quid respondebitur de aquis, quae super firmamentum sunt, quia neque
           informes tam honorabilem sedem accipere meruissent nec scriptum est, qua voce formatae
           sint? Unde si aliquid Genesis tacuit Deum fecisse quod tamen Deum fecisse nec sana fides
@@ -529,8 +529,8 @@
           ex Deo factam esse de nihilo ideoque illi non esse coaeternam, quamvis ubi facta sit
           omiserit enuntiare ista narratio?".</p>
         </div>
-        <div>
-          <head>23</head>
+        <div xml:id="aconf-l12-Dd1e474">
+          <head xml:id="aconf-l12-Hd1e476">23</head>
         <!--Duo genera dissensionum.-->
         <p xml:id="aconf-l12-d1e263" n="32">His ergo auditis atque perspectis pro captu infirmitatis meae, quam tibi
           confiteor scienti Deo meo, duo video dissensionum genera oboriri posse, cum aliquid a
@@ -544,17 +544,17 @@
           accedamus simul ad verba libri tui et quaeramus in eis voluntatem tuam per voluntatem
           famuli tui, cuius calamo dispensasti ea.</p>
         </div>
-        <div>
-          <head>24</head>
+        <div xml:id="aconf-l12-Dd1e484">
+          <head xml:id="aconf-l12-Hd1e486">24</head>
         <!--Quid veri Moyses sensit haec verba scribens?-->
         <p xml:id="aconf-l12-d1e268" n="33">Sed quis nostrum sic invenit eam inter tam multa vera, quae in illis verbis
           aliter atque aliter intellectis occurrunt quaerentibus, ut tam fidenter dicat hoc sensisse
           Moysen atque hoc in illa narratione voluisse intellegi, quam fidenter dicit hoc verum
           esse, sive ille hoc senserit sive aliud? Ecce enim, Deus meus, ego servus tuus, qui vovi
-          tibi sacrificium confessionis in his litteris et oro, ut ex misericordia tua <quote source="http://scta.info/resource/ps65_13@7-10">reddam tibi
+          tibi sacrificium confessionis in his litteris et oro, ut ex misericordia tua <quote xml:id="aconf-l12-Qd1e492" source="http://scta.info/resource/ps65_13@7-10">reddam tibi
           vota mea</quote>, ecce ego quam fidenter dico in tuo Verbo incommutabili omnia te fecisse,
           invisibilia et visibilia, numquid tam fidenter dico non aliud quam hoc attendisse Moysen,
-          cum scriberet: <quote source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et terram</quote>, quia non, sicut in tua
+          cum scriberet: <quote xml:id="aconf-l12-Qd1e495" source="http://scta.info/resource/gen1_1@1-7">In principio fecit Deus caelum et terram</quote>, quia non, sicut in tua
           veritate hoc certum video, ita in eius mente video id eum cogitasse, cum haec scriberet?
           Potuit enim cogitare in ipso faciendi exordio, cum diceret: in principio; potuit et caelum
           et terram hoc loco nullam iam formatam perfectamque naturam sive spiritalem sive
@@ -564,8 +564,8 @@
           tantus vir ille mente conspexerit, cum haec verba promeret, verum eum vidisse apteque id
           enuntiavisse non dubitem.</p>
         </div>
-        <div>
-          <head>25</head>
+        <div xml:id="aconf-l12-Dd1e500">
+          <head xml:id="aconf-l12-Hd1e502">25</head>
         <!--Superbia et temeritas nonnullorum interpretum Scripturae.-->
         <p xml:id="aconf-l12-d1e273" n="34">Nemo iam mihi molestus sit dicendo mihi: "Non hoc sensit Moyses, quod tu
           dicis, sed hoc sensit, quod ego dico". Si enim mihi diceret: "Unde scis hoc sensisse
@@ -598,8 +598,8 @@
           ergo de ipsa Domini Dei nostri luce non contendamus, cur de proximi cogitatione
           contendimus, quam sic videre non possumus, ut videtur incommutabilis veritas, quando, si
           ipse Moyses apparuisset nobis atque dixisset: "Hoc cogitavi", nec sic eam videremus, sed
-          crederemus? Non itaque <quote source="http://scta.info/resource/Icor4_6@15-25">supra quam scriptum est unus pro altero infletur adversus alterum</quote>
-         . <quote source="http://scta.info/resource/mt22_37@4-21 http://scta.info/resource/mt22_39@6-11">Diligamus Dominum Deum nostrum ex toto corde, ex tota anima, ex tota mente nostra et
+          crederemus? Non itaque <quote xml:id="aconf-l12-Qd1e513" source="http://scta.info/resource/Icor4_6@15-25">supra quam scriptum est unus pro altero infletur adversus alterum</quote>
+         . <quote xml:id="aconf-l12-Qd1e516" source="http://scta.info/resource/mt22_37@4-21 http://scta.info/resource/mt22_39@6-11">Diligamus Dominum Deum nostrum ex toto corde, ex tota anima, ex tota mente nostra et
           proximum nostrum sicut nosmetipsos</quote>. Propter quae duo praecepta caritatis sensisse
           Moysen, quidquid in illis libris sensit, nisi crediderimus, mendacem faciemus Dominum,
           cum de animo conservi aliter quam ille docuit opinamur. Iam vide, quam stultum sit in
@@ -607,8 +607,8 @@
           affirmare, quam earum Moyses potissimum senserit, et perniciosis contentionibus ipsam
           offendere caritatem, propter quam dixit omnia, cuius dicta conamur exponere.</p>
         </div>
-        <div>
-          <head>26</head>
+        <div xml:id="aconf-l12-Dd1e521">
+          <head xml:id="aconf-l12-Hd1e523">26</head>
         <!--Quid Augustinus vellet, si tunc esset quod Moyses fuit.-->
         <p xml:id="aconf-l12-d1e284" n="36">Et tamen ego, Deus meus, celsitudo humilitatis meae et requies laboris mei, qui
           audis confessiones meas et dimittis peccata mea, quoniam tu mihi praecipis, ut diligam
@@ -626,8 +626,8 @@
           famuli reperirent, et si alius aliam vidisset in luce veritatis, nec ipsa in eisdem verbis
           intellegenda deesset.</p>
         </div>
-        <div>
-          <head>27</head>
+        <div xml:id="aconf-l12-Dd1e531">
+          <head xml:id="aconf-l12-Hd1e533">27</head>
         <!--Parvulorum infirmitas et fides salubris.-->
         <p xml:id="aconf-l12-d1e289" n="37">Sicut enim fons in parvo loco uberior est pluribusque rivis in ampliora spatia
           fluxum ministrat quam quilibet eorum rivorum, qui per multa locorum ab eodem fonte
@@ -648,8 +648,8 @@
           Deus, miserere, ne implumem pullum conculcent qui transeunt viam, et mitte angelum
           tuum, qui eum reponat in nido, ut vivat, donec volet.</p>
         </div>
-        <div>
-          <head>28</head>
+        <div xml:id="aconf-l12-Dd1e541">
+          <head xml:id="aconf-l12-Hd1e543">28</head>
         <!--Doctorum scientia et gaudium.-->
         <p xml:id="aconf-l12-d1e295" n="38">Alii vero, quibus haec verba non iam nidus, sed opaca fruteta sunt, vident in eis
           latentes fructus et volitant laetantes et garriunt scrutantes et carpunt eos. Vident enim,
@@ -678,8 +678,8 @@
           vocari hoc loco credunt, sed alius invisibilem atque visibilem, alius solam visibilem, in
           qua luminosum caelum suspicimus et terram caliginosam quaeque in eis sunt.</p>
         </div>
-        <div>
-          <head>29</head>
+        <div xml:id="aconf-l12-Dd1e557">
+          <head xml:id="aconf-l12-Hd1e559">29</head>
         <!--Materia primo facta.-->
         <p xml:id="aconf-l12-d1e305" n="40">At ille, qui non aliter accipit: In principio fecit, quam si diceretur: primo
           fecit, non habet quomodo veraciter intellegat caelum et terram, nisi materiam caeli et
@@ -716,8 +716,8 @@
           extremior, quia profecto meliora sunt formata quam informia, et praecedatur aeternitate
           Creatoris, ut esset de nihilo, unde aliquid fieret.</p>
         </div>
-        <div>
-          <head>30</head>
+        <div xml:id="aconf-l12-Dd1e567">
+          <head xml:id="aconf-l12-Hd1e569">30</head>
         <!--Consequentia-->
         <!--In diversitate sententiarum sit concordia animorum et amor veritatis.-->
         <p xml:id="aconf-l12-d1e313" n="41">In hac diversitate sententiarum verarum concordiam pariat ipsa veritas, et Deus
@@ -732,8 +732,8 @@
           ita honoremus, ut hoc eum te revelante, cum haec scriberet, attendisse credamus, quod in
           eis maxime et luce veritatis et fruge utilitatis excellit. </p>
         </div>
-        <div>
-          <head>31</head>
+        <div xml:id="aconf-l12-Dd1e579">
+          <head xml:id="aconf-l12-Hd1e581">31</head>
         <!--Plurima sensit Moyses.-->
         <p xml:id="aconf-l12-d1e318" n="42">Ita cum alius dixerit: "Hoc sensit, quod ego", et alius: "Immo illud, quod ego",
           religiosius me arbitror dicere: Cur non utrumque potius, si utrumque verum est? Et si quid
@@ -748,11 +748,11 @@
           invenire et quidquid nos non potuimus aut nondum potuimus et tamen in eis inveniri
           potest.</p>
         </div>
-        <div>
-          <head>32</head>
+        <div xml:id="aconf-l12-Dd1e589">
+          <head xml:id="aconf-l12-Hd1e591">32</head>
         <!--Deus nos pascat, non error illudat.-->
         <p xml:id="aconf-l12-d1e323" n="43">Postremo, Domine, qui Deus es et non caro et sanguis, si quid homo minus
-          vidit, numquid et <quote source="http://scta.info/resource/ps142_10@11-18">spiritum tuum bonum, qui deducet me in terram rectam</quote>, latere potuit,
+          vidit, numquid et <quote xml:id="aconf-l12-Qd1e597" source="http://scta.info/resource/ps142_10@11-18">spiritum tuum bonum, qui deducet me in terram rectam</quote>, latere potuit,
           quidquid eras in eis verbis tu ipse revelaturus legentibus posteris, etiamsi ille, per
           quem dicta sunt, unam fortassis ex multis veris sententiam cogitavit? Quod si ita est, sit
           igitur illa quam cogitavit ceteris excelsior. Nobis autem, Domine, aut ipsam demonstras

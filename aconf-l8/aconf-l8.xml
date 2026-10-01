@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,8 +19,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
           </p>
         </availability>
       </publicationStmt>
@@ -32,8 +30,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,16 +51,16 @@
     <body>
       <div xml:id="aconf-l8">
         <head xml:id="aconf-l8-Hd1e97">Liber 8</head>
-        <div>
-          <head>1</head>
+        <div xml:id="aconf-l8-Dd1e95">
+          <head xml:id="aconf-l8-Hd1e9a">1</head>
         <!--Simplicianus servus Dei.-->
         <p xml:id="aconf-l8-d1e102" n="1">Deus meus, recorder in gratiarum actione tibi et confitear
-          misericordias tuas super me. Perfundantur ossa mea dilectione tua et <quote source="http://scta.info/resource/ps34_10@1-8">dicant: Domine,
-          quis similis tibi?</quote> <quote source="http://scta.info/resource/ps115_7@14-16 http://scta.info/resource/ps115_8@1-4">Dirupisti vincula mea: sacrificem tibi sacrificium laudis</quote>. Quomodo
+          misericordias tuas super me. Perfundantur ossa mea dilectione tua et <quote xml:id="aconf-l8-Qd1e103" source="http://scta.info/resource/ps34_10@1-8">dicant: Domine,
+          quis similis tibi?</quote> <quote xml:id="aconf-l8-Qd1e106" source="http://scta.info/resource/ps115_7@14-16 http://scta.info/resource/ps115_8@1-4">Dirupisti vincula mea: sacrificem tibi sacrificium laudis</quote>. Quomodo
           dirupisti ea, narrabo, et dicent omnes, qui adorant te, cum audiunt haec: Benedictus
           Dominus in caelo et in terra; magnum et mirabile nomen eius. Inhaeserant praecordiis
           meis verba tua, et undique circumvallabar abs te. De vita tua aeterna certus eram,
-          quamvis eam <quote source="http://scta.info/resource/Icor13_12@3-6">in aenigmate et quasi per speculum</quote> videram; dubitatio tamen omnis de
+          quamvis eam <quote xml:id="aconf-l8-Qd1e109" source="http://scta.info/resource/Icor13_12@3-6">in aenigmate et quasi per speculum</quote> videram; dubitatio tamen omnis de
           incorruptibili substantia, quod ab illa esset omnis substantia, ablata mihi erat, nec
           certior de te, sed stabilior in te esse cupiebam. De mea vero temporali vita nutabant
           omnia et mundandum erat cor a fermento veteri; et placebat via ipse Salvator et ire per
@@ -86,19 +83,19 @@
           in ceteris languidus et tabescens curis marcidis, quod et in aliis rebus, quas nolebam
           pati, congruere cogebar vitae coniugali, cui deditus obstringebar. Audieram ex ore
           veritatis esse spadones, qui se ipsos absciderunt propter regnum caelorum; sed, qui
-          potest, inquit, capere, capiat. <quote source="http://scta.info/resource/sap13_1@1-22">Vani sunt certe omnes homines, quibus non inest Dei
+          potest, inquit, capere, capiat. <quote xml:id="aconf-l8-Qd1e117" source="http://scta.info/resource/sap13_1@1-22">Vani sunt certe omnes homines, quibus non inest Dei
           scientia, nec de his, quae videntur bona, potuerunt invenire eum, qui est</quote>. At ego iam
           non eram in illa vanitate; transcenderam eam et contestante universa creatura inveneram te
           Creatorem nostrum et Verbum tuum apud te Deum tecumque unum Deum, per quod creasti omnia
-         . Et est aliud genus impiorum, qui <quote source="http://scta.info/resource/rom1_21@2-11">cognoscentes Deum non sicut Deum glorificaverunt aut
-          gratias egerunt</quote>. In hoc quoque incideram, et <quote source="http://scta.info/resource/ps17_36@7-11">dextera tua suscepit me</quote> et inde ablatum
-          posuisti, ubi convalescerem, quia dixisti homini: Ecce pietas est sapientia, et: <quote source="http://scta.info/resource/sir7_5@14-17">Noli
-          velle videri sapiens</quote>, quoniam <quote source="http://scta.info/resource/rom1_22@1-8">dicentes se esse sapientes stulti facti sunt</quote>. Et
+         . Et est aliud genus impiorum, qui <quote xml:id="aconf-l8-Qd1e120" source="http://scta.info/resource/rom1_21@2-11">cognoscentes Deum non sicut Deum glorificaverunt aut
+          gratias egerunt</quote>. In hoc quoque incideram, et <quote xml:id="aconf-l8-Qd1e123" source="http://scta.info/resource/ps17_36@7-11">dextera tua suscepit me</quote> et inde ablatum
+          posuisti, ubi convalescerem, quia dixisti homini: Ecce pietas est sapientia, et: <quote xml:id="aconf-l8-Qd1e126" source="http://scta.info/resource/sir7_5@14-17">Noli
+          velle videri sapiens</quote>, quoniam <quote xml:id="aconf-l8-Qd1e129" source="http://scta.info/resource/rom1_22@1-8">dicentes se esse sapientes stulti facti sunt</quote>. Et
           inveneram iam bonam margaritam, et venditis omnibus, quae haberem, emenda erat, et
           dubitabam.</p>
         </div>
-        <div>
-          <head>2</head>
+        <div xml:id="aconf-l8-Dd1e134">
+          <head xml:id="aconf-l8-Hd1e136">2</head>
         <!--Victorini rhetoris conversio a Simpliciano narrata.-->
         <p xml:id="aconf-l8-d1e113" n="3">Perrexi ergo ad Simplicianum, patrem in accipienda gratia
           tunc episcopi Ambrosii et quem vere ut patrem diligebat. Narravi ei circuitus erroris mei.
@@ -120,7 +117,7 @@
           defensitaverat, non erubuerit esse puer Christi tui et infans fontis tui subiecto collo
           ad humilitatis iugum et edomita fronte ad crucis opprobrium. </p>
 
-        <p xml:id="aconf-l8-d1e116" n="4">O Domine, Domine, <quote source="http://scta.info/resource/ps143_5@1-10">qui inclinasti caelos et descendisti,
+        <p xml:id="aconf-l8-d1e116" n="4">O Domine, Domine, <quote xml:id="aconf-l8-Qd1e145" source="http://scta.info/resource/ps143_5@1-10">qui inclinasti caelos et descendisti,
           tetigisti montes et fumigaverunt</quote>, quibus modis te insinuasti illi pectori? Legebat,
           sicut ait Simplicianus, sanctam Scripturam omnesque christianas litteras investigabat
           studiosissime et perscrutabatur et dicebat Simpliciano non palam, sed secretius et
@@ -138,8 +135,8 @@
           ait Simpliciano, ut ipse narrabat: "Eamus in ecclesiam: christianus volo fieri". At ille
           non se capiens laetitia perrexit cum eo. Ubi autem imbutus est primis instructionis
           sacramentis, non multo post etiam nomen dedit, ut per baptismum regeneraretur mirante
-          Roma, gaudente Ecclesia. <quote source="http://scta.info/resource/ps111_10@1-9">Superbi videbant et irascebantur, dentibus suis stridebant et
-          tabescebant</quote>. Servo autem tuo <quote source="http://scta.info/resource/ps39_5@5-16">Dominus Deus erat spes eius et non respiciebat in
+          Roma, gaudente Ecclesia. <quote xml:id="aconf-l8-Qd1e148" source="http://scta.info/resource/ps111_10@1-9">Superbi videbant et irascebantur, dentibus suis stridebant et
+          tabescebant</quote>. Servo autem tuo <quote xml:id="aconf-l8-Qd1e151" source="http://scta.info/resource/ps39_5@5-16">Dominus Deus erat spes eius et non respiciebat in
           vanitates et insanias mendaces</quote>.</p>
 
         <p xml:id="aconf-l8-d1e119" n="5">Denique ut ventum est ad horam profitendae fidei, quae
@@ -157,17 +154,17 @@
           veracem praeclara fiducia, et volebant eum omnes rapere intro in cor suum. Et rapiebant
           amando et gaudendo: hae rapientium manus erant.</p>
         </div>
-        <div>
-          <head>3</head>
+        <div xml:id="aconf-l8-Dd1e159">
+          <head xml:id="aconf-l8-Hd1e161">3</head>
         <!--Maius est gaudium hominis de maiore periculo liberati.-->
         <p xml:id="aconf-l8-d1e124" n="6">Deus bone, quid agitur in homine, ut plus gaudeat de
           salute desperatae animae et de maiore periculo liberatae, quam si spes ei semper affuisset
-          aut periculum minus fuisset? Etenim tu quoque, misericors Pater, <quote source="http://scta.info/resource/lc15_7@9-22">plus gaudes de uno
+          aut periculum minus fuisset? Etenim tu quoque, misericors Pater, <quote xml:id="aconf-l8-Qd1e167" source="http://scta.info/resource/lc15_7@9-22">plus gaudes de uno
           paenitente quam de nonaginta novem iustis, quibus non opus est paenitentia</quote>. Et nos cum
           magna iucunditate audimus, cum audimus quam exsultantibus pastoris umeris reportetur ovis,
           quae erraverat, et drachma referatur in thesauros tuos collaetantibus vicinis mulieri,
           quae invenit, et lacrimas excutit gaudium sollemnitatis domus tuae, cum legitur in
-          domo tua de minore filio tuo, quoniam <quote source="http://scta.info/resource/lc15_24@5-12">mortuus erat et revixit, perierat et inventus est</quote>
+          domo tua de minore filio tuo, quoniam <quote xml:id="aconf-l8-Qd1e170" source="http://scta.info/resource/lc15_24@5-12">mortuus erat et revixit, perierat et inventus est</quote>
          . Gaudes quippe in nobis et in angelis tuis sancta caritate sanctis. Nam tu semper idem
          , qui ea quae non semper nec eodem modo sunt eodem modo semper nosti omnia.</p>
 
@@ -189,7 +186,7 @@
 
         <p xml:id="aconf-l8-d1e131" n="8">Hoc in turpi et exsecranda laetitia, hoc in ea, quae
           concessa et licita est, hoc in ipsa sincerissima honestate amicitiae, hoc in eo, qui
-          <quote source="http://scta.info/resource/lc15_24@5-12">mortuus erat et revixit, perierat et inventus est</quote>; ubique maius gaudium molestia maiore
+          <quote xml:id="aconf-l8-Qd1e179" source="http://scta.info/resource/lc15_24@5-12">mortuus erat et revixit, perierat et inventus est</quote>; ubique maius gaudium molestia maiore
           praeceditur. Quid est hoc, Domine Deus meus, cum tu aeternum tibi, tu ipse sis gaudium,
           et quaedam de te circa te semper gaudeant? Quid est, quod haec rerum pars alternat defectu
           et profectu, offensionibus et conciliationibus? An is est modus earum, et tantum dedisti
@@ -199,19 +196,19 @@
           mihi, quam excelsus es in excelsis et quam profundus in profundis! Et nusquam recedis,
           et vix redimus ad te.</p>
         </div>
-        <div>
-          <head>4</head>
+        <div xml:id="aconf-l8-Dd1e184">
+          <head xml:id="aconf-l8-Hd1e186">4</head>
         <!--Conversio virorum insignium multis gaudium affert et saluti est.-->
         <p xml:id="aconf-l8-d1e136" n="9">Age, Domine, fac excita et revoca nos, accende et rape,
           fragra, dulcesce: amemus, curramus. Nonne multi ex profundiore Tartaro caecitatis quam
           Victorinus redeunt ad te et accedunt et illuminantur recipientes lumen, quod si qui
-          recipiunt, <quote source="http://scta.info/resource/io1_12@5-10">accipiunt a te potestatem, ut filii tui fiant</quote>? Sed si minus noti sunt
+          recipiunt, <quote xml:id="aconf-l8-Qd1e192" source="http://scta.info/resource/io1_12@5-10">accipiunt a te potestatem, ut filii tui fiant</quote>? Sed si minus noti sunt
           populis, minus de illis gaudent etiam qui noverunt eos. Quando enim cum multis gaudetur,
           et in singulis uberius est gaudium, quia fervefaciunt se et inflammantur ex alterutro.
           Deinde, quod multis noti, multis sunt auctoritati ad salutem et multis praeeunt secuturis,
           ideoque multum de illis et qui eos praecesserunt laetantur, quia non de solis laetantur.
           Absit enim, ut in tabernaculo tuo prae pauperibus accipiantur personae divitum aut prae
-          ignobilibus nobiles, quando potius <quote source="http://scta.info/resource/Icor1_27@12-18 http://scta.info/resource/Icor1_28@1-16">infirma mundi elegisti, ut confunderes fortia, et
+          ignobilibus nobiles, quando potius <quote xml:id="aconf-l8-Qd1e195" source="http://scta.info/resource/Icor1_27@12-18 http://scta.info/resource/Icor1_28@1-16">infirma mundi elegisti, ut confunderes fortia, et
           ignobilia huius mundi elegisti et contemptibilia et ea quae non sunt, tamquam sint, ut ea
           quae sunt evacuares</quote>. Et tamen idem ipse minimus Apostolorum tuorum, per cuius
           linguam tua ista verba sonuisti, cum Paulus pro consul per eius militiam debellata
@@ -222,11 +219,11 @@
           cogitabatur Victorini pectus, quod tamquam inexpugnabile receptaculum diabolus obtinuerat,
           Victorini lingua, quo telo grandi et acuto multos peremerat, abundantius exsultare
           oportuit filios tuos, quia rex noster alligavit fortem, et videbant vasa eius erepta
-          mundari et <quote source="http://scta.info/resource/IItim2_21@9-19">aptari in honorem tuum et fieri utilia Domino ad omne opus bonum</quote>.</p>
+          mundari et <quote xml:id="aconf-l8-Qd1e198" source="http://scta.info/resource/IItim2_21@9-19">aptari in honorem tuum et fieri utilia Domino ad omne opus bonum</quote>.</p>
 
         </div>
-        <div>
-          <head>5</head>
+        <div xml:id="aconf-l8-Dd1e204">
+          <head xml:id="aconf-l8-Hd1e206">5</head>
         <!--Duae voluntates dissipabant animam Aug. eamque consuetudo mala tenebat.-->
 
         <p xml:id="aconf-l8-d1e141" n="10">Sed ubi mihi homo tuus Simplicianus de Victorino ista
@@ -263,26 +260,26 @@
           homo somnum excutere, cum gravis torpor in membris est, eumque iam displicentem carpit
           libentius, quamvis surgendi tempus advenerit; ita certum habebam esse melius tuae caritati
           me dedere quam meae cupiditati cedere; sed illud placebat et vincebat, hoc libebat et
-          vinciebat. Non enim erat quod tibi responderem dicenti mihi: <quote source="http://scta.info/resource/eph5_14@4-14">Surge qui dormis et exsurge a
+          vinciebat. Non enim erat quod tibi responderem dicenti mihi: <quote xml:id="aconf-l8-Qd1e221" source="http://scta.info/resource/eph5_14@4-14">Surge qui dormis et exsurge a
           mortuis, et illuminabit te Christus</quote>, et undique ostendenti vera te dicere, non erat
           omnino, quid responderem veritate convictus, nisi tantum verba lenta et somnolenta:
           "Modo", "Ecce modo", "Sine paululum". Sed "modo et modo" non habebat modum et"sine
-          paululum" in longum ibat. Frustra <quote source="http://scta.info/resource/rom7_22@1-7 http://scta.info/resource/rom7_23@3-22">condelectabar legi tuae secundum interiorem hominem, cum
+          paululum" in longum ibat. Frustra <quote xml:id="aconf-l8-Qd1e224" source="http://scta.info/resource/rom7_22@1-7 http://scta.info/resource/rom7_23@3-22">condelectabar legi tuae secundum interiorem hominem, cum
           alia lex in membris meis repugnaret legi mentis meae et captivum me duceret in lege
           peccati, quae in membris meis erat</quote>. Lex enim peccati est violentia consuetudinis, qua
-          trahitur et tenetur etiam invitus animus eo merito, quo in eam volens illabitur. <quote source="http://scta.info/resource/rom7_24@1-10 http://scta.info/resource/rom7_25@1-7">Miserum
+          trahitur et tenetur etiam invitus animus eo merito, quo in eam volens illabitur. <quote xml:id="aconf-l8-Qd1e227" source="http://scta.info/resource/rom7_24@1-10 http://scta.info/resource/rom7_25@1-7">Miserum
           ergo me quis liberaret de corpore mortis huius nisi gratia tua per Iesum Christum, Dominum
           nostrum</quote>?</p>
 
         </div>
-        <div>
-          <head>6</head>
+        <div xml:id="aconf-l8-Dd1e232">
+          <head xml:id="aconf-l8-Hd1e234">6</head>
 
         <!--Quae Ponticianus narraverit Augustino et Alypio-->
         <!--De Aug., Alypii et Nebridii otiis et negotiis.-->
         <p xml:id="aconf-l8-d1e157" n="13">Et de vinculo quidem desiderii concubitus, quo artissimo
           tenebar, et saecularium negotiorum servitute quemadmodum me exemeris, narrabo et
-          <quote source="http://scta.info/resource/ps53_8@4-8 http://scta.info/resource/ps18_15@16-21">confitebor nomini tuo, Domine, adiutor meus et redemptor meus</quote>. Agebam solita
+          <quote xml:id="aconf-l8-Qd1e242" source="http://scta.info/resource/ps53_8@4-8 http://scta.info/resource/ps18_15@16-21">confitebor nomini tuo, Domine, adiutor meus et redemptor meus</quote>. Agebam solita
           crescente anxietudine et quotidie suspirabam tibi, frequentabam ecclesiam tuam, quantum
           vacabat ab eis negotiis, sub quorum pondere gemebam. Mecum erat Alypius otiosus ab opere
           iuris peritorum post assessionem tertiam, exspectans, quibus iterum consilia venderet,
@@ -323,7 +320,7 @@
           Treveros, cum imperator pomeridiano circensium spectaculo teneretur, exisse deambulatum in
           hortos muris contiguos atque illic, ut forte combinati spatiabantur, unum secum seorsum et
           alios duos itidem seorsum pariterque digressos; sed illos vagabundos irruisse in quamdam
-          casam, ubi habitabant quidam servi tui <quote source="http://scta.info/resource/mt5_3@2-8">spiritu pauperes, qualium est regnum caelorum</quote>,
+          casam, ubi habitabant quidam servi tui <quote xml:id="aconf-l8-Qd1e256" source="http://scta.info/resource/mt5_3@2-8">spiritu pauperes, qualium est regnum caelorum</quote>,
           et invenisse ibi codicem, in quo scripta erat vita Antonii. Quam legere coepit unus eorum
           et mirari et accendi et inter legendum meditari arripere talem vitam et relicta militia
           saeculari servire tibi. Erant autem ex eis, quos dicunt agentes in rebus. Tum subito
@@ -338,7 +335,7 @@
           decrevitque meliora iamque tuus ait amico suo: "Ego iam abrupi me ab illa spe nostra et
           Deo servire statui et hoc ex hac hora, in hoc loco aggredior. Te si piget imitari, noli
           adversari". Respondit ille adhaerere se socium tantae mercedis tantaeque militiae. Et ambo
-          iam tui <quote source="http://scta.info/resource/lc14_28@6-12">aedificabant turrem sumptu idoneo</quote> relinquendi omnia sua et sequendi te. Tunc
+          iam tui <quote xml:id="aconf-l8-Qd1e259" source="http://scta.info/resource/lc14_28@6-12">aedificabant turrem sumptu idoneo</quote> relinquendi omnia sua et sequendi te. Tunc
           Ponticianus et qui cum eo per alias horti partes deambulabant, quaerentes eos devenerunt
           in eumdem locum et invenientes admonuerunt, ut redirent, quod iam declinasset dies. At
           illi narrato placito et proposito suo, quoque modo in eis talis voluntas orta esset atque
@@ -348,15 +345,15 @@
           autem affigentes cor caelo manserunt in casa. Et habebant ambo sponsas: quae posteaquam
           hoc audierunt, dicaverunt etiam ipsae virginitatem tibi.</p>
         </div>
-        <div>
-          <head>7</head>
+        <div xml:id="aconf-l8-Dd1e264">
+          <head xml:id="aconf-l8-Hd1e266">7</head>
         <!--Aug. miser et trepidus.-->
         <p xml:id="aconf-l8-d1e173" n="16">Narrabat haec Ponticianus. Tu autem, Domine, inter verba
           eius retorquebas me ad me ipsum, auferens me a dorso meo, ubi me posueram, dum nollem me
           attendere, et constituebas me ante faciem meam, ut viderem, quam turpis essem, quam
           distortus et sordidus, maculosus et ulcerosus. Et videbam et horrebam, et quo a me fugerem
           non erat. Et si conabar avertere a me aspectum, narrabat ille quod narrabat, et tu me
-          rursus opponebas mihi et impingebas me in oculos meos, <quote source="http://scta.info/resource/ps35_3@7-12">ut invenirem iniquitatem meam et
+          rursus opponebas mihi et impingebas me in oculos meos, <quote xml:id="aconf-l8-Qd1e272" source="http://scta.info/resource/ps35_3@7-12">ut invenirem iniquitatem meam et
           odissem</quote>. Noveram eam, sed dissimulabam et cohibebam et obliviscebar.</p>
 
         <p xml:id="aconf-l8-d1e176" n="17">Tunc vero quanto ardentius amabam illos, de quibus
@@ -372,7 +369,7 @@
           ieram per vias pravas superstitione sacrilega non quidem certus in ea, sed quasi
           praeponens eam ceteris, quae non pie quaerebam, sed inimice oppugnabam.</p>
 
-        <p xml:id="aconf-l8-d1e179" n="18">Et putaveram me propterea <quote source="http://scta.info/resource/sir5_8@7-12">differre de die in diem</quote>
+        <p xml:id="aconf-l8-d1e179" n="18">Et putaveram me propterea <quote xml:id="aconf-l8-Qd1e281" source="http://scta.info/resource/sir5_8@7-12">differre de die in diem</quote>
           contempta spe saeculi te solum sequi, quia non mihi apparebat certum aliquid, quo
           dirigerem cursum meum. Et venerat dies, quo nudarer mihi et increparet in me conscientia
           mea: "Ubi est lingua? Nempe tu dicebas propter incertum verum nolle te abicere sarcinam
@@ -386,8 +383,8 @@
           restringi a fluxu consuetudinis, quo tabescebat in mortem.</p>
 
         </div>
-        <div>
-          <head>8</head>
+        <div xml:id="aconf-l8-Dd1e286">
+          <head xml:id="aconf-l8-Hd1e288">8</head>
 
         <!--Quae secuta sunt in hortulo domus-->
         <!--Augustinus in hortulum domus cum Alypio ascendit.-->
@@ -425,8 +422,8 @@
           moverentur, quam ipsa sibi anima ad voluntatem suam magnam in sola voluntate
           perficiendam.</p>
         </div>
-        <div>
-          <head>9</head>
+        <div xml:id="aconf-l8-Dd1e301">
+          <head xml:id="aconf-l8-Hd1e303">9</head>
 
         <!--Cum non plena voluntas imperat, non efficitur quod imperat.-->
         <p xml:id="aconf-l8-d1e195" n="21">Unde hoc monstrum? Et quare istuc? Luceat misericordia
@@ -444,23 +441,23 @@
           est, quia non totus assurgit veritate sublevatus, consuetudine praegravatus. Et ideo sunt
           duae voluntates, quia una earum tota non est et hoc adest alteri, quod deest alteri.</p>
         </div>
-        <div>
-          <head>10</head>
+        <div xml:id="aconf-l8-Dd1e311">
+          <head xml:id="aconf-l8-Hd1e313">10</head>
         <!--Non duae naturae contrariae in homine confligunt inter se, sed eadem anima non tota voluntate interdum vult.-->
         <p xml:id="aconf-l8-d1e200" n="22">Pereant a facie tua, Deus, sicuti pereunt, vaniloqui
           et mentis seductores, qui cum duas voluntates in deliberando animadverterint, duas
           naturas duarum mentium esse asseverant, unam bonam, alteram malam. Ipsi vere mali sunt,
           cum ista mala sentiunt, et idem ipsi boni erunt, si vera senserint verisque consenserint,
-          ut dicat eis Apostolus tuus: <quote source="http://scta.info/resource/eph5_8@1-9">Fuistis aliquando tenebrae, nunc autem lux in Domino</quote>. Illi
+          ut dicat eis Apostolus tuus: <quote xml:id="aconf-l8-Qd1e319" source="http://scta.info/resource/eph5_8@1-9">Fuistis aliquando tenebrae, nunc autem lux in Domino</quote>. Illi
           enim dum volunt esse lux non in Domino, sed in se ipsis, putando animae naturam hoc esse,
           quod Deus est, ita facti sunt densiores tenebrae, quoniam longius a te recesserunt
-          horrenda arrogantia, a te, <quote source="http://scta.info/resource/io1_9@2-10">vero lumine illuminante omnem hominem venientem in hunc mundum</quote>
-         . Attendite, quid dicatis, et erubescite et <quote source="http://scta.info/resource/ps33_6@1-10">accedite ad eum et illuminamini, et vultus
+          horrenda arrogantia, a te, <quote xml:id="aconf-l8-Qd1e322" source="http://scta.info/resource/io1_9@2-10">vero lumine illuminante omnem hominem venientem in hunc mundum</quote>
+         . Attendite, quid dicatis, et erubescite et <quote xml:id="aconf-l8-Qd1e325" source="http://scta.info/resource/ps33_6@1-10">accedite ad eum et illuminamini, et vultus
           vestri non erubescent</quote>. Ego cum deliberabam, ut iam servirem Domino Deo meo, sicut
           diu disposueram, ego eram, qui volebam, ego, qui nolebam; ego, ego eram. Nec plene volebam
           nec plene nolebam. Ideo mecum contendebam et dissipabar a me ipso, et ipsa dissipatio me
           invito quidem fiebat, nec tamen ostendebat naturam mentis alienae, sed poenam meae. Et
-          ideo <quote source="http://scta.info/resource/rom7_17@3-13">non iam ego operabar illam, sed quod habitabat in me peccatum</quote> de supplicio
+          ideo <quote xml:id="aconf-l8-Qd1e328" source="http://scta.info/resource/rom7_17@3-13">non iam ego operabar illam, sed quod habitabat in me peccatum</quote> de supplicio
           liberioris peccati, quia eram filius Adam.</p>
 
         <p xml:id="aconf-l8-d1e204" n="23">Nam si tot sunt contrariae naturae, quot voluntates sibi
@@ -499,8 +496,8 @@
           illud aut hoc volens et ideo discerpitur gravi molestia, dum illud veritate praeponit, hoc
           familiaritate non ponit.</p>
         </div>
-        <div>
-          <head>11</head>
+        <div xml:id="aconf-l8-Dd1e340">
+          <head xml:id="aconf-l8-Hd1e342">11</head>
         <!--Aug. haesitans et tardatus.-->
         <p xml:id="aconf-l8-d1e212" n="25">Sic aegrotabam et excruciabar accusans memetipsum solito
           acerbius nimis ac volvens et versans me in vinculo meo, donec abrumperetur totum, quo iam
@@ -540,13 +537,13 @@
           Proice te in eum, noli metuere; non se subtrahet, ut cadas: proice te securus, excipiet et
           sanabit te". Et erubescebam nimis, quia illarum nugarum murmura adhuc audiebam, et
           cunctabundus pendebam. Et rursus illa, quasi diceret: "Obsurdesce adversus immunda illa
-          <quote source="http://scta.info/resource/col3_5@1-8">membra tua super terram, ut mortificentur</quote>. <quote source="http://scta.info/resource/ps118_85@1-9">Narrant tibi delectationes, sed non sicut
+          <quote xml:id="aconf-l8-Qd1e357" source="http://scta.info/resource/col3_5@1-8">membra tua super terram, ut mortificentur</quote>. <quote xml:id="aconf-l8-Qd1e360" source="http://scta.info/resource/ps118_85@1-9">Narrant tibi delectationes, sed non sicut
           lex Domini Dei tui</quote>". Ista controversia in corde meo non nisi de me ipso adversus me
           ipsum. At Alypius affixus lateri meo inusitati motus mei exitum tacitus opperiebatur.</p>
 
         </div>
-        <div>
-          <head>12</head>
+        <div xml:id="aconf-l8-Dd1e365">
+          <head xml:id="aconf-l8-Hd1e367">12</head>
         <!--Multis cum lacrimis misericordiam Dei imploravit.-->
         <p xml:id="aconf-l8-d1e226" n="28">Ubi vero a fundo arcano alta consideratio traxit et
           congessit totam miseriam meam in conspectu cordis mei, oborta est procella ingens
@@ -557,7 +554,7 @@
           surrexeram. Mansit ergo ille ubi sedebamus nimie stupens. Ego sub quadam fici arbore
           stravi me nescio quomodo et dimisi habenas lacrimis, et proruperunt flumina oculorum
           meorum, acceptabile sacrificium tuum, et non quidem his verbis, sed in hac sententia
-          multa dixi tibi: <quote source="http://scta.info/resource/ps6_4@7-10">Et tu, Domine, usquequo?</quote> <quote source="http://scta.info/resource/ps78_5@1-5 http://scta.info/resource/ps78_8@1-5">Usquequo, Domine, irasceris in finem? Ne
+          multa dixi tibi: <quote xml:id="aconf-l8-Qd1e373" source="http://scta.info/resource/ps6_4@7-10">Et tu, Domine, usquequo?</quote> <quote xml:id="aconf-l8-Qd1e376" source="http://scta.info/resource/ps78_5@1-5 http://scta.info/resource/ps78_8@1-5">Usquequo, Domine, irasceris in finem? Ne
           memor fueris iniquitatum nostrarum antiquarum</quote>. Sentiebam enim eis me teneri. Iactabam
           voces miserabiles: "Quamdiu, quamdiu: "cras et cras"? Quare non modo? Quare non hac hora
           finis turpitudinis meae?".</p>
@@ -570,11 +567,11 @@
           nec occurrebat omnino audisse me uspiam repressoque impetu lacrimarum surrexi nihil aliud
           interpretans divinitus mihi iuberi, nisi ut aperirem codicem et legerem quod primum caput
           invenissem. Audieram enim de Antonio, quod ex evangelica lectione, cui forte
-          supervenerat, admonitus fuerit, tamquam sibi diceretur quod legebatur: <quote source="http://scta.info/resource/mt19_21@8-23">Vade, vende omnia,
+          supervenerat, admonitus fuerit, tamquam sibi diceretur quod legebatur: <quote xml:id="aconf-l8-Qd1e384" source="http://scta.info/resource/mt19_21@8-23">Vade, vende omnia,
           quae habes, da pauperibus et habebis thesaurum in caelis; et veni, sequere me</quote>, et tali
           oraculo confestim ad te esse conversum. Itaque concitus redii in eum locum, ubi
           sedebat Alypius; ibi enim posueram codicem Apostoli, cum inde surrexeram. Arripui, aperui
-          et legi in silentio capitulum, quo primum coniecti sunt oculi mei: <quote source="http://scta.info/resource/rom13_13@6-20 http://scta.info/resource/rom13_14@1-12">Non in comessationibus
+          et legi in silentio capitulum, quo primum coniecti sunt oculi mei: <quote xml:id="aconf-l8-Qd1e387" source="http://scta.info/resource/rom13_13@6-20 http://scta.info/resource/rom13_14@1-12">Non in comessationibus
           et ebrietatibus, non in cubilibus et impudicitiis, non in contentione et aemulatione, sed
           induite Dominum Iesum Christum et carnis providentiam ne feceritis in concupiscentiis</quote>.
           Nec ultra volui legere nec opus erat. Statim quippe cum fine huiusce sententiae quasi luce
@@ -583,16 +580,16 @@
         <p xml:id="aconf-l8-d1e234" n="30">Tum interiecto aut digito aut nescio quo alio signo
           codicem clausi et tranquillo iam vultu indicavi Alypio. At ille quid in se ageretur (quod
           ego nesciebam) sic indicavit. Petit videre quid legissem: ostendi, et attendit etiam ultra
-          quam ego legeram. Et ignorabam quid sequeretur. Sequebatur vero: <quote source="http://scta.info/resource/rom14_1@1-5">Infirmum autem in fide
+          quam ego legeram. Et ignorabam quid sequeretur. Sequebatur vero: <quote xml:id="aconf-l8-Qd1e394" source="http://scta.info/resource/rom14_1@1-5">Infirmum autem in fide
           recipite</quote>. Quod ille ad se rettulit mihique aperuit. Sed tali admonitione firmatus est
           placitoque ac proposito bono et congruentissimo suis moribus, quibus a me in melius iam
           olim valde longeque distabat, sine ulla turbulenta cunctatione coniunctus est. Inde ad
           matrem ingredimur, indicamus: gaudet. Narramus, quemadmodum gestum sit: exsultat et
-          triumphat et benedicebat tibi, qui <quote source="http://scta.info/resource/eph3_20@4-12">potens es ultra quam petimus et intellegimus facere</quote>
+          triumphat et benedicebat tibi, qui <quote xml:id="aconf-l8-Qd1e397" source="http://scta.info/resource/eph3_20@4-12">potens es ultra quam petimus et intellegimus facere</quote>
          , quia tanto amplius sibi a te concessum de me videbat, quam petere solebat
           miserabilibus flebilibusque gemitibus. Convertisti enim me ad te, ut nec uxorem
           quaererem nec aliquam spem saeculi huius stans in ea regula fidei, in qua me ante tot
-          annos ei revelaveras, et <quote source="http://scta.info/resource/ps29_12@1-6">convertisti luctum eius in gaudium</quote> multo uberius, quam
+          annos ei revelaveras, et <quote xml:id="aconf-l8-Qd1e400" source="http://scta.info/resource/ps29_12@1-6">convertisti luctum eius in gaudium</quote> multo uberius, quam
           voluerat, et multo carius atque castius, quam de nepotibus carnis meae requirebat.</p>
         </div>
       </div>

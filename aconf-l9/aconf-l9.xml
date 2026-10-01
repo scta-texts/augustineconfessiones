@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,8 +19,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
           </p>
         </availability>
       </publicationStmt>
@@ -32,8 +30,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,19 +51,19 @@
     <body>
       <div xml:id="aconf-l9">
         <head xml:id="aconf-l9-Hd1e97">Liber 9</head>
-        <div>
-          <head>1</head>
+        <div xml:id="aconf-l9-Dd1e95">
+          <head xml:id="aconf-l9-Hd1e9a">1</head>
         <!--Deo gratiae et laudes.-->
-        <p xml:id="aconf-l9-d1e102" n="1"><quote source="http://scta.info/resource/ps115_7@1-16">O Domine, ego servus tuus, ego servus tuus et filius
-          ancillae tuae. Dirupisti vincula mea</quote>; <quote source="http://scta.info/resource/ps115_8@1-4">tibi sacrificabo hostiam laudis</quote>. Laudet te cor
-          meum et lingua mea, et <quote source="http://scta.info/resource/ps34_10@1-8">omnia ossa mea dicant: Domine, quis similis tibi?</quote> Dicant, et
-          responde mihi et <quote source="http://scta.info/resource/ps34_3@10-16">dic animae meae: Salus tua ego sum</quote>. Quis ego et qualis ego? Quid non
+        <p xml:id="aconf-l9-d1e102" n="1"><quote xml:id="aconf-l9-Qd1e102" source="http://scta.info/resource/ps115_7@1-16">O Domine, ego servus tuus, ego servus tuus et filius
+          ancillae tuae. Dirupisti vincula mea</quote>; <quote xml:id="aconf-l9-Qd1e105" source="http://scta.info/resource/ps115_8@1-4">tibi sacrificabo hostiam laudis</quote>. Laudet te cor
+          meum et lingua mea, et <quote xml:id="aconf-l9-Qd1e108" source="http://scta.info/resource/ps34_10@1-8">omnia ossa mea dicant: Domine, quis similis tibi?</quote> Dicant, et
+          responde mihi et <quote xml:id="aconf-l9-Qd1e111" source="http://scta.info/resource/ps34_3@10-16">dic animae meae: Salus tua ego sum</quote>. Quis ego et qualis ego? Quid non
           mali aut facta mea aut, si non facta, dicta mea aut, si non dicta, voluntas mea fuit? Tu
           autem, Domine, bonus et misericors et dextera tua respiciens profunditatem mortis meae
           et a fundo cordis mei exhauriens abyssum corruptionis. Et hoc erat totum nolle, quod
           volebam, et velle, quod volebas. Sed ubi erat tam annoso tempore et de quo imo altoque
           secreto evocatum est in momento liberum arbitrium meum, quod subderem cervicem leni iugo
-          tuo et umeros levi sarcinae tuae, Christe Iesu, <quote source="http://scta.info/resource/ps18_15@16-21">adiutor meus et redemptor meus</quote>? Quam
+          tuo et umeros levi sarcinae tuae, Christe Iesu, <quote xml:id="aconf-l9-Qd1e114" source="http://scta.info/resource/ps18_15@16-21">adiutor meus et redemptor meus</quote>? Quam
           suave mihi subito factum est carere suavitatibus nugarum, et quas amittere metus fuerat,
           iam dimittere gaudium erat. Eiciebas enim eas a me, vera tu et summa suavitas, eiciebas et
           intrabas pro eis omni voluptate dulcior, sed non carni et sanguini, omni luce clarior
@@ -75,8 +72,8 @@
           scabiem libidinum, et garriebam tibi, claritati meae et divitiis meis et saluti meae,
           Domino Deo meo.</p>
         </div>
-        <div>
-          <head>2</head>
+        <div xml:id="aconf-l9-Dd1e119">
+          <head xml:id="aconf-l9-Hd1e121">2</head>
         <!--Feriarum exspectatio.-->
         <p xml:id="aconf-l9-d1e107" n="2">Et placuit mihi in conspectu tuo non tumultuose
           abripere, sed leniter subtrahere ministerium linguae meae nundinis loquacitatis, ne
@@ -119,8 +116,8 @@
           Domine misericordissime, nonne et hoc peccatum cum ceteris horrendis et funereis in aqua
           sancta ignovisti et remisisti mihi?</p>
         </div>
-        <div>
-          <head>3</head>
+        <div xml:id="aconf-l9-Dd1e138">
+          <head xml:id="aconf-l9-Hd1e140">3</head>
         <!--Anxitudo Verecundi.-->
           <p xml:id="aconf-l9-d1e121" n="5">Macerabatur anxitudine Verecundus de isto nostro bono,
           quod propter vincula sua, quibus tenacissime tenebatur, deseri se nostro consortio
@@ -155,11 +152,11 @@
           nostra et exhortantes ad fidem gradus sui, vitae scilicet coniugalis, Nebridium autem
           opperientes, quando sequeretur. Quod de tam proximo poterat et erat iam iamque facturus,
           cum ecce evoluti sunt dies illi tandem. Nam longi et multi videbantur prae amore
-          libertatis otiosae ad cantandum de medullis omnibus: <quote source="http://scta.info/resource/ps26_8@1-12">Tibi dixit cor meum, quaesivi vultum
+          libertatis otiosae ad cantandum de medullis omnibus: <quote xml:id="aconf-l9-Qd1e151" source="http://scta.info/resource/ps26_8@1-12">Tibi dixit cor meum, quaesivi vultum
           tuum; vultum tuum, Domine, requiram</quote>.</p>
         </div>
-        <div>
-          <head>4</head>
+        <div xml:id="aconf-l9-Dd1e156">
+          <head xml:id="aconf-l9-Hd1e158">4</head>
         <!--Quid Aug. egerit in litteris dum rure Cassiciaco moratur.-->
           <p xml:id="aconf-l9-d1e132" n="7">Et venit dies, quo etiam actu solverer a professione
           rhetorica, unde iam cogitatu solutus eram. Et factum est, eruisti linguam meam, unde iam
@@ -169,11 +166,11 @@
           coram te; quae autem cum absente Nebridio, testantur epistulae. Et quando mihi sufficiat
           tempus commemorandi omnia magna erga nos beneficia tua in illo tempore praesertim ad alia
           maiora properanti? Revocat enim me recordatio mea, et dulce mihi fit, Domine, confiteri
-          tibi, quibus internis me stimulis perdomueris et quemadmodum me <quote source="http://scta.info/resource/is40_4@5-19">complanaveris humilitatis
+          tibi, quibus internis me stimulis perdomueris et quemadmodum me <quote xml:id="aconf-l9-Qd1e164" source="http://scta.info/resource/is40_4@5-19">complanaveris humilitatis
           montibus et collibus cogitationum mearum et tortuosa mea direxeris et aspera lenieris</quote>
           quoque modo ipsum etiam Alypium, fratrem cordis mei, subegeris nomini Unigeniti tui,
           Domini et Salvatoris nostri Iesu Christi, quod primo dedignabatur inseri litteris
-          nostris. Magis enim eas volebat redolere gymnasiorum <quote source="http://scta.info/resource/ps28_5@5-9">cedros, quas iam contrivit Dominus</quote>
+          nostris. Magis enim eas volebat redolere gymnasiorum <quote xml:id="aconf-l9-Qd1e167" source="http://scta.info/resource/ps28_5@5-9">cedros, quas iam contrivit Dominus</quote>
          , quam salubres herbas ecclesiasticas adversas serpentibus.</p>
 
         <!--Psalmos David legit.-->
@@ -183,12 +180,12 @@
           muliebri habitu, virili fide, anili securitate, materna caritate, christiana pietate! Quas
           tibi voces dabam in Psalmis illis et quomodo in te inflammabar ex eis et accendebar eos
           recitare, si possem, toto orbe terrarum adversus typhum generis humani! Et tamen toto orbe
-          cantantur, et <quote source="http://scta.info/resource/ps18_7@13-20">non est qui se abscondat a calore tuo</quote>. Quam vehementi et acri dolore
+          cantantur, et <quote xml:id="aconf-l9-Qd1e175" source="http://scta.info/resource/ps18_7@13-20">non est qui se abscondat a calore tuo</quote>. Quam vehementi et acri dolore
           indignabar Manichaeis et miserabar eos rursus, quod illa sacramenta, illa medicamenta
           nescirent et insani essent adversus antidotum, quo sani esse potuissent! Vellem, ut
           alicubi iuxta essent tunc et me nesciente, quod ibi essent, intuerentur faciem meam et
           audirent voces meas, quando legi quartum psalmum in illo tunc otio, quid de me fecerit
-          ille psalmus: <quote source="http://scta.info/resource/ps4_2@1-17">Cum invocarem te, exaudisti me Deus iustitiae meae; in tribulatione
+          ille psalmus: <quote xml:id="aconf-l9-Qd1e178" source="http://scta.info/resource/ps4_2@1-17">Cum invocarem te, exaudisti me Deus iustitiae meae; in tribulatione
           dilatasti mihi. Miserere mei, Domine, et exaudi orationem meam</quote>; audirent ignorante me,
           utrum audirent, ne me propter se illa dicere putarent, quae inter haec verba dixerim, quia
           et re vera nec ea dicerem nec sic ea dicerem, si me ab eis audiri viderique sentirem, nec
@@ -198,14 +195,14 @@
         <!--Meditatio psalmi quarti.-->
           <p xml:id="aconf-l9-d1e143" n="9">Inhorrui timendo ibidemque inferbui sperando et exsultando
           in tua misericordia, Pater. Et haec omnia exibant per oculos et vocem meam, cum
-          conversus ad nos spiritus tuus bonus ait nobis: <quote source="http://scta.info/resource/ps4_3@1-12">Filii hominum, quousque graves corde?
+          conversus ad nos spiritus tuus bonus ait nobis: <quote xml:id="aconf-l9-Qd1e187" source="http://scta.info/resource/ps4_3@1-12">Filii hominum, quousque graves corde?
           Ut quid diligitis vanitatem et quaeritis mendacium?</quote> Dilexeram enim vanitatem et
           quaesieram mendacium. Et tu, Domine, iam magnificaveras sanctum tuum, suscitans eum a
           mortuis et collocans ad dexteram tuam, unde mitteret ex alto promissionem suam,
           Paracletum, spiritum veritatis. Et miserat eum iam, sed ego nesciebam. Miserat eum,
           quia iam magnificatus erat resurgens a mortuis et ascendens in caelum. Ante autem
-          <quote source="http://scta.info/resource/io7_39@12-20">Spiritus nondum erat datus, quia Iesus nondum erat clarificatus</quote>. Et clamat prophetia:
-          <quote source="http://scta.info/resource/ps4_3@3-12 http://scta.info/resource/ps4_4@1-7">Quousque graves corde? Ut quid diligitis vanitatem et quaeritis mendacium? Et scitote,
+          <quote xml:id="aconf-l9-Qd1e190" source="http://scta.info/resource/io7_39@12-20">Spiritus nondum erat datus, quia Iesus nondum erat clarificatus</quote>. Et clamat prophetia:
+          <quote xml:id="aconf-l9-Qd1e193" source="http://scta.info/resource/ps4_3@3-12 http://scta.info/resource/ps4_4@1-7">Quousque graves corde? Ut quid diligitis vanitatem et quaeritis mendacium? Et scitote,
           quoniam Dominus magnificavit sanctum suum</quote>. Clamat quousque, clamat scitote, et ego
           tamdiu nesciens vanitatem dilexi et mendacium quaesivi et ideo audivi et contremui,
           quoniam talibus dicitur, qualem me fuisse reminiscebar. In phantasmatis enim, quas pro
@@ -215,14 +212,14 @@
           clamarent ad te, quoniam vera morte carnis mortuus est pro nobis, qui te interpellat
           pro nobis.</p>
 
-          <p xml:id="aconf-l9-d1e146" n="10">Legebam: <quote source="http://scta.info/resource/ps4_5@1-4">Irascimini et nolite peccare</quote>, et quomodo
+          <p xml:id="aconf-l9-d1e146" n="10">Legebam: <quote xml:id="aconf-l9-Qd1e199" source="http://scta.info/resource/ps4_5@1-4">Irascimini et nolite peccare</quote>, et quomodo
           movebar, Deus meus, qui iam didiceram irasci mihi de praeteritis, ut de cetero non
           peccarem, et merito irasci, quia non alia natura gentis tenebrarum de me peccabat, sicut
-          dicunt qui sibi non irascuntur et <quote source="http://scta.info/resource/rom2_5@8-18">thesaurizant sibi iram in die irae et revelationis iusti
+          dicunt qui sibi non irascuntur et <quote xml:id="aconf-l9-Qd1e202" source="http://scta.info/resource/rom2_5@8-18">thesaurizant sibi iram in die irae et revelationis iusti
           iudicii tui</quote>! Nec iam bona mea foris erant nec oculis carneis in isto sole quaerebantur.
           Volentes enim gaudere forinsecus facile vanescunt et effunduntur in ea, quae videntur et
           temporalia sunt, et imagines eorum famelica cogitatione lambiunt. Et o si fatigentur
-          inedia et dicant: <quote source="http://scta.info/resource/ps4_6@10-13">Quis ostendet nobis bona?</quote> Et dicamus, et audiant: <quote source="http://scta.info/resource/ps4_7@1-8">Signatum est in
+          inedia et dicant: <quote xml:id="aconf-l9-Qd1e205" source="http://scta.info/resource/ps4_6@10-13">Quis ostendet nobis bona?</quote> Et dicamus, et audiant: <quote xml:id="aconf-l9-Qd1e208" source="http://scta.info/resource/ps4_7@1-8">Signatum est in
           nobis lumen vultus tui, Domine</quote>. Non enim lumen nos sumus, quod illuminat omnem hominem
          , sed illuminamur a te, ut, qui fuimus aliquando tenebrae, simus lux in te. O si
           viderent internum aeternum, quod ego quia gustaveram, frendebam, quoniam non eis
@@ -236,9 +233,9 @@
 
           <p xml:id="aconf-l9-d1e149" n="11">Et clamabam in consequenti versu clamore alto cordis mei:
           O in pace! O in id ipsum! O quid dixit: Obdormiam et somnum capiam? Quoniam quis
-          resistet nobis, cum fiet sermo, qui scriptus est: <quote source="http://scta.info/resource/Icor15_54@13-17">Absorpta est mors in victoriam</quote>? Et tu
+          resistet nobis, cum fiet sermo, qui scriptus est: <quote xml:id="aconf-l9-Qd1e214" source="http://scta.info/resource/Icor15_54@13-17">Absorpta est mors in victoriam</quote>? Et tu
           es id ipsum valde, qui non mutaris, et in te requies obliviscens laborum omnium,
-          quoniam nullus alius tecum nec ad alia multa adipiscenda, quae non sunt quod tu, sed <quote source="http://scta.info/resource/ps4_10@2-8">tu,
+          quoniam nullus alius tecum nec ad alia multa adipiscenda, quae non sunt quod tu, sed <quote xml:id="aconf-l9-Qd1e217" source="http://scta.info/resource/ps4_10@2-8">tu,
           Domine, singulariter in spe constituisti me</quote>. Legebam et ardebam nec inveniebam, quid
           facerem surdis mortuis, ex quibus fueram, pestis, latrator amarus et caecus adversus
           litteras de melle caeli melleas et de lumine tuo luminosas, et super inimicis
@@ -256,8 +253,8 @@
           nomen tuum, et ea fides me securum esse non sinebat de praeteritis peccatis meis, quae
           mihi per baptismum tuum remissa nondum erant.</p>
         </div>
-        <div>
-          <head>5</head>
+        <div xml:id="aconf-l9-Dd1e228">
+          <head xml:id="aconf-l9-Hd1e230">5</head>
         <!--Peractis vindemialibus, a publica professione rhetoris se abdicat.-->
           <p xml:id="aconf-l9-d1e160" n="13">Renuntiavi peractis vindemialibus, ut scholasticis suis
           Mediolanenses venditorem verborum alium providerent, quod et tibi ego servire delegissem
@@ -270,8 +267,8 @@
           repetendum exercitatior in dominico eloquio.</p>
 
         </div>
-        <div>
-          <head>6</head>
+        <div xml:id="aconf-l9-Dd1e238">
+          <head xml:id="aconf-l9-Hd1e240">6</head>
 
         <!--Reditus Mediolanium-->
         <!--Aug. baptizatur Mediolanii cum Alypio et Adeodato.-->
@@ -296,8 +293,8 @@
           auribus meis et eliquabatur veritas in cor meum et exaestuabat inde affectus pietatis, et
           currebant lacrimae, et bene mihi erat cum eis.</p>
         </div>
-        <div>
-          <head>7</head>
+        <div xml:id="aconf-l9-Dd1e250">
+          <head xml:id="aconf-l9-Hd1e252">7</head>
         <!--Mos canendi hymnos apud Mediolanensem Ecclesiam.-->
           <p xml:id="aconf-l9-d1e172" n="15">Non longe coeperat Mediolanensis Ecclesia genus hoc
           consolationis et exhortationis celebrare magno studio fratrum concinentium vocibus et
@@ -329,8 +326,8 @@
           domo faenea.</p>
 
         </div>
-        <div>
-          <head>8</head>
+        <div xml:id="aconf-l9-Dd1e265">
+          <head xml:id="aconf-l9-Hd1e267">8</head>
 
         <!--Monicae mors apud Ostia tiberina-->
         <!--Monicae educatio.-->
@@ -387,8 +384,8 @@
           eius alius corrigatur, quem vult corrigi.</p>
 
         </div>
-        <div>
-          <head>9</head>
+        <div xml:id="aconf-l9-Dd1e283">
+          <head xml:id="aconf-l9-Hd1e285">9</head>
         <!--Monica maritum ferum mansuetudine sua mitigavit.-->
           <p xml:id="aconf-l9-d1e196" n="19">Educata itaque pudice ac sobrie potiusque a te subdita
           parentibus quam a parentibus tibi, ubi plenis annis nubilis facta est, tradita viro
@@ -422,7 +419,7 @@
 
         <!--Monica se praebebat pacificam inter dissidentes.-->
           <p xml:id="aconf-l9-d1e206" n="21">Hoc quoque illi bono mancipio tuo, in cuius utero me
-          creasti, <quote source="http://scta.info/resource/ps58_18@10-13">Deus meus, misericordia mea</quote>, munus grande donaveras, quod inter dissidentes
+          creasti, <quote xml:id="aconf-l9-Qd1e302" source="http://scta.info/resource/ps58_18@10-13">Deus meus, misericordia mea</quote>, munus grande donaveras, quod inter dissidentes
           atque discordes quaslibet animas, ubi poterat, tam se praebebat pacificam, ut cum ab
           utraque multa de invicem audiret amarissima, qualia solet eructare turgens atque indigesta
           discordia, quando praesenti amicae de absente inimica per acida colloquia cruditas
@@ -440,23 +437,23 @@
           Erat etiam serva servorum tuorum. Quisquis eorum noverat eam, multum in ea laudabat et
           honorabat et diligebat te, quia sentiebat praesentiam tuam in corde eius sanctae
           conversationis fructibus testibus. Fuerat enim unius viri uxor, mutuam vicem parentibus
-          reddiderat, domum suam pie tractaverat, <quote source="http://scta.info/resource/Itim5_10@1-5">in operibus bonis testimonium habebat</quote>. Nutrierat
+          reddiderat, domum suam pie tractaverat, <quote xml:id="aconf-l9-Qd1e310" source="http://scta.info/resource/Itim5_10@1-5">in operibus bonis testimonium habebat</quote>. Nutrierat
           filios totiens eos parturiens, quotiens abs te deviare cernebat. Postremo nobis,
           Domine, omnibus, quia ex munere tuo sinis loqui servis tuis, qui ante dormitionem eius in
           te iam consociati vivebamus percepta gratia baptismi tui, ita curam gessit, quasi omnes
           genuisset, ita servivit, quasi ab omnibus genita fuisset.</p>
         </div>
-        <div>
-          <head>10</head>
+        <div xml:id="aconf-l9-Dd1e315">
+          <head xml:id="aconf-l9-Hd1e317">10</head>
         <!--Mater filiusque apud Ostia Tiberina colloquentes.-->
           <p xml:id="aconf-l9-d1e217" n="23">Impendente autem die, quo ex hac vita erat exitura (quem
           diem tu noveras ignorantibus nobis) provenerat, ut credo, procurante te occultis tuis
           modis, ut ego et ipsa soli staremus incumbentes ad quamdam fenestram, unde hortus intra
           domum, quae nos habebat, prospectabatur, illic apud Ostia Tiberina, ubi remoti a turbis
           post longi itineris laborem instaurabamus nos navigationi. Colloquebamur ergo soli valde
-          dulciter et <quote source="http://scta.info/resource/phil3_13@9-22">praeterita obliviscentes in ea quae ante sunt extenti</quote> quaerebamus inter nos
+          dulciter et <quote xml:id="aconf-l9-Qd1e323" source="http://scta.info/resource/phil3_13@9-22">praeterita obliviscentes in ea quae ante sunt extenti</quote> quaerebamus inter nos
           apud praesentem veritatem, quod tu es, qualis futura esset vita aeterna sanctorum,
-          quam <quote source="http://scta.info/resource/Icor2_9@6-16">nec oculus vidit nec auris audivit nec in cor hominis ascendit</quote>. Sed inhiabamus
+          quam <quote xml:id="aconf-l9-Qd1e326" source="http://scta.info/resource/Icor2_9@6-16">nec oculus vidit nec auris audivit nec in cor hominis ascendit</quote>. Sed inhiabamus
           ore cordis in superna fluenta fontis tui, fontis vitae, qui est apud te, ut inde pro
           captu nostro aspersi quoquo modo rem tantam cogitaremus.</p>
 
@@ -473,13 +470,13 @@
           futurum esse non est aeternum. Et dum loquimur et inhiamus illi, attingimus eam modice
           toto ictu cordis; et suspiravimus et reliquimus ibi religatas primitias spiritus et
           remeavimus ad strepitum oris nostri, ubi verbum et incipitur et finitur. Et quid simile
-          Verbo tuo, Domino nostro, <quote source="http://scta.info/resource/sap7_27@8-12">in se permanenti sine vetustate atque innovanti omnia</quote>?</p>
+          Verbo tuo, Domino nostro, <quote xml:id="aconf-l9-Qd1e332" source="http://scta.info/resource/sap7_27@8-12">in se permanenti sine vetustate atque innovanti omnia</quote>?</p>
 
           <p xml:id="aconf-l9-d1e223" n="25">Dicebamus ergo: "Si cui sileat tumultus carnis, sileant
           phantasiae terrae et aquarum et aeris, sileant et poli et ipsa sibi anima sileat et
           transeat se non se cogitando, sileant somnia et imaginariae revelationes, omnis lingua et
           omne signum et quidquid transeundo fit si cui sileat omnino (quoniam si quis audiat,
-          dicunt haec omnia: "<quote source="http://scta.info/resource/ps99_3@7-13">Non ipsa nos fecimus, sed fecit nos qui manet in aeternum</quote>")
+          dicunt haec omnia: "<quote xml:id="aconf-l9-Qd1e338" source="http://scta.info/resource/ps99_3@7-13">Non ipsa nos fecimus, sed fecit nos qui manet in aeternum</quote>")
           his dictis si iam taceant, quoniam erexerunt aurem in eum, qui fecit ea, et loquatur ipse
           solus non per ea, sed per se ipsum, ut audiamus verbum eius, non per linguam carnis neque
           per vocem angeli nec per sonitum nubis nec per aenigma similitudinis, sed ipsum,
@@ -487,8 +484,8 @@
           cogitatione attingimus, aeternam sapientiam super omnia manentem, si continuetur hoc et
           subtrahantur aliae visiones longe imparis generis et haec una rapiat et absorbeat et
           recondat in interiora gaudia spectatorem suum, ut talis sit sempiterna vita, quale fuit
-          hoc momentum intellegentiae, cui suspiravimus, nonne hoc est: <quote source="http://scta.info/resource/mt25_21@19-23">Intra in gaudium Domini tui</quote>
-         ? Et istud quando? An cum <quote source="http://scta.info/resource/Icor15_51@5-11">omnes resurgimus, sed non omnes immutabimur</quote>?"</p>
+          hoc momentum intellegentiae, cui suspiravimus, nonne hoc est: <quote xml:id="aconf-l9-Qd1e341" source="http://scta.info/resource/mt25_21@19-23">Intra in gaudium Domini tui</quote>
+         ? Et istud quando? An cum <quote xml:id="aconf-l9-Qd1e344" source="http://scta.info/resource/Icor15_51@5-11">omnes resurgimus, sed non omnes immutabimur</quote>?"</p>
 
           <p xml:id="aconf-l9-d1e226" n="26">Dicebam talia, etsi non isto modo et his verbis, tamen,
           Domine, tu scis, quod illo die, cum talia loqueremur et mundus iste nobis inter verba
@@ -499,8 +496,8 @@
           Deus meus praestitit, ut te etiam contempta felicitate terrena servum eius videam. Quid
           hic facio?".</p>
         </div>
-        <div>
-          <head>11</head>
+        <div xml:id="aconf-l9-Dd1e354">
+          <head xml:id="aconf-l9-Hd1e356">11</head>
         <!--Post aegritudinem octo dierum Monica mortua est.-->
           <p xml:id="aconf-l9-d1e232" n="27">Ad haec ei quid responderim, non satis recolo, cum
           interea vix intra quinque dies aut non multo amplius decubuit febribus. Et cum aegrotaret,
@@ -533,8 +530,8 @@
           die nono aegritudinis suae, quinquagesimo et sexto anno aetatis suae, tricesimo et tertio
           aetatis meae, anima illa religiosa et pia corpore soluta est.</p>
         </div>
-        <div>
-          <head>12</head>
+        <div xml:id="aconf-l9-Dd1e367">
+          <head xml:id="aconf-l9-Hd1e369">12</head>
         <!--Obitus ille non flebilis.-->
           <p xml:id="aconf-l9-d1e240" n="29">Premebam oculos eius, et confluebat in praecordia mea
           maestitudo ingens et transfluebat in lacrimas, ibidemque oculi mei violento animi imperio
@@ -544,7 +541,7 @@
           iuvenali voce, voce cordis, cohercebatur et tacebat. Neque enim decere arbitrabamur funus
           illud questibus lacrimosis gemitibusque celebrare, quia his plerumque solet deplorari
           quaedam miseria morientium aut quasi omnimoda exstinctio. At illa nec misere moriebatur
-          nec omnino moriebatur. Hoc et documentis morum eius et <quote source="http://scta.info/resource/Itim1_5@12-15">fide non ficta</quote> rationibusque
+          nec omnino moriebatur. Hoc et documentis morum eius et <quote xml:id="aconf-l9-Qd1e375" source="http://scta.info/resource/Itim1_5@12-15">fide non ficta</quote> rationibusque
           certis tenebamus.</p>
 
         <!--Aug. de morte matris angitur et cruciatur.-->
@@ -558,7 +555,7 @@
           et quasi dilaniabatur vita, quae una facta erat ex mea et illius.</p>
 
           <p xml:id="aconf-l9-d1e249" n="31">Cohibito ergo a fletu illo puero psalterium arripuit
-          Evodius et cantare coepit psalmum. Cui respondebamus omnis domus: <quote source="http://scta.info/resource/ps100_1@4-9">Misericordiam et
+          Evodius et cantare coepit psalmum. Cui respondebamus omnis domus: <quote xml:id="aconf-l9-Qd1e387" source="http://scta.info/resource/ps100_1@4-9">Misericordiam et
           iudicium cantabo tibi, Domine</quote>. Audito autem, quid ageretur, convenerunt multi fratres
           ac religiosae feminae, et de more illis, quorum officium erat, funus curantibus ego in
           parte, ubi decenter poteram, cum eis, qui me non deserendum esse censebant, quod erat
@@ -600,8 +597,8 @@
           tuis viverem, non irrideat, sed potius, si est grandi caritate, pro peccatis meis fleat
           ipse ad te, patrem omnium fratrum Christi tui.</p>
         </div>
-        <div>
-          <head>13</head>
+        <div xml:id="aconf-l9-Dd1e402">
+          <head xml:id="aconf-l9-Hd1e404">13</head>
         <!--Magna spes nos tenet indulgentiae Dei nostri.-->
           <p xml:id="aconf-l9-d1e265" n="34">Ego autem iam sanato corde ab illo vulnere, in quo
           poterat redargui carnalis affectus, fundo tibi, Deus noster, pro illa famula tua longe
@@ -609,31 +606,31 @@
           animae, quae in Adam moritur. Quamquam illa in Christo vivificata etiam nondum a carne
           resoluta sic vixerit, ut laudetur nomen tuum in fide moribusque eius, non tamen audeo
           dicere, ex quo eam per baptismum regenerasti, nullum verbum exisse ab ore eius contra
-          praeceptum tuum. Et dictum est a Veritate, Filio tuo: <quote source="http://scta.info/resource/mt5_22@23-30">Si quis dixerit fratri suo:
+          praeceptum tuum. Et dictum est a Veritate, Filio tuo: <quote xml:id="aconf-l9-Qd1e410" source="http://scta.info/resource/mt5_22@23-30">Si quis dixerit fratri suo:
           fatue, reus erit gehennae ignis</quote>, et vae etiam laudabili vitae hominum, si remota
           misericordia discutias eam! Quia vero non exquiris delicta vehementer, fiducialiter
           speramus aliquem apud te locum. Quisquis autem tibi enumerat vera merita sua, quid tibi
-          enumerat nisi munera tua? O si cognoscant se homines homines et <quote source="http://scta.info/resource/Icor1_31@5-9">qui gloriatur, in domino
+          enumerat nisi munera tua? O si cognoscant se homines homines et <quote xml:id="aconf-l9-Qd1e413" source="http://scta.info/resource/Icor1_31@5-9">qui gloriatur, in domino
           glorietur</quote>!</p>
 
         <!--Pro matris peccatis deprecatio ad Deum.-->
           <p xml:id="aconf-l9-d1e270" n="35">Ego itaque, laus mea et vita mea, Deus cordis mei
          , sepositis paulisper bonis eius actibus, pro quibus tibi gaudens gratias ago, nunc
           pro peccatis matris meae deprecor te; exaudi me per medicinam vulnerum nostrorum, quae
-          pependit in ligno, et <quote source="http://scta.info/resource/rom8_34@15-23">sedens ad dexteram tuam te interpellat pro nobis</quote>. Scio
-          misericorditer operatam et ex corde <quote source="http://scta.info/resource/mt6_12@1-11">dimisisse debita debitoribus suis; dimitte illi et tu
+          pependit in ligno, et <quote xml:id="aconf-l9-Qd1e421" source="http://scta.info/resource/rom8_34@15-23">sedens ad dexteram tuam te interpellat pro nobis</quote>. Scio
+          misericorditer operatam et ex corde <quote xml:id="aconf-l9-Qd1e424" source="http://scta.info/resource/mt6_12@1-11">dimisisse debita debitoribus suis; dimitte illi et tu
           debita sua</quote>, si qua etiam contraxit per tot annos post aquam salutis. Dimitte, Domine,
-          dimitte, obsecro, <quote source="http://scta.info/resource/ps142_2@1-8">ne intres cum ea in iudicium</quote>. <quote source="http://scta.info/resource/iac2_13@10-13">Superexsultet misericordia iudicio</quote>
+          dimitte, obsecro, <quote xml:id="aconf-l9-Qd1e427" source="http://scta.info/resource/ps142_2@1-8">ne intres cum ea in iudicium</quote>. <quote xml:id="aconf-l9-Qd1e430" source="http://scta.info/resource/iac2_13@10-13">Superexsultet misericordia iudicio</quote>
          , quoniam eloquia tua vera sunt et promisisti misericordiam misericordibus. Quod ut
-          essent, tu dedisti eis, qui <quote source="http://scta.info/resource/rom9_15@4-11">misereberis, cui misertus eris, et misericordiam praestabis,
+          essent, tu dedisti eis, qui <quote xml:id="aconf-l9-Qd1e433" source="http://scta.info/resource/rom9_15@4-11">misereberis, cui misertus eris, et misericordiam praestabis,
           cui misericors fueris</quote>.</p>
 
-          <p xml:id="aconf-l9-d1e273" n="36">Et, credo, iam feceris quod te rogo, sed <quote source="http://scta.info/resource/ps118_108@1-6">voluntaria oris
+          <p xml:id="aconf-l9-d1e273" n="36">Et, credo, iam feceris quod te rogo, sed <quote xml:id="aconf-l9-Qd1e440" source="http://scta.info/resource/ps118_108@1-6">voluntaria oris
           mei approba, Domine</quote>. Namque illa imminente die resolutionis suae non cogitavit
           suum corpus sumptuose contegi aut condiri aromatis aut monumentum electum concupivit aut
           curavit sepulchrum patrium; non ista mandavit nobis, sed tantummodo memoriam sui ad altare
           tuum fieri desideravit, cui nullius diei praetermissione servierat, unde sciret dispensari
-          victimam sanctam, qua <quote source="http://scta.info/resource/col2_14@6-11">deletum est chirographum, quod erat contrarium nobis</quote>, qua
+          victimam sanctam, qua <quote xml:id="aconf-l9-Qd1e443" source="http://scta.info/resource/col2_14@6-11">deletum est chirographum, quod erat contrarium nobis</quote>, qua
           triumphatus est hostis computans delicta nostra et quaerens quid obiciat, et nihil
           inveniens in illo, in quo vincimus. Quis ei refundet innocentem sanguinem? Quis ei
           restituet pretium, quo nos emit, ut nos auferat ei? Ad cuius pretii nostri sacramentum

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,8 +19,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
           </p>
         </availability>
       </publicationStmt>
@@ -32,8 +30,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,10 +51,10 @@
     <body>
       <div xml:id="aconf-l13">
         <head xml:id="aconf-l13-Hd1e97">Liber 13</head>
-        <div>
-          <head>1</head>
+        <div xml:id="aconf-l13-Dd1e95">
+          <head xml:id="aconf-l13-Hd1e9a">1</head>
         <!--Deus bonus invocatur.-->
-        <p xml:id="aconf-l13-d1e102" n="1">Invoco te, <quote source="http://scta.info/resource/ps58_18@10-13">Deus meus, misericordia mea</quote>, qui fecisti me
+        <p xml:id="aconf-l13-d1e102" n="1">Invoco te, <quote xml:id="aconf-l13-Qd1e103" source="http://scta.info/resource/ps58_18@10-13">Deus meus, misericordia mea</quote>, qui fecisti me
           et oblitum tui non oblitus es. Invoco te in animam meam quam praeparas ad capiendum te ex
           desiderio, quod inspiras ei; nunc invocantem te ne deseras, qui priusquam invocarem
           praevenisti et institisti crebrescens multimodis vocibus, ut audirem de longinquo et
@@ -71,8 +68,8 @@
           terram, ut sis incultus, si non te colam, sed ut serviam tibi et colam te, ut de te mihi
           bene sit, a quo mihi est, ut sim, cui bene sit.</p>
         </div>
-          <div>
-            <head>2</head>
+          <div xml:id="aconf-l13-Dd1e108">
+            <head xml:id="aconf-l13-Hd1e110">2</head>
 
         <!--Ex plenitudine bonitatis Dei creatura subsistit.-->
         <p xml:id="aconf-l13-d1e107" n="2">Ex plenitudine quippe bonitatis tuae creatura tua
@@ -102,12 +99,12 @@
           montes Dei: nam iudicia tua fuimus sicut multa abyssus.</p>
 
           </div>
-        <div>
-          <head>3</head>
+        <div xml:id="aconf-l13-Dd1e121">
+          <head xml:id="aconf-l13-Hd1e123">3</head>
 
         <!--Ortus rerum allegorice cogitatus et explanatus-->
         <!--Lux effecta, seu creatura spiritalis illuminata.-->
-        <p xml:id="aconf-l13-d1e118" n="4">Quod autem in primis conditionibus dixisti: <quote source="http://scta.info/resource/gen1_3@3-8">Fiat lux, et
+        <p xml:id="aconf-l13-d1e118" n="4">Quod autem in primis conditionibus dixisti: <quote xml:id="aconf-l13-Qd1e131" source="http://scta.info/resource/gen1_3@3-8">Fiat lux, et
           facta est lux</quote>, non incongruenter hoc intellego in creatura spiritali, quia erat iam
           qualiscumque vita, quam illuminares. Sed sicut non te promeruerat, ut esset talis vita,
           quae illuminari posset, ita nec cum iam esset promeruit te, ut illuminaretur. Neque enim
@@ -117,8 +114,8 @@
           deterius mutari potest; quod tu solus es, quia solus simpliciter es, cui non est aliud
           vivere, aliud beate vivere, quia tua beatitudo es.</p>
         </div>
-        <div>
-          <head>4</head>
+        <div xml:id="aconf-l13-Dd1e136">
+          <head xml:id="aconf-l13-Hd1e138">4</head>
 
         <!--Spiritus super aquas, seu bonitas Creatoris.-->
         <p xml:id="aconf-l13-d1e123" n="5">Quid ergo tibi deesset ad bonum, quod tu tibi es, etiamsi
@@ -131,11 +128,11 @@
           in se requiescere facit. Sed superferebatur incorruptibilis et incommutabilis voluntas
           tua, ipsa in se sibi sufficiens, super eam quam feceras vitam; cui non hoc est vivere,
           quod beate vivere, quia vivit etiam fluitans in obscuritate sua; cui restat converti ad
-          eum, a quo facta est, et magis magisque vivere <quote source="http://scta.info/resource/ps35_10@2-12">apud fontem vitae et in lumine eius videre
+          eum, a quo facta est, et magis magisque vivere <quote xml:id="aconf-l13-Qd1e144" source="http://scta.info/resource/ps35_10@2-12">apud fontem vitae et in lumine eius videre
           lumen</quote>, et perfici et illustrari et beari.</p>
         </div>
-        <div>
-          <head>5</head>
+        <div xml:id="aconf-l13-Dd1e150">
+          <head xml:id="aconf-l13-Hd1e152">5</head>
 
         <!--Trinitas in aenigmate descripta.-->
         <p xml:id="aconf-l13-d1e129" n="6">Ecce apparet mihi in aenigmate Trinitas, quod es, Deus
@@ -150,8 +147,8 @@
           superferebatur super aquas. Ecce Trinitas Deus meus, Pater et Filius et Spiritus
           Sanctus, Creator universae creaturae.</p>
         </div>
-        <div>
-          <head>6</head>
+        <div xml:id="aconf-l13-Dd1e160">
+          <head xml:id="aconf-l13-Hd1e162">6</head>
 
         <!--Cur Spiritus postremo nominatus sit.-->
         <p xml:id="aconf-l13-d1e134" n="7">Sed quae causa fuerat, o lumen veridicum, tibi admoveo
@@ -165,12 +162,12 @@
           oportebat aliter commemorari, nisi ut superferri diceretur. Cur ergo aliter eum insinuari
           non oportebat, nisi ut superferri diceretur?</p>
         </div>
-        <div>
-          <head>7</head>
+        <div xml:id="aconf-l13-Dd1e170">
+          <head xml:id="aconf-l13-Hd1e172">7</head>
 
         <!--Spiritus Dei nos attollit.-->
         <p xml:id="aconf-l13-d1e139" n="8">Iam hinc sequatur qui potest intellectu Apostolum tuum
-          dicentem, quia <quote source="http://scta.info/resource/rom5_5@6-19">caritas tua diffusa est in cordibus nostris per Spiritum Sanctum, qui datus
+          dicentem, quia <quote xml:id="aconf-l13-Qd1e178" source="http://scta.info/resource/rom5_5@6-19">caritas tua diffusa est in cordibus nostris per Spiritum Sanctum, qui datus
           est nobis</quote>, et de spiritalibus docentem et demonstrantem supereminentem viam
           caritatis et flectentem genua pro nobis ad te, ut cognoscamus supereminentem scientiam
           caritatis Christi. Ideoque ab initio supereminens superferebatur super aquas. Cui
@@ -182,28 +179,28 @@
           ubi spiritus tuus superfertur super aquas, et veniamus ad supereminentem requiem, cum
           pertransierit anima nostra aquas, quae sunt sine substantia.</p>
         </div>
-        <div>
-          <head>8</head>
+        <div xml:id="aconf-l13-Dd1e183">
+          <head xml:id="aconf-l13-Hd1e185">8</head>
 
         <!--Spiritus creaturarum fluxi et beatitudini restituti.-->
         <p xml:id="aconf-l13-d1e145" n="9">Defluxit angelus, defluxit anima hominis et indicaverunt
           abyssum universae spiritalis creaturae in profundo tenebroso, nisi dixisses ab initio:
-          <quote source="http://scta.info/resource/gen1_3@3-8">Fiat lux, et facta esset lux</quote>, et inhaereret tibi omnis oboediens intellegentia
+          <quote xml:id="aconf-l13-Qd1e191" source="http://scta.info/resource/gen1_3@3-8">Fiat lux, et facta esset lux</quote>, et inhaereret tibi omnis oboediens intellegentia
           caelestis civitatis tuae et requiesceret in spiritu tuo, qui superfertur incommutabiliter
           super omne mutabile. Alioquin et ipsum caelum caeli tenebrosa abyssus esset in se; nunc
           autem lux est in Domino. Nam et in ipsa misera inquietudine defluentium spirituum et
           indicantium tenebras suas nudatas veste luminis tui satis ostendis, quam magnam rationalem
           creaturam feceris, cui nullo modo sufficit ad beatam requiem, quidquid te minus est, ac
           per hoc nec ipsa sibi. Tu enim, Deus noster, illuminabis tenebras nostras; ex te
-          oriuntur vestimenta nostra, et <quote source="http://scta.info/resource/is58_10@15-20">tenebrae nostrae sicut meridies erunt</quote>. Da mihi te, Deus
+          oriuntur vestimenta nostra, et <quote xml:id="aconf-l13-Qd1e194" source="http://scta.info/resource/is58_10@15-20">tenebrae nostrae sicut meridies erunt</quote>. Da mihi te, Deus
           meus, redde mihi te; en amo et, si parum est, amem validius. Non possum metiri, ut sciam,
           quantum desit mihi amoris ad id quod sat est, ut currat vita mea in amplexus tuos nec
           avertatur, donec abscondatur in abscondito vultus tui. Hoc tantum scio, quia male mihi
           est praeter te non solum extra me sed et in me ipso, et omnis mihi copia, quae Deus meus
           non est, egestas est.</p>
         </div>
-        <div>
-          <head>9</head>
+        <div xml:id="aconf-l13-Dd1e199">
+          <head xml:id="aconf-l13-Hd1e201">9</head>
         <!--Amore feruntur omnia.-->
         <p xml:id="aconf-l13-d1e150" n="10">Numquid aut Pater aut Filius non superferebatur super
           aquas? Si tamquam loco sicut corpus, nec Spiritus Sanctus; si autem incommutabilis
@@ -218,13 +215,13 @@
           aqua supra oleum fusa, infra oleum demergitur; ponderibus suis aguntur, loca sua petunt.
           Minus ordinata inquieta sunt: ordinantur et quiescunt. Pondus meum amor meus; eo feror,
           quocumque feror. Dono tuo accendimur et sursum ferimur; inardescimus et imus. Ascendimus
-          <quote source="http://scta.info/resource/ps83_6@8-12">ascensiones in corde</quote> et cantamus canticum graduum. Igne tuo, igne tuo bono
-          inardescimus et imus, quoniam sursum imus ad pacem Hierusalem, quoniam <quote source="http://scta.info/resource/ps121_1@3-14">iucundatus sum in
+          <quote xml:id="aconf-l13-Qd1e207" source="http://scta.info/resource/ps83_6@8-12">ascensiones in corde</quote> et cantamus canticum graduum. Igne tuo, igne tuo bono
+          inardescimus et imus, quoniam sursum imus ad pacem Hierusalem, quoniam <quote xml:id="aconf-l13-Qd1e210" source="http://scta.info/resource/ps121_1@3-14">iucundatus sum in
           his, qui dixerunt mihi: In domum Domini ibimus</quote>. Ibi nos collocabit voluntas bona, ut
           nihil velimus aliud quam permanere illic in aeternum.</p>
         </div>
-        <div>
-          <head>10</head>
+        <div xml:id="aconf-l13-Dd1e215">
+          <head xml:id="aconf-l13-Hd1e217">10</head>
         <!--Beatitudo creaturae ad lumen indeficiens statim conversae.-->
         <p xml:id="aconf-l13-d1e155" n="11">Beata creatura, quae non novit aliud, cum esset ipsa
           aliud, nisi dono tuo, quod superfertur super omne mutabile, mox ut facta est attolleretur
@@ -235,8 +232,8 @@
           indeficiens conversa lux esset. Qui potest, intellegat, a te petat. Ut quid mihi
           molestus est, quasi ego illuminem ullum hominem venientem in hunc mundum?</p>
         </div>
-        <div>
-          <head>11</head>
+        <div xml:id="aconf-l13-Dd1e226">
+          <head xml:id="aconf-l13-Hd1e228">11</head>
         <!--Imago Trinitatis in hominibus adumbrata.-->
         <p xml:id="aconf-l13-d1e161" n="12">Trinitatem omnipotentem quis intelleget? Et quis non
           loquitur eam, si tamen eam? Rara anima, quaecumque de illa loquitur, scit quod loquitur.
@@ -255,71 +252,71 @@
           unitatis magnitudine, quis facile cogitaverit? Quis ullo modo dixerit? Quis quolibet modo
           temere pronuntiaverit?</p>
         </div>
-        <div>
-          <head>12</head>
+        <div xml:id="aconf-l13-Dd1e236">
+          <head xml:id="aconf-l13-Hd1e238">12</head>
         <!--Qui tenebris ignorantiae tegebantur, Domini doctrina illuminati sunt.-->
         <p xml:id="aconf-l13-d1e166" n="13">Procede in confessione, fides mea; dic Domino Deo tuo:
           Sancte, sancte, sancte, Domine Deus meus, in nomine tuo baptizati sumus, Pater et
           Fili et Spiritus Sancte, in nomine tuo baptizamus, Pater et Fili et Spiritus Sancte,
           quia et apud nos in Christo suo fecit Deus caelum et terram, spiritales et carnales
           Ecclesiae suae, et terra nostra antequam acciperet formam doctrinae, invisibilis erat et
-          incomposita, et ignorantiae tenebris tegebamur, quoniam <quote source="http://scta.info/resource/ps38_12@9-12">pro iniquitate erudisti hominem</quote>
+          incomposita, et ignorantiae tenebris tegebamur, quoniam <quote xml:id="aconf-l13-Qd1e244" source="http://scta.info/resource/ps38_12@9-12">pro iniquitate erudisti hominem</quote>
          , et iudicia tua sicut multa abyssus. Sed quia spiritus tuus superferebatur super
-          aquam, non reliquit miseriam nostram misericordia tua, et dixisti: <quote source="http://scta.info/resource/gen1_3@3-4">Fiat lux</quote>;
-          <quote source="http://scta.info/resource/mt3_2@3-8">paenitentiam agite, appropinquavit enim regnum caelorum</quote>. Paenitentiam agite; <quote source="http://scta.info/resource/gen1_3@3-4">Fiat lux</quote>,
-          et quoniam <quote source="http://scta.info/resource/ps41_7@4-16">conturbata erat ad nos ipsos anima nostra, commemorati sumus tui, Domine, de
+          aquam, non reliquit miseriam nostram misericordia tua, et dixisti: <quote xml:id="aconf-l13-Qd1e247" source="http://scta.info/resource/gen1_3@3-4">Fiat lux</quote>;
+          <quote xml:id="aconf-l13-Qd1e250" source="http://scta.info/resource/mt3_2@3-8">paenitentiam agite, appropinquavit enim regnum caelorum</quote>. Paenitentiam agite; <quote xml:id="aconf-l13-Qd1e253" source="http://scta.info/resource/gen1_3@3-4">Fiat lux</quote>,
+          et quoniam <quote xml:id="aconf-l13-Qd1e256" source="http://scta.info/resource/ps41_7@4-16">conturbata erat ad nos ipsos anima nostra, commemorati sumus tui, Domine, de
           terra Iordanis</quote> et de monte aequali tibi, sed parvo propter nos, et displicuerunt nobis
-          tenebrae nostrae, et conversi sumus ad te, et facta est lux. Et ecce <quote source="http://scta.info/resource/eph5_8@1-9">fuimus
+          tenebrae nostrae, et conversi sumus ad te, et facta est lux. Et ecce <quote xml:id="aconf-l13-Qd1e260" source="http://scta.info/resource/eph5_8@1-9">fuimus
           aliquando tenebrae, nunc autem lux in Domino</quote>.</p>
         </div>
-        <div>
-          <head>13</head>
+        <div xml:id="aconf-l13-Dd1e265">
+          <head xml:id="aconf-l13-Hd1e267">13</head>
         <!--Adoptionis et redemptionis exspectatio.-->
-        <p xml:id="aconf-l13-d1e171" n="14">Et tamen adhuc per fidem, nondum per speciem. <quote source="http://scta.info/resource/rom8_24@1-12">Spe
-          enim salvi facti sumus. Spes autem, quae videtur, non est spes</quote>. Adhuc <quote source="http://scta.info/resource/ps41_8@1-7">abyssus abyssum
-          invocat, sed iam in voce cataractarum tuarum</quote>. Adhuc et ille qui dicit: <quote source="http://scta.info/resource/Icor3_1@4-12">Non potui vobis
+        <p xml:id="aconf-l13-d1e171" n="14">Et tamen adhuc per fidem, nondum per speciem. <quote xml:id="aconf-l13-Qd1e273" source="http://scta.info/resource/rom8_24@1-12">Spe
+          enim salvi facti sumus. Spes autem, quae videtur, non est spes</quote>. Adhuc <quote xml:id="aconf-l13-Qd1e276" source="http://scta.info/resource/ps41_8@1-7">abyssus abyssum
+          invocat, sed iam in voce cataractarum tuarum</quote>. Adhuc et ille qui dicit: <quote xml:id="aconf-l13-Qd1e279" source="http://scta.info/resource/Icor3_1@4-12">Non potui vobis
           loqui quasi spiritalibus, sed quasi carnalibus</quote>, etiam ipse nondum se arbitratur
           comprehendisse, et quae retro oblitus, in ea, quae ante sunt, extenditur et ingemescit
           gravatus, et sitit anima eius ad Deum vivum, quemadmodum cervi ad fontes aquarum, et
-          dicit: Quando veniam? <quote source="http://scta.info/resource/IIcor5_2@6-13">Habitaculum suum, quod de caelo est, superindui cupiens</quote>, et
-          invocat inferiorem abyssum dicens: <quote source="http://scta.info/resource/rom12_2@2-11">Nolite conformari huic saeculo, sed reformamini in
-          novitate mentis vestrae</quote>; et: <quote source="http://scta.info/resource/Icor14_20@2-13">Nolite pueri effici mentibus, sed malitia parvuli estote,
-          ut mentibus perfecti sitis</quote>; et: <quote source="http://scta.info/resource/gal3_1@1-6">O stulti Galatae, quis vos fascinavit?</quote> Sed iam non
+          dicit: Quando veniam? <quote xml:id="aconf-l13-Qd1e282" source="http://scta.info/resource/IIcor5_2@6-13">Habitaculum suum, quod de caelo est, superindui cupiens</quote>, et
+          invocat inferiorem abyssum dicens: <quote xml:id="aconf-l13-Qd1e285" source="http://scta.info/resource/rom12_2@2-11">Nolite conformari huic saeculo, sed reformamini in
+          novitate mentis vestrae</quote>; et: <quote xml:id="aconf-l13-Qd1e289" source="http://scta.info/resource/Icor14_20@2-13">Nolite pueri effici mentibus, sed malitia parvuli estote,
+          ut mentibus perfecti sitis</quote>; et: <quote xml:id="aconf-l13-Qd1e292" source="http://scta.info/resource/gal3_1@1-6">O stulti Galatae, quis vos fascinavit?</quote> Sed iam non
           in voce sua; in tua enim, qui misisti spiritum tuum de excelsis per eum, qui ascendit
           in altum et aperuit cataractas donorum suorum, ut fluminis impetus laetificarent
           civitatem tuam. Illi enim suspirat sponsi amicus, habens iam spiritus primitias
           penes eum, sed adhuc in semetipso ingemescens, adoptionem exspectans, redemptionem
           corporis sui; illi suspirat (membrum est enim sponsae) et illi zelat (amicus est
           enim sponsi),illi zelat, non sibi, quia in voce cataractarum tuarum, non in voce sua
-          invocat alteram abyssum, cui zelans timet, ne <quote source="http://scta.info/resource/IIcor11_3@4-13">sicut serpens Evam decepit astutia sua, sic
+          invocat alteram abyssum, cui zelans timet, ne <quote xml:id="aconf-l13-Qd1e295" source="http://scta.info/resource/IIcor11_3@4-13">sicut serpens Evam decepit astutia sua, sic
           et eorum sensus corrumpantur a castitate</quote>, quae est in sponso nostro, Unico tuo. Quae
-          est illa speciei lux? Cum <quote source="http://scta.info/resource/Iio3_2@19-22">videbimus eum, sicuti est</quote>, et transierint <quote source="http://scta.info/resource/ps41_4@1-16">lacrimae, quae mihi
+          est illa speciei lux? Cum <quote xml:id="aconf-l13-Qd1e298" source="http://scta.info/resource/Iio3_2@19-22">videbimus eum, sicuti est</quote>, et transierint <quote xml:id="aconf-l13-Qd1e301" source="http://scta.info/resource/ps41_4@1-16">lacrimae, quae mihi
           factae sunt panis die ac nocte, dum dicitur mihi quotidie: Ubi est Deus tuus?</quote></p>
         </div>
-        <div>
-          <head>14</head>
+        <div xml:id="aconf-l13-Dd1e305">
+          <head xml:id="aconf-l13-Hd1e307">14</head>
         <!--Fides et spes.-->
         <p xml:id="aconf-l13-d1e177" n="15">Et ego dico: " Deus meus ubi es? ". Ecce ubi es.
-          Respiro in te paululum, cum effundo super me animam meam <quote source="http://scta.info/resource/ps41_5@20-26">in voce exsultationis et
+          Respiro in te paululum, cum effundo super me animam meam <quote xml:id="aconf-l13-Qd1e313" source="http://scta.info/resource/ps41_5@20-26">in voce exsultationis et
           confessionis soni festivitatem celebrantis</quote>. Et adhuc tristis est, quia relabitur et fit
           abyssus, vel potius sentit adhuc se esse abyssum. Dicit ei fides mea, quam accendisti in
-          nocte ante pedes meos: <quote source="http://scta.info/resource/ps41_6@1-12">Quare tristis es, anima, et quare conturbas me? Spera in Domino</quote>;
+          nocte ante pedes meos: <quote xml:id="aconf-l13-Qd1e316" source="http://scta.info/resource/ps41_6@1-12">Quare tristis es, anima, et quare conturbas me? Spera in Domino</quote>;
           lucerna pedibus tuis verbum eius. Spera et persevera, donec transeat nox, mater
           iniquorum, donec transeat ira Domini, cuius filii et nos fuimus aliquando tenebrae,
           quarum residua trahimus in corpore propter peccatum mortuo, donec aspiret dies et
           removeantur umbrae. Spera in Domino: Mane astabo et contemplabor; semper confitebor
-          illi. Mane astabo et videbo salutare vultus mei, Deum meum, qui <quote source="http://scta.info/resource/rom8_11@19-29">vivificabit et
+          illi. Mane astabo et videbo salutare vultus mei, Deum meum, qui <quote xml:id="aconf-l13-Qd1e319" source="http://scta.info/resource/rom8_11@19-29">vivificabit et
           mortalia corpora nostra propter spiritum, qui habitat in nobis</quote>, quia super interius
           nostrum tenebrosum et fluvidum misericorditer superferebatur. Unde in hac peregrinatione
-          pignus accepimus, ut iam simus lux, dum adhuc spe salvi facti sumus, et <quote source="http://scta.info/resource/Ith5_5@4-14">filii
+          pignus accepimus, ut iam simus lux, dum adhuc spe salvi facti sumus, et <quote xml:id="aconf-l13-Qd1e322" source="http://scta.info/resource/Ith5_5@4-14">filii
           lucis et filii diei, non filii noctis neque tenebrarum</quote>, quod tamen fuimus. Inter
           quos et nos in isto adhuc incerto humanae notitiae tu solus dividis, qui probas corda
-          nostra et <quote source="http://scta.info/resource/gen1_5@1-6">vocas lucem diem et tenebras noctem</quote>. Quis enim nos discernit nisi tu?
+          nostra et <quote xml:id="aconf-l13-Qd1e325" source="http://scta.info/resource/gen1_5@1-6">vocas lucem diem et tenebras noctem</quote>. Quis enim nos discernit nisi tu?
           Quid autem habemus, quod non accepimus a te, ex eadem massa vasa in honorem, ex qua
           sunt et alia facta in contumeliam?</p>
         </div>
-        <div>
-          <head>15</head>
+        <div xml:id="aconf-l13-Dd1e330">
+          <head xml:id="aconf-l13-Hd1e332">15</head>
         <!--Firmamentum, seu Scripturae constans auctoritas.-->
         <p xml:id="aconf-l13-d1e182" n="16">Aut quis nisi tu, Deus noster, fecisti nobis
           firmamentum auctoritatis super nos in Scriptura tua divina? Caelum enim plicabitur ut
@@ -333,9 +330,9 @@
           extentum erat. Nondum sicut pellem caelum extenderas, nondum mortis eorum famam
           usquequaque dilataveras.</p>
 
-        <p xml:id="aconf-l13-d1e185" n="17"><quote source="http://scta.info/resource/ps8_4@1-7">Videamus, Domine, caelos, opera digitorum tuorum</quote>;
-          disserena oculis nostris nubilum, quo subtexisti eos. Ibi est <quote source="http://scta.info/resource/ps18_8@6-11">testimonium tuum sapientiam
-          praestans parvulis</quote>. <quote source="http://scta.info/resource/ps8_3@1-7">Perfice, Deus meus, laudem tuam ex ore infantium et lactentium</quote>
+        <p xml:id="aconf-l13-d1e185" n="17"><quote xml:id="aconf-l13-Qd1e340" source="http://scta.info/resource/ps8_4@1-7">Videamus, Domine, caelos, opera digitorum tuorum</quote>;
+          disserena oculis nostris nubilum, quo subtexisti eos. Ibi est <quote xml:id="aconf-l13-Qd1e343" source="http://scta.info/resource/ps18_8@6-11">testimonium tuum sapientiam
+          praestans parvulis</quote>. <quote xml:id="aconf-l13-Qd1e346" source="http://scta.info/resource/ps8_3@1-7">Perfice, Deus meus, laudem tuam ex ore infantium et lactentium</quote>
          . Neque enim novimus alios libros ita destruentes superbiam, ita destruentes
           inimicum et defensorem resistentem reconciliationi tuae defendendo peccata sua. Non
           novi, Domine, non novi alia tam casta eloquia, quae sic mihi persuaderent confessionem
@@ -352,31 +349,31 @@
           incommutabilitatem consilii tui. Non clauditur codex eorum nec plicatur liber eorum,
           quia tu ipse illis hoc es et es in aeternum, quia super hoc firmamentum ordinasti eos,
           quod firmasti super infirmitatem inferiorum populorum, ubi suspicerent et cognoscerent
-          misericordiam tuam temporaliter enuntiantem te, qui fecisti tempora. <quote source="http://scta.info/resource/ps35_6@1-11">In caelo enim,
+          misericordiam tuam temporaliter enuntiantem te, qui fecisti tempora. <quote xml:id="aconf-l13-Qd1e355" source="http://scta.info/resource/ps35_6@1-11">In caelo enim,
           Domine, misericordia tua et veritas tua usque ad nubes</quote>. Transeunt nubes, caelum
           autem manet. Transeunt praedicatores verbi tui ex hac vita in aliam vitam, Scriptura vero
-          tua usque in finem saeculi super populos extenditur. Sed et <quote source="http://scta.info/resource/mt24_35@1-9">caelum et terra transibunt,
+          tua usque in finem saeculi super populos extenditur. Sed et <quote xml:id="aconf-l13-Qd1e358" source="http://scta.info/resource/mt24_35@1-9">caelum et terra transibunt,
           sermones autem tui non transibunt</quote>, quoniam et pellis plicabitur et faenum, super quod
           extendebatur, cum claritate sua praeteriet, verbum autem tuum manet in aeternum, quod
           nunc in aenigmate nubium et per speculum caeli, non sicuti est, apparet nobis, quia et
-          nos quamvis Filio tuo dilecti sumus, <quote source="http://scta.info/resource/Iio3_2@7-10">nondum apparuit quod erimus</quote>. Attendit per retia
-          carnis et blanditus est et inflammavit, et currimus post odorem eius. Sed <quote source="http://scta.info/resource/Iio3_2@13-22">cum
+          nos quamvis Filio tuo dilecti sumus, <quote xml:id="aconf-l13-Qd1e361" source="http://scta.info/resource/Iio3_2@7-10">nondum apparuit quod erimus</quote>. Attendit per retia
+          carnis et blanditus est et inflammavit, et currimus post odorem eius. Sed <quote xml:id="aconf-l13-Qd1e364" source="http://scta.info/resource/Iio3_2@13-22">cum
           apparuerit, similes ei erimus, quoniam videbimus eum, sicuti est</quote>; sicuti est, Domine,
           videre nostrum, quod nondum est nobis.</p>
         </div>
-        <div>
-          <head>16</head>
+        <div xml:id="aconf-l13-Dd1e369">
+          <head xml:id="aconf-l13-Hd1e371">16</head>
         <!--Anima sitit et esurit.-->
         <p xml:id="aconf-l13-d1e196" n="19">Nam sicut omnino tu es, tu scis solus, qui es
           incommutabiliter et scis incommutabiliter et vis incommutabiliter. Et essentia tua scit et
           vult incommutabiliter et scientia tua est et vult incommutabiliter et voluntas tua est et
           scit incommutabiliter. Nec videtur iustum esse coram te, ut, quemadmodum se scit lumen
-          incommutabile, ita sciatur ab illuminato commutabili. Ideoque <quote source="http://scta.info/resource/ps142_6@6-12">anima mea tamquam terra sine
+          incommutabile, ita sciatur ab illuminato commutabili. Ideoque <quote xml:id="aconf-l13-Qd1e377" source="http://scta.info/resource/ps142_6@6-12">anima mea tamquam terra sine
           aqua tibi</quote>, quia sicut se illuminare de se non potest, ita se satiare de se non potest.
-          Sic enim <quote source="http://scta.info/resource/ps35_10@2-12">apud te fons vitae, quomodo in lumine tuo videbimus lumen</quote>.</p>
+          Sic enim <quote xml:id="aconf-l13-Qd1e380" source="http://scta.info/resource/ps35_10@2-12">apud te fons vitae, quomodo in lumine tuo videbimus lumen</quote>.</p>
         </div>
-        <div>
-          <head>17</head>
+        <div xml:id="aconf-l13-Dd1e386">
+          <head xml:id="aconf-l13-Hd1e388">17</head>
         <!--Congregatio aquarum, seu societas ethnice viventium.-->
         <p xml:id="aconf-l13-d1e201" n="20">Quis congregavit amaricantes in societatem unam? Idem
           namque illis finis est temporalis et terrenae felicitatis, propter quam faciunt omnia,
@@ -396,65 +393,65 @@
           compatimur ad subveniendum indigentibus similiter opitulantes, quemadmodum nobis vellemus
           opem ferri, si eodem modo indigeremus, non tantum in facilibus tamquam in herba seminali,
           sed etiam in protectione adiutorii forti robore, sicut lignum fructiferum, id est
-          beneficum ad eripiendum <quote source="http://scta.info/resource/sir4_9@1-8">eum, qui iniuriam patitur, de manu potentis</quote> et praebendo
+          beneficum ad eripiendum <quote xml:id="aconf-l13-Qd1e399" source="http://scta.info/resource/sir4_9@1-8">eum, qui iniuriam patitur, de manu potentis</quote> et praebendo
           protectionis umbraculum valido robore iusti iudicii.</p>
         </div>
-        <div>
-          <head>18</head>
+        <div xml:id="aconf-l13-Dd1e404">
+          <head xml:id="aconf-l13-Hd1e406">18</head>
         <!--Sol, luna et stellae, seu operationes spiritus.-->
         <p xml:id="aconf-l13-d1e212" n="22">Ita, Domine, ita, oro te, oriatur, sicuti facis, sicuti
-          das hilaritatem et facultatem, <quote source="http://scta.info/resource/ps84_12@1-10">oriatur de terra veritas, et iustitia de caelo respiciat</quote>
-         , et fiant in firmamento luminaria. <quote source="http://scta.info/resource/is58_7@1-21">Frangamus esurienti panem nostrum et egenum
+          das hilaritatem et facultatem, <quote xml:id="aconf-l13-Qd1e412" source="http://scta.info/resource/ps84_12@1-10">oriatur de terra veritas, et iustitia de caelo respiciat</quote>
+         , et fiant in firmamento luminaria. <quote xml:id="aconf-l13-Qd1e415" source="http://scta.info/resource/is58_7@1-21">Frangamus esurienti panem nostrum et egenum
           sine tecto inducamus in domum nostram, nudum vestiamus et domesticos seminis nostri non
           despiciamus</quote>. Quibus in terra natis fructibus vide, quia bonum est, et erumpat temporaria
           lux nostra, et de ista inferiore fruge actionis in delicias contemplationis verbum
-          vitae superius obtinentes <quote source="http://scta.info/resource/phil2_15@20-23">appareamus sicut luminaria in mundo</quote> cohaerentes firmamento
+          vitae superius obtinentes <quote xml:id="aconf-l13-Qd1e418" source="http://scta.info/resource/phil2_15@20-23">appareamus sicut luminaria in mundo</quote> cohaerentes firmamento
           Scripturae tuae. Ibi enim nobiscum disputas, ut dividamus inter intellegibilia et
           sensibilia tamquam inter diem et noctem vel inter animas alias intellegibilibus, alias
           sensibilibus deditas, ut iam non tu solus in abdito diiudicationis tuae, sicut antequam
           fieret firmamentum, dividas inter lucem et tenebras, sed etiam spiritales tui in eodem
           firmamento positi atque distincti manifestata per orbem gratia tua luceant super terram et
-          dividant inter diem et noctem et significent tempora, quia <quote source="http://scta.info/resource/IIcor5_17@8-13">vetera transierunt, ecce
-          facta sunt nova</quote>, et quia <quote source="http://scta.info/resource/rom13_11@15-21">propior est nostra salus, quam cum credidimus</quote>, et quia <quote source="http://scta.info/resource/rom13_12@1-5">nox
+          dividant inter diem et noctem et significent tempora, quia <quote xml:id="aconf-l13-Qd1e421" source="http://scta.info/resource/IIcor5_17@8-13">vetera transierunt, ecce
+          facta sunt nova</quote>, et quia <quote xml:id="aconf-l13-Qd1e424" source="http://scta.info/resource/rom13_11@15-21">propior est nostra salus, quam cum credidimus</quote>, et quia <quote xml:id="aconf-l13-Qd1e428" source="http://scta.info/resource/rom13_12@1-5">nox
           praecessit, dies autem appropinquavit</quote>, et quia benedicis coronam anni tui, mittens
           operarios in messem tuam, in qua seminanda alii laboraverunt, mittens etiam in
           aliam sementem, cuius messis in fine est. Ita das vota optanti et benedicis annos iusti,
-          <quote source="http://scta.info/resource/ps101_28@1-10">tu autem idem ipse es et in annis tuis, qui non deficiunt</quote>, horreum praeparas annis
+          <quote xml:id="aconf-l13-Qd1e431" source="http://scta.info/resource/ps101_28@1-10">tu autem idem ipse es et in annis tuis, qui non deficiunt</quote>, horreum praeparas annis
           transeuntibus. Aeterno quippe consilio propriis temporibus bona caelestia das super
           terram.</p>
 
-        <p xml:id="aconf-l13-d1e215" n="23">Quoniam quidem <quote source="http://scta.info/resource/Icor12_8@1-7">alii datur per spiritum sermo sapientiae</quote>
+        <p xml:id="aconf-l13-d1e215" n="23">Quoniam quidem <quote xml:id="aconf-l13-Qd1e437" source="http://scta.info/resource/Icor12_8@1-7">alii datur per spiritum sermo sapientiae</quote>
           tamquam luminare maius propter eos, qui perspicuae veritatis luce delectantur tamquam in
-          principio diei, <quote source="http://scta.info/resource/Icor12_8@8-14">alii autem sermo scientiae secundum eumdem spiritum</quote> tamquam luminare
-          minus, <quote source="http://scta.info/resource/Icor12_9@1-8 http://scta.info/resource/Icor12_10@1-11">alii fides, alii donatio curationum, alii operationes virtutum, alii prophetia,
-          alii diiudicatio spirituum, alteri genera linguarum</quote>, et haec omnia tamquam stellae. <quote source="http://scta.info/resource/Icor12_11@1-12">Omnia
+          principio diei, <quote xml:id="aconf-l13-Qd1e440" source="http://scta.info/resource/Icor12_8@8-14">alii autem sermo scientiae secundum eumdem spiritum</quote> tamquam luminare
+          minus, <quote xml:id="aconf-l13-Qd1e443" source="http://scta.info/resource/Icor12_9@1-8 http://scta.info/resource/Icor12_10@1-11">alii fides, alii donatio curationum, alii operationes virtutum, alii prophetia,
+          alii diiudicatio spirituum, alteri genera linguarum</quote>, et haec omnia tamquam stellae. <quote xml:id="aconf-l13-Qd1e446" source="http://scta.info/resource/Icor12_11@1-12">Omnia
           enim haec operatur unus atque idem spiritus, dividens propria unicuique prout vult</quote> et
           faciens apparere sidera in manifestatione ad utilitatem. Sermo autem scientiae, qua
           continentur omnia sacramenta, quae variantur temporibus tamquam luna, et ceterae
           notitiae donorum, quae deinceps tamquam stellae commemorata sunt, quantum differunt ab
           illo candore sapientiae, quo gaudet praedictus dies, tantum in principio noctis sunt. His
-          enim sunt necessaria, quibus ille prudentissimus servus tuus <quote source="http://scta.info/resource/Icor3_1@4-12">non potuit loqui quasi
-          spiritalibus, sed quasi carnalibus</quote>, ille, qui <quote source="http://scta.info/resource/Icor2_6@1-5">sapientiam loquitur inter perfectos</quote>.
+          enim sunt necessaria, quibus ille prudentissimus servus tuus <quote xml:id="aconf-l13-Qd1e449" source="http://scta.info/resource/Icor3_1@4-12">non potuit loqui quasi
+          spiritalibus, sed quasi carnalibus</quote>, ille, qui <quote xml:id="aconf-l13-Qd1e453" source="http://scta.info/resource/Icor2_6@1-5">sapientiam loquitur inter perfectos</quote>.
           Animalis autem homo tamquam parvulus in Christo lactisque potator, donec roboretur
           ad solidum cibum et aciem firmet ad solis aspectum, non habeat desertam noctem suam,
           sed luce lunae stellarumque contentus sit. Haec nobiscum disputas sapientissime, Deus
           noster, in libro tuo, firmamento tuo, ut discernamus omnia contemplatione mirabili,
-          quamvis adhuc <quote source="http://scta.info/resource/gen1_14@14-23">in signis et in temporibus et in diebus et in annis</quote>.</p>
+          quamvis adhuc <quote xml:id="aconf-l13-Qd1e456" source="http://scta.info/resource/gen1_14@14-23">in signis et in temporibus et in diebus et in annis</quote>.</p>
         </div>
-        <div>
-          <head>19</head>
+        <div xml:id="aconf-l13-Dd1e461">
+          <head xml:id="aconf-l13-Hd1e463">19</head>
         <!--Electorum incitatio.-->
-        <p xml:id="aconf-l13-d1e220" n="24">Sed prius <quote source="http://scta.info/resource/is1_16@1-10">lavamini, mundi estote, auferte nequitiam ab
-          animis vestris atque a conspectu oculorum meorum</quote>, ut appareat arida. <quote source="http://scta.info/resource/is1_17@1-10">Discite bonum facere,
+        <p xml:id="aconf-l13-d1e220" n="24">Sed prius <quote xml:id="aconf-l13-Qd1e469" source="http://scta.info/resource/is1_16@1-10">lavamini, mundi estote, auferte nequitiam ab
+          animis vestris atque a conspectu oculorum meorum</quote>, ut appareat arida. <quote xml:id="aconf-l13-Qd1e472" source="http://scta.info/resource/is1_17@1-10">Discite bonum facere,
           iudicate pupillo et iustificate viduam</quote>, ut germinet terra herbam pabuli et lignum
-          fructiferum, et <quote source="http://scta.info/resource/is1_18@1-7">venite, disputemus, dicit Dominus</quote>, ut <quote source="http://scta.info/resource/gen1_14@4-8 http://scta.info/resource/gen1_15@1-8">fiant luminaria in firmamento caeli,
+          fructiferum, et <quote xml:id="aconf-l13-Qd1e475" source="http://scta.info/resource/is1_18@1-7">venite, disputemus, dicit Dominus</quote>, ut <quote xml:id="aconf-l13-Qd1e478" source="http://scta.info/resource/gen1_14@4-8 http://scta.info/resource/gen1_15@1-8">fiant luminaria in firmamento caeli,
           et luceant super terram</quote>. Quaerebat dives ille a magistro bono, quid faceret, ut vitam
           aeternam consequeretur; dicat ei magister bonus, quem putabat hominem et nihil amplius
-          (bonus est autem, quia Deus est) dicat ei, ut, <quote source="http://scta.info/resource/mt19_17@13-20">si vult venire ad vitam, servet mandata</quote>,
-          separet a se amaritudinem malitiae atque nequitiae, <quote source="http://scta.info/resource/mt19_18@7-18">non occidat, non moechetur, non
+          (bonus est autem, quia Deus est) dicat ei, ut, <quote xml:id="aconf-l13-Qd1e481" source="http://scta.info/resource/mt19_17@13-20">si vult venire ad vitam, servet mandata</quote>,
+          separet a se amaritudinem malitiae atque nequitiae, <quote xml:id="aconf-l13-Qd1e485" source="http://scta.info/resource/mt19_18@7-18">non occidat, non moechetur, non
           furetur, non falsum testimonium dicat</quote>, ut appareat arida et germinet honorem matris et
           patris et dilectionem proximi. Feci, inquit, haec omnia. Unde ergo tantae spinae, si terra
-          fructifera est? Vade, exstirpa silvosa dumeta avaritiae, <quote source="http://scta.info/resource/mt19_21@4-23">vende quae possides et implere
+          fructifera est? Vade, exstirpa silvosa dumeta avaritiae, <quote xml:id="aconf-l13-Qd1e488" source="http://scta.info/resource/mt19_21@4-23">vende quae possides et implere
           frugibus dando pauperibus et habebis thesaurum in caelis et sequere Dominum, si vis esse
           perfectus</quote>, eis sociatus, inter quos loquitur sapientiam ille, qui novit, quid distribuat
           diei et nocti, ut noris et tu, ut fiant et tibi luminaria in firmamento caeli; quod non
@@ -462,22 +459,22 @@
           sicut audisti a Magistro bono. Sed contristata est terra sterilis, et spinae suffocaverunt
           verbum.</p>
 
-        <p xml:id="aconf-l13-d1e223" n="25"><quote source="http://scta.info/resource/Ipetr2_9@1-4">Vos autem, genus electum</quote>, infirma mundi, qui
+        <p xml:id="aconf-l13-d1e223" n="25"><quote xml:id="aconf-l13-Qd1e493" source="http://scta.info/resource/Ipetr2_9@1-4">Vos autem, genus electum</quote>, infirma mundi, qui
           dimisistis omnia, ut sequeremini Dominum, ite post eum et confundite fortia, ite
-          post eum, speciosi pedes, et lucete in firmamento, ut <quote source="http://scta.info/resource/ps18_2@1-4">caeli enarrent gloriam eius</quote>
+          post eum, speciosi pedes, et lucete in firmamento, ut <quote xml:id="aconf-l13-Qd1e496" source="http://scta.info/resource/ps18_2@1-4">caeli enarrent gloriam eius</quote>
          , dividentes inter lucem perfectorum, sed nondum sicut angelorum, et tenebras
           parvulorum, sed non desperatorum; lucete super omnem terram, et dies sole candens
           eructet diei verbum sapientiae et nox, luna lucens, annuntiet nocti verbum scientiae.
           Luna et stellae nocti lucent, sed nox non obscurat eas, quoniam ipsae illuminant eam pro
-          modulo eius. Ecce enim tamquam Deo dicente: <quote source="http://scta.info/resource/gen1_14@4-8">Fiant luminaria in firmamento caeli</quote>,
-          <quote source="http://scta.info/resource/act2_2@1-11 http://scta.info/resource/act2_3@1-11">factus est subito de caelo sonus, quasi ferretur flatus vehemens, et visae sunt linguae
+          modulo eius. Ecce enim tamquam Deo dicente: <quote xml:id="aconf-l13-Qd1e499" source="http://scta.info/resource/gen1_14@4-8">Fiant luminaria in firmamento caeli</quote>,
+          <quote xml:id="aconf-l13-Qd1e502" source="http://scta.info/resource/act2_2@1-11 http://scta.info/resource/act2_3@1-11">factus est subito de caelo sonus, quasi ferretur flatus vehemens, et visae sunt linguae
           divisae quasi ignis, qui et insedit super unumquemque illorum</quote>, et facta sunt luminaria
           in firmamento caeli verbum vitae habentia. Ubique discurrite, ignes sancti, ignes
-          decori. <quote source="http://scta.info/resource/mt5_14@1-4 http://scta.info/resource/mt5_15@7-8">Vos enim estis lumen mundi nec estis sub modio</quote>. Exaltatus est, cui
+          decori. <quote xml:id="aconf-l13-Qd1e505" source="http://scta.info/resource/mt5_14@1-4 http://scta.info/resource/mt5_15@7-8">Vos enim estis lumen mundi nec estis sub modio</quote>. Exaltatus est, cui
           adhaesistis, et exaltavit vos. Discurrite et innotescite omnibus gentibus.</p>
         </div>
-        <div>
-          <head>20</head>
+        <div xml:id="aconf-l13-Dd1e510">
+          <head xml:id="aconf-l13-Hd1e512">20</head>
         <!--Reptilia, seu sacramenta; coeti, seu miracula; volatilia, seu nuntii Dei.-->
         <p xml:id="aconf-l13-d1e229" n="26">Concipiat et mare et pariat opera vestra, et producant
           aquae reptilia animarum vivarum. Separantes enim pretiosum a vili facti estis os Dei
@@ -487,8 +484,8 @@
           ad imbuendas gentes nomine tuo in baptismo tuo. Et inter haec facta sunt magnalia
           mirabilia tamquam coeti grandes et voces nuntiorum tuorum volantes super terram iuxta
           firmamentum Libri tui praeposito illo sibi ad auctoritatem, sub quo volitarent, quocumque
-          irent. <quote source="http://scta.info/resource/ps18_4@1-10">Neque enim sunt loquelae neque sermones, quorum non audiantur voces eorum</quote>, quando
-          <quote source="http://scta.info/resource/ps18_5@1-13">in omnem terram exiit sonus eorum et in fines orbis terrae verba eorum</quote>, quoniam tu,
+          irent. <quote xml:id="aconf-l13-Qd1e518" source="http://scta.info/resource/ps18_4@1-10">Neque enim sunt loquelae neque sermones, quorum non audiantur voces eorum</quote>, quando
+          <quote xml:id="aconf-l13-Qd1e521" source="http://scta.info/resource/ps18_5@1-13">in omnem terram exiit sonus eorum et in fines orbis terrae verba eorum</quote>, quoniam tu,
           Domine, benedicendo multiplicasti haec.</p>
 
         <!--Aquae, seu gentes.-->
@@ -512,16 +509,16 @@
           corporalibus sacramentis subditi non ultra proficerent, nisi spiritaliter vivesceret anima
           gradu alio et post initii verbum in consummationem respiceret.</p>
         </div>
-        <div>
-          <head>21</head>
+        <div xml:id="aconf-l13-Dd1e535">
+          <head xml:id="aconf-l13-Hd1e537">21</head>
         <!--Anima viva, seu fidelis.-->
         <p xml:id="aconf-l13-d1e242" n="29">Ac per hoc in verbo tuo non maris profunditas, sed ab
           aquarum amaritudine terra discreta eicit non reptilia animarum vivarum et volatilia, sed
           animam vivam. Neque enim iam opus habet baptismo, quo gentibus opus est, sicut opus
           habebat, cum aquis tegeretur: non enim intratur aliter in regnum caelorum ex illo, quo
           instituisti, ut sic intretur; nec magnalia mirabilium quaerit, quibus fiat fides;
-          neque enim <quote source="http://scta.info/resource/io4_48@6-12">nisi signa et prodigia viderit, non credit</quote>, cum iam distincta sit terra
-          fidelis ab aquis maris infidelitate amaris, et <quote source="http://scta.info/resource/Icor14_22@2-9">linguae in signo sunt non fidelibus, sed
+          neque enim <quote xml:id="aconf-l13-Qd1e543" source="http://scta.info/resource/io4_48@6-12">nisi signa et prodigia viderit, non credit</quote>, cum iam distincta sit terra
+          fidelis ab aquis maris infidelitate amaris, et <quote xml:id="aconf-l13-Qd1e546" source="http://scta.info/resource/Icor14_22@2-9">linguae in signo sunt non fidelibus, sed
           infidelibus</quote>. Nec isto igitur genere volatili, quod verbo tuo produxerunt aquae, opus
           habet terra, quam fundasti super aquas. Immitte in eam verbum tuum per nuntios
           tuos. Opera enim eorum narramus, sed tu es, qui operaris in eis, ut operentur animam
@@ -533,7 +530,7 @@
           evangelizantium infidelitas hominum causa extitit; sed et fideles exhortantur et
           benedicuntur ab eis multipliciter de die in diem. At vero anima viva de terra sumit
           exordium, quia non prodest nisi iam fidelibus continere se ab amore huius saeculi, ut
-          anima eorum tibi vivat, quae <quote source="http://scta.info/resource/Itim5_6@2-8">mortua erat in deliciis vivens</quote>, deliciis, Domine,
+          anima eorum tibi vivat, quae <quote xml:id="aconf-l13-Qd1e549" source="http://scta.info/resource/Itim5_6@2-8">mortua erat in deliciis vivens</quote>, deliciis, Domine,
           mortiferis; nam tu puri cordis vitales deliciae.</p>
 
         <p xml:id="aconf-l13-d1e246" n="30">Operentur ergo iam in terra ministri tui, non sicut in
@@ -542,8 +539,8 @@
           est introitus ad fidem filiis Adam oblitis tui, dum se abscondunt a facie tua et fiunt
           abyssus) sed operentur etiam sicut in arida discreta a gurgitibus abyssi et sint forma
           fidelibus vivendo coram eis et excitando ad imitationem. Sic enim non tantum ad
-          audiendum sed etiam ad faciendum audiunt: <quote source="http://scta.info/resource/ps68_33@5-10">Quaerite Deum, et vivet anima vestra</quote>, ut
-          <quote source="http://scta.info/resource/gen1_24@4-7">producat terra animam viventem</quote>. <quote source="http://scta.info/resource/rom12_2@2-5">Nolite conformari huic saeculo</quote>, continete vos ab
+          audiendum sed etiam ad faciendum audiunt: <quote xml:id="aconf-l13-Qd1e555" source="http://scta.info/resource/ps68_33@5-10">Quaerite Deum, et vivet anima vestra</quote>, ut
+          <quote xml:id="aconf-l13-Qd1e558" source="http://scta.info/resource/gen1_24@4-7">producat terra animam viventem</quote>. <quote xml:id="aconf-l13-Qd1e561" source="http://scta.info/resource/rom12_2@2-5">Nolite conformari huic saeculo</quote>, continete vos ab
           eo. Evitando vivit anima, quae appetendo moritur. Continete vos ab immani feritate
           superbiae, ab inerti voluptate luxuriae et a fallaci nomine scientiae, ut sint bestiae
           mansuetae et pecora edomita et innoxii serpentes. Motus enim animae sunt isti in
@@ -554,30 +551,30 @@
         <!--Bestiae terrae seu affectus animae boni.-->
         <p xml:id="aconf-l13-d1e251" n="31">Verbum autem tuum, Deus, fons vitae aeternae est
           et non praeterit; ideoque in verbo tuo cohibetur ille discessus, dum dicitur
-          nobis: <quote source="http://scta.info/resource/rom12_2@2-5">Nolite conformari huic saeculo</quote>, ut producat terra in fonte vitae animam viventem,
+          nobis: <quote xml:id="aconf-l13-Qd1e570" source="http://scta.info/resource/rom12_2@2-5">Nolite conformari huic saeculo</quote>, ut producat terra in fonte vitae animam viventem,
           in verbo tuo per Evangelistas tuos animam continentem imitando imitatores Christi tui.
-          Hoc est enim secundum genus, quoniam aemulatio viri ab amico est: <quote source="http://scta.info/resource/gal4_12@1-9">Estote, inquit,
+          Hoc est enim secundum genus, quoniam aemulatio viri ab amico est: <quote xml:id="aconf-l13-Qd1e573" source="http://scta.info/resource/gal4_12@1-9">Estote, inquit,
           sicut ego, quia et ego sicut vos</quote>. Ita erunt in anima viva bestiae bonae in
-          mansuetudine actionis. Mandasti enim dicens: <quote source="http://scta.info/resource/sir3_19@2-11">In mansuetudine opera tua perfice et ab omni
-          homine diligeris</quote>. Et pecora bona <quote source="http://scta.info/resource/Icor8_8@7-15">neque si manducaverint, abundantia, neque si non
+          mansuetudine actionis. Mandasti enim dicens: <quote xml:id="aconf-l13-Qd1e576" source="http://scta.info/resource/sir3_19@2-11">In mansuetudine opera tua perfice et ab omni
+          homine diligeris</quote>. Et pecora bona <quote xml:id="aconf-l13-Qd1e579" source="http://scta.info/resource/Icor8_8@7-15">neque si manducaverint, abundantia, neque si non
           manducaverint, egentia</quote>, et serpentes boni non perniciosi ad nocendum, sed astuti ad
-          cavendum et tantum explorantes temporalem naturam, quantum sufficit, ut <quote source="http://scta.info/resource/rom1_20@7-13">per ea, quae
+          cavendum et tantum explorantes temporalem naturam, quantum sufficit, ut <quote xml:id="aconf-l13-Qd1e582" source="http://scta.info/resource/rom1_20@7-13">per ea, quae
           facta sunt, intellecta conspiciatur</quote> aeternitas. Serviunt enim rationi haec animalia,
           cum a progressu mortifero cohibita vivunt et bona sunt.</p>
         </div>
-        <div>
-          <head>22</head>
+        <div xml:id="aconf-l13-Dd1e587">
+          <head xml:id="aconf-l13-Hd1e589">22</head>
         <!--Homo ad imaginem Dei factus, seu renovatus.-->
         <p xml:id="aconf-l13-d1e256" n="32">Ecce enim, Domine Deus noster, Creator noster, cum
           cohibitae fuerint affectiones ab amore saeculi, quibus moriebamur male vivendo, et
           coeperit esse anima vivens bene vivendo completumque fuerit verbum tuum, quo per Apostolum
-          tuum dixisti: <quote source="http://scta.info/resource/rom12_2@2-5">Nolite conformari huic saeculo</quote>, consequetur illud, quod adiunxisti statim et
-          dixisti: <quote source="http://scta.info/resource/rom12_2@6-11">Sed reformamini in novitate mentis vestrae</quote>, non iam secundum genus,
+          tuum dixisti: <quote xml:id="aconf-l13-Qd1e595" source="http://scta.info/resource/rom12_2@2-5">Nolite conformari huic saeculo</quote>, consequetur illud, quod adiunxisti statim et
+          dixisti: <quote xml:id="aconf-l13-Qd1e598" source="http://scta.info/resource/rom12_2@6-11">Sed reformamini in novitate mentis vestrae</quote>, non iam secundum genus,
           tamquam imitantes praecedentem proximum nec ex hominis melioris auctoritate viventes.
-          Neque enim dixisti: " Fiat homo secundum genus ", sed: <quote source="http://scta.info/resource/gen1_26@3-9">Faciamus hominem ad imaginem et
+          Neque enim dixisti: " Fiat homo secundum genus ", sed: <quote xml:id="aconf-l13-Qd1e601" source="http://scta.info/resource/gen1_26@3-9">Faciamus hominem ad imaginem et
           similitudinem nostram</quote>, ut nos probemus, quae sit voluntas tua. Ad hoc enim
           dispensator ille tuus generans per Evangelium filios, ne semper parvulos haberet, quos
-          lacte nutriret et tamquam nutrix foveret: <quote source="http://scta.info/resource/rom12_2@7-22">Reformamini, inquit, in novitate mentis
+          lacte nutriret et tamquam nutrix foveret: <quote xml:id="aconf-l13-Qd1e604" source="http://scta.info/resource/rom12_2@7-22">Reformamini, inquit, in novitate mentis
           vestrae ad probandum vos, quae sit voluntas Dei, quod bonum et beneplacitum et perfectum</quote>
          . Ideoque non dicis: " Fiat homo ", sed: Faciamus, nec dicis: " Secundum genus ", sed:
           ad imaginem et similitudinem nostram. Mente quippe renovatus et conspiciens intellectam
@@ -586,33 +583,33 @@
           et doces eum iam capacem videre trinitatem Unitatis vel unitatem Trinitatis. Ideoque
           pluraliter dicto: Faciamus hominem, singulariter tamen infertur: Et fecit Deus hominem, et
           pluraliter dicto: ad imaginem nostram, singulariter infertur: ad imaginem Dei. Ita
-          homo <quote source="http://scta.info/resource/col3_10@6-14">renovatur in agnitione Dei secundum imaginem eius, qui creavit eum</quote>, et spiritalis
+          homo <quote xml:id="aconf-l13-Qd1e607" source="http://scta.info/resource/col3_10@6-14">renovatur in agnitione Dei secundum imaginem eius, qui creavit eum</quote>, et spiritalis
           effectus iudicat omnia, quae utique iudicanda sunt ipse autem a nemine iudicatur.</p>
         </div>
-        <div>
-          <head>23</head>
+        <div xml:id="aconf-l13-Dd1e613">
+          <head xml:id="aconf-l13-Hd1e615">23</head>
         <!--Quae sit potestas hominis spiritalis.-->
         <p xml:id="aconf-l13-d1e262" n="33">Quod autem iudicat omnia, hoc est, quod habet
           potestatem piscium maris et volatilium caeli et omnium pecorum et ferarum et omnis terrae
           et omnium repentium, quae repunt super terram. Hoc enim agit per mentis intellectum,
-          per quem <quote source="http://scta.info/resource/Icor2_14@5-10">percipit quae sunt spiritus Dei</quote>. Alioquin <quote source="http://scta.info/resource/ps48_13@1-17">homo in honore positus non
+          per quem <quote xml:id="aconf-l13-Qd1e621" source="http://scta.info/resource/Icor2_14@5-10">percipit quae sunt spiritus Dei</quote>. Alioquin <quote xml:id="aconf-l13-Qd1e624" source="http://scta.info/resource/ps48_13@1-17">homo in honore positus non
           intellexit; comparatus est iumentis insensatis et similis factus est eis</quote>. Ergo in
-          Ecclesia tua, Deus noster, secundum gratiam tuam, quam dedisti ei, quoniam <quote source="http://scta.info/resource/eph2_10@1-11">tuum sumus
+          Ecclesia tua, Deus noster, secundum gratiam tuam, quam dedisti ei, quoniam <quote xml:id="aconf-l13-Qd1e627" source="http://scta.info/resource/eph2_10@1-11">tuum sumus
           figmentum creati in operibus bonis</quote>, non solum qui spiritaliter praesunt sed etiam hi
           qui spiritaliter subduntur eis qui praesunt (masculum enim et feminam fecisti hominem
           hoc modo in gratia tua spiritali, ubi secundum sexum corporis non est masculus et femina,
-          quia <quote source="http://scta.info/resource/gal3_28@1-10">nec Iudaeus neque Graecus neque servus neque liber</quote>) spiritales ergo, sive qui
+          quia <quote xml:id="aconf-l13-Qd1e630" source="http://scta.info/resource/gal3_28@1-10">nec Iudaeus neque Graecus neque servus neque liber</quote>) spiritales ergo, sive qui
           praesunt sive qui obtemperant, spiritaliter iudicant, non de cognitionibus
           spiritalibus, quae lucent in firmamento (non enim oportet de tam sublimi auctoritate
           iudicare) neque de ipso libro tuo, etiam si quid ibi non lucet, quoniam summittimus ei
           nostrum intellectum certumque habemus etiam quod clausum est aspectibus nostris, recte
-          veraciterque dictum esse (sic enim homo, licet iam spiritalis et <quote source="http://scta.info/resource/col3_10@6-14">renovatus in agnitione
-          Dei secundum imaginem eius, qui creavit eum</quote>, <quote source="http://scta.info/resource/iac4_11@23-28">factor tamen legis debet esse, non iudex</quote>
+          veraciterque dictum esse (sic enim homo, licet iam spiritalis et <quote xml:id="aconf-l13-Qd1e633" source="http://scta.info/resource/col3_10@6-14">renovatus in agnitione
+          Dei secundum imaginem eius, qui creavit eum</quote>, <quote xml:id="aconf-l13-Qd1e637" source="http://scta.info/resource/iac4_11@23-28">factor tamen legis debet esse, non iudex</quote>
          ) neque de illa distinctione iudicat spiritalium videlicet atque carnalium hominum, qui
-          tuis, Deus noster, oculis noti sunt et nullis adhuc nobis apparuerunt operibus, ut <quote source="http://scta.info/resource/mt7_20@2-6">ex
+          tuis, Deus noster, oculis noti sunt et nullis adhuc nobis apparuerunt operibus, ut <quote xml:id="aconf-l13-Qd1e640" source="http://scta.info/resource/mt7_20@2-6">ex
           fructibus eorum cognoscamus eos</quote>, sed tu, Domine, iam scis eos et divisisti et vocasti
           in occulto, antequam fieret firmamentum. Neque de turbidis huius saeculi populis quamquam
-          spiritalis homo iudicat. <quote source="http://scta.info/resource/Icor5_12@1-9">Quid enim ei de his, qui foris sunt, iudicare</quote> ignoranti,
+          spiritalis homo iudicat. <quote xml:id="aconf-l13-Qd1e643" source="http://scta.info/resource/Icor5_12@1-9">Quid enim ei de his, qui foris sunt, iudicare</quote> ignoranti,
           quis inde venturus sit in dulcedinem gratiae tuae et quis in perpetua impietatis
           amaritudine remansurus?</p>
 
@@ -635,8 +632,8 @@
           cogitationibus piis de his, quae per sensum corporis percipiuntur. De his enim iudicare
           nunc dicitur, in quibus et potestatem corrigendi habet.</p>
         </div>
-        <div>
-          <head>24</head>
+        <div xml:id="aconf-l13-Dd1e651">
+          <head xml:id="aconf-l13-Hd1e653">24</head>
         <!--Propagatio humani generis, seu fecunditas intellectus et oris.-->
         <p xml:id="aconf-l13-d1e270" n="35">Sed quid est hoc et quale mysterium est? Ecce
           benedicis homines, o Domine, ut crescant et multiplicentur et impleant terram. Nihilne
@@ -663,12 +660,12 @@
           proximi, quam multiplicibus sacramentis et innumerabilibus linguis et in unaquaque
           lingua innumerabilibus locutionum modis corporaliter enuntiatur! Ita crescunt et
           multiplicantur fetus aquarum. Attende iterum quisquis haec legis. Ecce quod uno modo
-          Scriptura offert et vox personat: <quote source="http://scta.info/resource/gen1_1@1-7">In principio Deus fecit caelum et terram</quote>, nonne
+          Scriptura offert et vox personat: <quote xml:id="aconf-l13-Qd1e662" source="http://scta.info/resource/gen1_1@1-7">In principio Deus fecit caelum et terram</quote>, nonne
           multipliciter intellegitur, non errorum fallacia, sed verarum intellegentiarum generibus?
           Ita crescunt et multiplicantur fetus hominum.</p>
 
         <p xml:id="aconf-l13-d1e276" n="37">Itaque si naturas ipsas rerum non allegorice, sed
-          proprie cogitemus, ad omnia, quae de seminibus gignuntur, convenit verbum: <quote source="http://scta.info/resource/gen1_28@6-8">Crescite et
+          proprie cogitemus, ad omnia, quae de seminibus gignuntur, convenit verbum: <quote xml:id="aconf-l13-Qd1e668" source="http://scta.info/resource/gen1_28@6-8">Crescite et
           multiplicamini</quote>. Si autem figurate posita ista tractemus (quod potius arbitror
           intendisse Scripturam, quae utique non supervacue solis aquatilium et hominum fetibus
           istam benedictionem attribuit) invenimus quidem multitudines et in creaturis spiritalibus
@@ -685,20 +682,20 @@
           excogitatis. Signa corporaliter edita generationes aquarum propter necessarias causas
           carnalis profunditatis, res autem intellegibiliter excogitatas generationes humanas
           propter rationis fecunditatem intelleximus. Et ideo credidimus utrique horum generi dictum
-          esse abs te, Domine: <quote source="http://scta.info/resource/gen1_28@6-8">Crescite et multiplicamini</quote>. In hac enim benedictione concessam nobis
+          esse abs te, Domine: <quote xml:id="aconf-l13-Qd1e671" source="http://scta.info/resource/gen1_28@6-8">Crescite et multiplicamini</quote>. In hac enim benedictione concessam nobis
           a te facultatem ac potestatem accipi et multis modis enuntiare, quod uno modo intellectum
           tenuerimus, et multis modis intellegere, quod obscure uno modo enuntiatum legerimus. Sic
           implentur aquae maris, quae non moventur nisi variis significationibus, sic et fetibus
           humanis impletur et terra, cuius ariditas apparet in studio, et dominatur ei ratio.</p>
         </div>
-        <div>
-          <head>25</head>
+        <div xml:id="aconf-l13-Dd1e676">
+          <head xml:id="aconf-l13-Hd1e678">25</head>
         <!--Herba et ligna, seu opera misericordiae ministris Dei debita.-->
         <p xml:id="aconf-l13-d1e282" n="38">Volo etiam dicere, Domine Deus meus, quod me consequens
           tua Scriptura commonet, et dicam nec verebor. Vera enim dicam te mihi inspirante, quod ex
           eis verbis voluisti ut dicerem. Neque enim alio praeter te inspirante credo me verum
-          dicere, cum tu sis Veritas, <quote source="http://scta.info/resource/rom3_4@5-8">omnis autem homo mendax</quote>. Et ideo <quote source="http://scta.info/resource/io8_44@28-33">qui loquitur mendacium,
-          de suo loquitur</quote>. Ergo ut verum loquar, de tuo loquor: <quote source="http://scta.info/resource/gen1_29">Ecce dedisti nobis in escam omne
+          dicere, cum tu sis Veritas, <quote xml:id="aconf-l13-Qd1e684" source="http://scta.info/resource/rom3_4@5-8">omnis autem homo mendax</quote>. Et ideo <quote xml:id="aconf-l13-Qd1e687" source="http://scta.info/resource/io8_44@28-33">qui loquitur mendacium,
+          de suo loquitur</quote>. Ergo ut verum loquar, de tuo loquor: <quote xml:id="aconf-l13-Qd1e690" source="http://scta.info/resource/gen1_29">Ecce dedisti nobis in escam omne
           faenum sativum seminans semen, quod est super omnem terram, et omne lignum, quod habet in
           se fructum seminis sativi</quote>. Nec nobis solis sed et omnibus avibus caeli et bestiis
           terrae atque serpentibus; piscibus autem et coetis magnis non dedisti haec. Dicebamus
@@ -707,38 +704,38 @@
           Onesiphorus, cuius domui dedisti misericordiam, quia frequenter Paulum tuum refrigeravit
           et catenam eius non erubuit. Hoc fecerunt et fratres et tali fruge fructificaverunt,
           qui quod ei deerat suppleverunt ex Macedonia. Quomodo autem dolet quaedam ligna, quae
-          fructum ei debitum non dederunt, ubi ait: <quote source="http://scta.info/resource/IItim4_16@1-14">In prima mea defensione nemo mihi affuit, sed
+          fructum ei debitum non dederunt, ubi ait: <quote xml:id="aconf-l13-Qd1e693" source="http://scta.info/resource/IItim4_16@1-14">In prima mea defensione nemo mihi affuit, sed
           omnes me dereliquerunt: non illis imputetur</quote>. Esca enim debetur eis, qui ministrant
           doctrinam rationalem per intellegentias divinorum mysteriorum, et ita eis debetur tamquam
           hominibus. Debetur eis autem sicut animae vivae praebentibus se ad imitandum in omni
           continentia. Item debetur eis tamquam volatilibus propter benedictiones eorum, quae
-          multiplicantur super terram, quoniam <quote source="http://scta.info/resource/ps18_5@1-6">in omnem terram exiit sonus eorum</quote>.</p>
+          multiplicantur super terram, quoniam <quote xml:id="aconf-l13-Qd1e696" source="http://scta.info/resource/ps18_5@1-6">in omnem terram exiit sonus eorum</quote>.</p>
         </div>
-        <div>
-          <head>26</head>
+        <div xml:id="aconf-l13-Dd1e701">
+          <head xml:id="aconf-l13-Hd1e703">26</head>
         <!--Recta sit voluntas datoris.-->
         <p xml:id="aconf-l13-d1e287" n="39">Pascuntur autem his escis qui laetantur eis, nec illi
           laetantur eis, quorum deus venter. Neque enim et in illis, qui praebent ista, ea, quae
           dant, fructus est, sed quo animo dant. Itaque ille, qui Deo serviebat, non suo ventri,
           video plane, unde gaudeat, video et congratulor ei valde. Acceperat enim a Philippensibus
           quae per Epaphroditum miserant; sed tamen unde gaudeat, video. Unde autem gaudet, inde
-          pascitur, quia in veritate loquens: <quote source="http://scta.info/resource/phil4_10@1-19">Gavisus sum, inquit, magnifice in Domino, quia tandem
+          pascitur, quia in veritate loquens: <quote xml:id="aconf-l13-Qd1e709" source="http://scta.info/resource/phil4_10@1-19">Gavisus sum, inquit, magnifice in Domino, quia tandem
           aliquando repullulastis sapere pro me, in quo sapiebatis; taedium autem habuistis</quote>. Isti
           ergo diuturno taedio marcuerant et quasi exaruerant ab isto fructu boni operis, et gaudet
           eis, quia repullularunt, non sibi, quia eius indigentiae subvenerunt. Ideo secutus ait:
-          <quote source="http://scta.info/resource/phil4_11@1-13 http://scta.info/resource/phil4_12@1-21 http://scta.info/resource/phil4_13@1-7">Non quod desit aliquid dico; ego enim didici, in quibus sum, sufficiens esse. Scio et
+          <quote xml:id="aconf-l13-Qd1e712" source="http://scta.info/resource/phil4_11@1-13 http://scta.info/resource/phil4_12@1-21 http://scta.info/resource/phil4_13@1-7">Non quod desit aliquid dico; ego enim didici, in quibus sum, sufficiens esse. Scio et
           minus habere, scio et abundare; in omnibus et in omni imbutus sum, et satiari et esurire
           et abundare et penuriam pati: omnia possum in eo, qui me confortat</quote>.</p>
 
         <!--Recta voluntate datoris, non doni usu laetemur.-->
         <p xml:id="aconf-l13-d1e292" n="40">Unde ergo gaudes, o Paule magne? Unde gaudes, unde
-          pasceris, homo <quote source="http://scta.info/resource/col3_10@6-14">renovate in agnitione Dei secundum imaginem eius, qui creavit te</quote>, et
+          pasceris, homo <quote xml:id="aconf-l13-Qd1e720" source="http://scta.info/resource/col3_10@6-14">renovate in agnitione Dei secundum imaginem eius, qui creavit te</quote>, et
           anima viva tanta continentia et lingua volatilis loquens mysteria? Talibus quippe
           animantibus ista esca debetur. Quid est, quod te pascit? Laetitia. Quod sequitur audiam:
-          <quote source="http://scta.info/resource/phil4_14@1-6">Verumtamen, inquit, benefecistis communicantes tribulationi meae</quote>. Hinc gaudet, hinc
-          pascitur, quia illi bene fecerunt, non quia eius angustia relaxata est, qui dicit tibi: <quote source="http://scta.info/resource/ps4_2@8-11">In
-          tribulatione dilatasti mihi</quote>, quia et <quote source="http://scta.info/resource/phil4_12@17-21">abundare et penuriam pati novit</quote> in te, qui
-          confortas eum. <quote source="http://scta.info/resource/phil4_15@1-26 http://scta.info/resource/phil4_16@1-11">Scitis enim, inquit, etiam vos, Philippenses, quoniam in principio
+          <quote xml:id="aconf-l13-Qd1e723" source="http://scta.info/resource/phil4_14@1-6">Verumtamen, inquit, benefecistis communicantes tribulationi meae</quote>. Hinc gaudet, hinc
+          pascitur, quia illi bene fecerunt, non quia eius angustia relaxata est, qui dicit tibi: <quote xml:id="aconf-l13-Qd1e726" source="http://scta.info/resource/ps4_2@8-11">In
+          tribulatione dilatasti mihi</quote>, quia et <quote xml:id="aconf-l13-Qd1e729" source="http://scta.info/resource/phil4_12@17-21">abundare et penuriam pati novit</quote> in te, qui
+          confortas eum. <quote xml:id="aconf-l13-Qd1e732" source="http://scta.info/resource/phil4_15@1-26 http://scta.info/resource/phil4_16@1-11">Scitis enim, inquit, etiam vos, Philippenses, quoniam in principio
           Evangelii, cum ex Macedonia sum profectus, nulla mihi Ecclesia communicavit in ratione
           dati et accepti nisi vos soli, quia et Thessalonicam et semel et iterum usibus meis
           misistis</quote>. Ad haec bona opera eos redisse nunc gaudet et repullulasse laetatur tamquam
@@ -746,22 +743,22 @@
 
         <p xml:id="aconf-l13-d1e295" n="41">Numquid propter usus suos, quia dixit: Usibus meis
           misistis, numquid propterea gaudet? Non propterea. Et hoc unde scimus? Quoniam ipse
-          sequitur dicens: <quote source="http://scta.info/resource/phil4_17@1-7">Non quia quaero datum, sed requiro fructum</quote>. Didici a te, Deus meus,
+          sequitur dicens: <quote xml:id="aconf-l13-Qd1e739" source="http://scta.info/resource/phil4_17@1-7">Non quia quaero datum, sed requiro fructum</quote>. Didici a te, Deus meus,
           inter datum et fructum discernere. Datum est res ipsa, quam dat, qui impertitur haec
           necessaria, veluti est nummus, cibus, potus, vestimentum, tectum, adiutorium. Fructus
           autem bona et recta voluntas datoris est. Non enim ait Magister bonus: Qui susceperit
           prophetam tantum, sed addidit: in nomine Prophetae; neque ait tantum: Qui susceperit
           iustum, sed addidit: in nomine iusti; ita quippe ille mercedem Prophetae, iste mercedem
-          iusti accipiet. Nec solum ait: <quote source="http://scta.info/resource/mt10_42@3-11">Qui calicem aquae frigidae potum dederit uni ex minimis
-          meis</quote>, sed addidit: tantum in nomine discipuli, et sic adiunxit: <quote source="http://scta.info/resource/mt10_42@16-22">Amen dico vobis, non
+          iusti accipiet. Nec solum ait: <quote xml:id="aconf-l13-Qd1e742" source="http://scta.info/resource/mt10_42@3-11">Qui calicem aquae frigidae potum dederit uni ex minimis
+          meis</quote>, sed addidit: tantum in nomine discipuli, et sic adiunxit: <quote xml:id="aconf-l13-Qd1e745" source="http://scta.info/resource/mt10_42@16-22">Amen dico vobis, non
           perdet mercedem suam</quote>. Datum est suscipere Prophetam, suscipere iustum, porrigere
           calicem aquae frigidae discipulo; fructus autem in nomine Prophetae, in nomine iusti, in
           nomine discipuli hoc facere. Fructu pascitur Elias a vidua sciente, quod hominem Dei
           pasceret et propter hoc pasceret; per corvum autem dato pascebatur. Nec interior
           Elias, sed exterior pascebatur, qui posset etiam talis cibi egestate corrumpi.</p>
         </div>
-        <div>
-          <head>27</head>
+        <div xml:id="aconf-l13-Dd1e750">
+          <head xml:id="aconf-l13-Hd1e752">27</head>
         <!--Infideles non recta voluntate operantur bona.-->
         <p xml:id="aconf-l13-d1e301" n="42">Ideoque dicam, quod verum est coram te, Domine, cum
           homines idiotae atque infideles, quibus initiandis atque lucrandis necessaria sunt
@@ -774,8 +771,8 @@
           non germinat nisi iam terra ab amaritudine marinorum fluctuum distincta atque discreta
          .</p>
         </div>
-        <div>
-          <head>28</head>
+        <div xml:id="aconf-l13-Dd1e760">
+          <head xml:id="aconf-l13-Hd1e762">28</head>
         <!--Cuncta opera Dei bona valde sunt.-->
         <p xml:id="aconf-l13-d1e306" n="43">Et vidisti, Deus, omnia quae fecisti, et ecce bona
           valde, quia et nos videmus ea, et ecce omnia bona valde. In singulis generibus operum
@@ -787,8 +784,8 @@
           membris pulchris omnibus constat, quam ipsa membra singula, quorum ordinatissimo conventu
           completur universum, quamvis et illa etiam singillatim pulchra sint.</p>
         </div>
-        <div>
-          <head>29</head>
+        <div xml:id="aconf-l13-Dd1e771">
+          <head xml:id="aconf-l13-Hd1e773">29</head>
         <!--Verbo Dei non accedit tempus.-->
         <p xml:id="aconf-l13-d1e311" n="44">Et attendi, ut invenirem, utrum septiens vel octiens
           videris, quia bona sunt opera tua, cum tibi placuerunt, et in tua visione non inveni
@@ -804,8 +801,8 @@
           vos temporaliter ea videatis, non ego temporaliter video, quemadmodum, cum vos
           temporaliter ea dicatis, non ego temporaliter dico ".</p>
         </div>
-        <div>
-          <head>30</head>
+        <div xml:id="aconf-l13-Dd1e781">
+          <head xml:id="aconf-l13-Hd1e783">30</head>
         <!--Manichaeorum insane dicta de operibus Dei.-->
         <p xml:id="aconf-l13-d1e317" n="45">Et audivi, Domine Deus meus, et elinxi stillam
           dulcedinis ex tua veritate et intellexi, quoniam sunt quidam, quibus displicent opera tua,
@@ -818,18 +815,18 @@
           conditam tibique contrariam in inferioribus mundi locis ista gignere atque formare. Insani
           dicunt haec, quoniam non per spiritum tuum vident opera tua nec te cognoscunt in eis.</p>
         </div>
-        <div>
-          <head>31</head>
+        <div xml:id="aconf-l13-Dd1e791">
+          <head xml:id="aconf-l13-Hd1e793">31</head>
         <!--Omnia quae sunt, per spiritum Dei visa, bona videntur.-->
         <p xml:id="aconf-l13-d1e322" n="46">Qui autem per spiritum tuum vident ea, tu vides in eis.
           Ergo cum vident, quia bona sunt, tu vides, quia bona sunt, et quaecumque propter te
           placent, tu in eis places, et quae per spiritum tuum placent nobis, tibi placent in nobis.
-          <quote source="http://scta.info/resource/Icor2_11@1-24">Quis enim scit hominum, quae sunt hominis, nisi spiritus hominis, qui in ipso est? Sic et
-          quae Dei sunt nemo scit nisi spiritus Dei</quote>. <quote source="http://scta.info/resource/Icor2_12@1-20">Nos autem, inquit, non spiritum huius mundi
+          <quote xml:id="aconf-l13-Qd1e799" source="http://scta.info/resource/Icor2_11@1-24">Quis enim scit hominum, quae sunt hominis, nisi spiritus hominis, qui in ipso est? Sic et
+          quae Dei sunt nemo scit nisi spiritus Dei</quote>. <quote xml:id="aconf-l13-Qd1e802" source="http://scta.info/resource/Icor2_12@1-20">Nos autem, inquit, non spiritum huius mundi
           accepimus, sed spiritum, qui ex Deo est, ut sciamus quae a Deo donata sunt nobis</quote>. Et
           admoneor, ut dicam: certe nemo scit, quae Dei sunt, nisi spiritus Dei. Quomodo ergo scimus
           et nos, quae a Deo donata sunt nobis? Respondetur mihi, quoniam quae per eius spiritum
-          scimus etiam sic nemo scit nisi spiritus Dei. Sicut enim recte dictum est: <quote source="http://scta.info/resource/mt10_20@1-6">Non enim
+          scimus etiam sic nemo scit nisi spiritus Dei. Sicut enim recte dictum est: <quote xml:id="aconf-l13-Qd1e805" source="http://scta.info/resource/mt10_20@1-6">Non enim
           vos estis, qui loquimini</quote>, eis, qui in Dei spiritu loquerentur, sic recte dicitur: "
           Non vos estis, qui scitis " eis, qui in Dei spiritu sciunt. Nihilo minus igitur recte
           dicitur: " Non vos estis, qui videtis " eis, qui in spiritu Dei vident; ita quidquid in
@@ -839,13 +836,13 @@
           est, quibus tamen non tu places in ea, unde frui magis ipsa quam te volunt; aliud autem,
           ut, cum aliquid videt homo quia bonum est, Deus in illo videat, quia bonum est, ut
           scilicet ille ametur in eo, quod fecit, qui non amaretur nisi per spiritum, quem dedit,
-          quoniam <quote source="http://scta.info/resource/rom5_5@6-19">caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est
+          quoniam <quote xml:id="aconf-l13-Qd1e808" source="http://scta.info/resource/rom5_5@6-19">caritas Dei diffusa est in cordibus nostris per Spiritum Sanctum, qui datus est
           nobis</quote>, per quem videmus, quia bonum est, quidquid aliquo modo est: ab illo enim est,
           qui non aliquo modo est, sed quod est est.</p>
 
         </div>
-        <div>
-          <head>32</head>
+        <div xml:id="aconf-l13-Dd1e813">
+          <head xml:id="aconf-l13-Hd1e815">32</head>
 
         <!--Conclusio-->
         <!--Gratiae Deo aguntur pro bonis operibus eius.-->
@@ -862,7 +859,7 @@
           lunam et stellas consolari noctem atque his omnibus notari et significari tempora. Videmus
           umidam usquequaque naturam piscibus et beluis et alitibus fecundatam, quod aeris
           corpulentia, quae volatus avium portat, aquarum exhalatione concrescit. Videmus terrenis
-          animalibus faciem terrae decorari hominemque <quote source="http://scta.info/resource/gen1_26@5-9">ad imaginem et similitudinem tuam</quote> cunctis
+          animalibus faciem terrae decorari hominemque <quote xml:id="aconf-l13-Qd1e823" source="http://scta.info/resource/gen1_26@5-9">ad imaginem et similitudinem tuam</quote> cunctis
           irrationabilibus animantibus ipsa tua imagine ac similitudine, hoc est rationis et
           intellegentiae virtute, praeponi. Et quemadmodum in eius anima aliud est, quod consulendo
           dominatur, aliud, quod subditur ut obtemperet, sic viro factam esse etiam corporaliter
@@ -871,8 +868,8 @@
           concipiendam de ratione mentis recte agendi sollertiam. Videmus haec et singula bona et
           omnia bona valde.</p>
         </div>
-        <div>
-          <head>33</head>
+        <div xml:id="aconf-l13-Dd1e828">
+          <head xml:id="aconf-l13-Hd1e830">33</head>
         <!--Quomodo omnia facta sint.-->
         <p xml:id="aconf-l13-d1e335" n="48">Laudant te opera tua, ut amemus te, et amamus te,
           ut laudent te opera tua. Habent initium et finem ex tempore, ortum et occasum, profectum
@@ -884,8 +881,8 @@
           speciem de informi materia, simul tamen utrumque fecisti, ut materiam forma nulla morae
           intercapedine sequeretur.</p>
         </div>
-        <div>
-          <head>34</head>
+        <div xml:id="aconf-l13-Dd1e838">
+          <head xml:id="aconf-l13-Hd1e840">34</head>
         <!--Quae in primo capite Genesis figurantur, iterum ac summatim exponuntur.-->
         <p xml:id="aconf-l13-d1e340" n="49">Inspeximus etiam, propter quorum figurationem ista vel
           tali ordine fieri vel tali ordine scribi voluisti, et vidimus, quia bona sunt singula et
@@ -904,39 +901,39 @@
           visibilia vocesque verborum secundum firmamentum Libri tui, quibus etiam fideles
           benedicerentur, ex materia corporali produxisti; et deinde fidelium animam vivam per
           affectus ordinatos continentiae vigore formasti atque inde tibi soli mentem subditam et
-          nullius auctoritatis humanae ad imitandum indigentem renovasti <quote source="http://scta.info/resource/gen1_26@5-9">ad imaginem et
+          nullius auctoritatis humanae ad imitandum indigentem renovasti <quote xml:id="aconf-l13-Qd1e846" source="http://scta.info/resource/gen1_26@5-9">ad imaginem et
           similitudinem tuam</quote> praestantique intellectui rationabilem actionem tamquam viro feminam
           subdidisti omnibusque tuis ministeriis ad perficiendos fideles in hac vita necessariis ab
           eisdem fidelibus ad usus temporales fructuosa in futurum opera praeberi voluisti. Haec
           omnia videmus et bona sunt valde, quoniam tu ea vides in nobis, qui spiritum, quo ea
           videremus et in eis te amaremus, dedisti nobis.</p>
         </div>
-        <div>
-          <head>35</head>
+        <div xml:id="aconf-l13-Dd1e852">
+          <head xml:id="aconf-l13-Hd1e854">35</head>
         <!--Det nobis Dominus quietem aeterni sabbati.-->
         <p xml:id="aconf-l13-d1e345" n="50">Domine Deus, pacem da nobis (omnia enim praestitisti
           nobis) pacem quietis, pacem sabbati, pacem sine vespera. Omnis quippe iste ordo
           pulcherrimus rerum valde bonarum modis suis peractis transiturus est: et mane quippe in
           eis factum est et vespera.</p>
         </div>
-        <div>
-          <head>36</head>
+        <div xml:id="aconf-l13-Dd1e862">
+          <head xml:id="aconf-l13-Hd1e864">36</head>
         <p xml:id="aconf-l13-d1e348" n="51">Dies autem septimus sine vespera est nec habet occasum,
           quia sanctificasti eum ad permansionem sempiternam, ut id, quod tu post opera tua bona
           valde, quamvis ea quietus feceris, requievisti septimo die, hoc praeloquatur nobis vox
           Libri tui, quod et nos post opera nostra ideo bona valde, quia tu nobis ea donasti,
           sabbato vitae aeternae requiescamus in te.</p>
         </div>
-        <div>
-          <head>37</head>
+        <div xml:id="aconf-l13-Dd1e870">
+          <head xml:id="aconf-l13-Hd1e872">37</head>
         <p xml:id="aconf-l13-d1e352" n="52">Etiam tunc enim sic requiesces in nobis, quemadmodum
           nunc operaris in nobis, et ita erit illa requies tua per nos, quemadmodum sunt ista opera
           tua per nos. Tu autem, Domine, semper operaris et semper requiescis. Nec vides ad tempus
           nec moveris ad tempus nec quiescis ad tempus et tamen facis et visiones temporales et ipsa
           tempora et quietem ex tempore.</p>
         </div>
-        <div>
-          <head>38</head>
+        <div xml:id="aconf-l13-Dd1e878">
+          <head xml:id="aconf-l13-Hd1e880">38</head>
         <p xml:id="aconf-l13-d1e355" n="53">Nos itaque ista quae fecisti videmus, quia sunt, tu
           autem quia vides ea, sunt. Et nos foris videmus, quia sunt, et intus, quia bona sunt; tu
           autem ibi vidisti facta, ubi vidisti facienda. Et nos alio tempore moti sumus ad bene

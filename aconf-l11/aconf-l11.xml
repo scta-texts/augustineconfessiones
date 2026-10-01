@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,8 +19,7 @@
       <publicationStmt>
         <authority>SCTA</authority>
         <availability status="free">
-          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
           </p>
         </availability>
       </publicationStmt>
@@ -32,8 +30,7 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
-      <schemaRef n="lbp-critical-1.0.0"
-        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
       <editorialDecl>
         <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
           guidelines for a critical edition.</p>
@@ -54,23 +51,23 @@
     <body>
       <div xml:id="aconf-l11">
         <head xml:id="aconf-l11-Hd1e97">Liber 11</head>
-        <div>
-          <head>1</head>
+        <div xml:id="aconf-l11-Dd1e95">
+          <head xml:id="aconf-l11-Hd1e9a">1</head>
           <p xml:id="aconf-l11-d1e102" n="1">Numquid, Domine, cum tua sit aeternitas, ignoras, quae
             tibi dico, aut ad tempus vides quod fit in tempore? Cur ergo tibi tot rerum narrationes
             digero? Non utique ut per me noveris ea, sed affectum meum excito in te et eorum, qui
-            haec legunt, ut dicamus omnes: <quote source="http://scta.info/resource/ps144_3@1-5">Magnus Dominus et laudabilis valde</quote>. Iam dixi et dicam:
-            amore amoris tui facio istuc. Nam et oramus, et tamen Veritas ait: <quote source="http://scta.info/resource/mt6_8@5-15">Novit Pater vester
+            haec legunt, ut dicamus omnes: <quote xml:id="aconf-l11-Qd1e101" source="http://scta.info/resource/ps144_3@1-5">Magnus Dominus et laudabilis valde</quote>. Iam dixi et dicam:
+            amore amoris tui facio istuc. Nam et oramus, et tamen Veritas ait: <quote xml:id="aconf-l11-Qd1e104" source="http://scta.info/resource/mt6_8@5-15">Novit Pater vester
             quid vobis opus sit, priusquam petatis ab eo</quote>. Affectum ergo nostrum patefacimus in te
             confitendo tibi miserias nostras et misericordias tuas super nos, ut liberes nos omnino,
             quoniam coepisti, ut desinamus esse miseri in nobis et beatificemur in te, quoniam
             vocasti nos, ut simus pauperes spiritu et mites et lugentes et esurientes ac sitientes
             iustitiam et misericordes et mundicordes et pacifici. Ecce narravi tibi multa, quae
             potui et quae volui, quoniam tu prior voluisti, ut confiterer tibi, Domino Deo meo,
-            <quote source="http://scta.info/resource/ps117_1@4-10">quoniam bonus es, quoniam in saeculum misericordia tua</quote>.</p>
+            <quote xml:id="aconf-l11-Qd1e107" source="http://scta.info/resource/ps117_1@4-10">quoniam bonus es, quoniam in saeculum misericordia tua</quote>.</p>
         </div>
-        <div>
-          <head>2</head>
+        <div xml:id="aconf-l11-Dd1e112">
+          <head xml:id="aconf-l11-Hd1e114">2</head>
           <p xml:id="aconf-l11-d1e107" n="2">Quando autem sufficio lingua calami enuntiare omnia
             hortamenta tua et omnes terrores tuos et consolationes et gubernationes, quibus me
             perduxisti praedicare verbum et sacramentum tuum dispensare populo tuo? Et si sufficio
@@ -89,36 +86,36 @@
             Scripturae tuae, nec fallar in eis nec fallam ex eis. Domine, attende et miserere,
             Domine Deus meus, lux caecorum et virtus infirmorum statimque lux videntium et virtus
             fortium, attende animam meam et audi clamantem de profundo. Nam nisi adsint et in
-            profundo aures tuae, quo ibimus? Quo clamabimus? <quote source="http://scta.info/resource/ps73_16@1-7">Tuus est dies et tua est nox</quote>: ad nutum
+            profundo aures tuae, quo ibimus? Quo clamabimus? <quote xml:id="aconf-l11-Qd1e121" source="http://scta.info/resource/ps73_16@1-7">Tuus est dies et tua est nox</quote>: ad nutum
             tuum momenta transvolant. Largire inde spatium meditationibus nostris in abdita legis
             tuae neque adversus pulsantes claudas eam. Neque enim frustra scribi voluisti tot
             paginarum opaca secreta, aut non habent illae silvae cervos suos recipientes se in eas
             et resumentes, ambulantes et pascentes, recumbentes et ruminantes.O Domine, perfice me
             et revela mihi eas. Ecce vox tua gaudium meum, vox tua super affluentiam voluptatum. Da
             quod amo: amo enim. Et hoc tu dedisti. Ne dona tua deseras nec herbam tuam spernas
-            sitientem. Confitear tibi quidquid invenero in Libris tuis et <quote source="http://scta.info/resource/ps25_7@1-4">audiam vocem laudis</quote> et te
-            bibam et <quote source="http://scta.info/resource/ps118_18@5-9">considerem mirabilia de lege tua</quote> ab usque principio, in quo fecisti caelum et
+            sitientem. Confitear tibi quidquid invenero in Libris tuis et <quote xml:id="aconf-l11-Qd1e124" source="http://scta.info/resource/ps25_7@1-4">audiam vocem laudis</quote> et te
+            bibam et <quote xml:id="aconf-l11-Qd1e127" source="http://scta.info/resource/ps118_18@5-9">considerem mirabilia de lege tua</quote> ab usque principio, in quo fecisti caelum et
             terram, usque ad regnum tecum perpetuum sanctae civitatis tuae.</p>
 
           <p xml:id="aconf-l11-d1e116" n="4">Domine, miserere mei et exaudi desiderium meum. Puto
             enim, quod non sit de terra, non de auro et argento et lapidibus aut decoris vestibus
             aut honoribus et potestatibus aut voluptatibus carnis neque de necessariis corpori et
             huic vitae peregrinationis nostrae, quae omnia nobis apponuntur quaerentibus regnum et
-            iustitiam tuam. Vide, Deus meus, unde sit desiderium meum. <quote source="http://scta.info/resource/ps118_85@1-9">Narraverunt mihi iniusti
+            iustitiam tuam. Vide, Deus meus, unde sit desiderium meum. <quote xml:id="aconf-l11-Qd1e133" source="http://scta.info/resource/ps118_85@1-9">Narraverunt mihi iniusti
             delectationes, sed non sicut lex tua</quote>, Domine. Ecce unde est desiderium meum. Vide,
             Pater, aspice et vide et approba, et placeat in conspectu misericordiae tuae invenire me
             gratiam ante te, ut aperiantur pulsanti mihi interiora sermonum tuorum. Obsecro per
-            Dominum nostrum Iesum Christum Filium tuum, <quote source="http://scta.info/resource/ps79_18@4-14">virum dexterae tuae, Filium hominis, quem
+            Dominum nostrum Iesum Christum Filium tuum, <quote xml:id="aconf-l11-Qd1e136" source="http://scta.info/resource/ps79_18@4-14">virum dexterae tuae, Filium hominis, quem
             confirmasti tibi</quote> Mediatorem tuum et nostrum, per quem nos quaesisti non quaerentes te,
             quaesisti autem, ut quaereremus te, Verbum tuum, per quod fecisti omnia, in quibus et
             me, Unicum tuum, per quem vocasti in adoptionem populum credentium, in quo et me; per
-            eum te obsecro, qui sedet ad dexteram tuam et te interpellat pro nobis, <quote source="http://scta.info/resource/col2_3@1-9">in quo sunt
+            eum te obsecro, qui sedet ad dexteram tuam et te interpellat pro nobis, <quote xml:id="aconf-l11-Qd1e139" source="http://scta.info/resource/col2_3@1-9">in quo sunt
             omnes thesauri sapientiae et scientiae absconditi</quote>. Ipsos quaero in Libris tuis. Moyses
             de illo scripsit: Hoc ipse ait, hoc Veritas ait.</p>
         </div>
-        <div>
-          <head>3</head>
-          <p xml:id="aconf-l11-d1e123" n="5">Audiam et intellegam, quomodo <quote source="http://scta.info/resource/gen1_1@1-7">in principio fecisti
+        <div xml:id="aconf-l11-Dd1e144">
+          <head xml:id="aconf-l11-Hd1e146">3</head>
+          <p xml:id="aconf-l11-d1e123" n="5">Audiam et intellegam, quomodo <quote xml:id="aconf-l11-Qd1e150" source="http://scta.info/resource/gen1_1@1-7">in principio fecisti
             caelum et terram</quote>. Scripsit hoc Moyses, scripsit et abiit, transiit hinc a te ad te neque
             nunc ante me est. Nam si esset, tenerem eum et rogarem eum et per te obsecrarem, ut mihi
             ista panderet, et praeberem aures corporis mei sonis erumpentibus ex ore eius, et si
@@ -131,8 +128,8 @@
             dixit, Veritas, rogo, te, Deus meus, rogo, parce peccatis meis, et qui illi servo tuo
             dedisti haec dicere, da et mihi haec intellegere.</p>
         </div>
-        <div>
-          <head>4</head>
+        <div xml:id="aconf-l11-Dd1e155">
+          <head xml:id="aconf-l11-Hd1e157">4</head>
           <p xml:id="aconf-l11-d1e129" n="6">Ecce sunt caelum et terra, clamant, quod facta sint;
             mutantur enim atque variantur. Quidquid autem factum non est et tamen est, non est in eo
             quidquam, quod ante non erat: quod est mutari atque variari. Clamant etiam, quod se ipsa
@@ -144,8 +141,8 @@
             scientiae tuae comparata ignorantia est.</p>
 
         </div>
-        <div>
-          <head>5</head>
+        <div xml:id="aconf-l11-Dd1e164">
+          <head xml:id="aconf-l11-Hd1e166">5</head>
           <p xml:id="aconf-l11-d1e134" n="7">Quomodo autem fecisti caelum et terram et quae machina
             tam grandis operationis tuae? Non enim sicut homo artifex formans corpus de corpore
             arbitratu animae valentis imponere utcumque speciem, quam cernit in semetipsa interno
@@ -161,14 +158,14 @@
             quoniam et haec pertinent ad caelum et terram, neque in universo mundo fecisti universum
             mundum, quia non erat, ubi fieret, antequam fieret, ut esset. Nec manu tenebas aliquid,
             unde faceres caelum et terram: nam unde tibi hoc, quod tu non feceras, unde aliquid
-            faceres? Quid enim est, nisi quia tu es? Ergo <quote source="http://scta.info/resource/ps32_9@1-6">dixisti et facta sunt</quote> atque in verbo tuo
+            faceres? Quid enim est, nisi quia tu es? Ergo <quote xml:id="aconf-l11-Qd1e170" source="http://scta.info/resource/ps32_9@1-6">dixisti et facta sunt</quote> atque in verbo tuo
             fecisti ea.</p>
 
         </div>
-        <div>
-          <head>6</head>
+        <div xml:id="aconf-l11-Dd1e175">
+          <head xml:id="aconf-l11-Hd1e177">6</head>
           <p xml:id="aconf-l11-d1e139" n="8">Sed quomodo dixisti? Numquid illo modo, quo facta est
-            vox de nube dicens: <quote source="http://scta.info/resource/mt17_5@15-19">Hic est Filius meus dilectus</quote>? Illa enim vox acta atque transacta
+            vox de nube dicens: <quote xml:id="aconf-l11-Qd1e181" source="http://scta.info/resource/mt17_5@15-19">Hic est Filius meus dilectus</quote>? Illa enim vox acta atque transacta
             est, coepta et finita. Sonuerunt syllabae atque transierunt, secunda post primam, tertia
             post secundam atque inde ex ordine, donec ultima post ceteras silentiumque post ultimam.
             Unde claret atque eminet, quod creaturae motus expressit eam serviens aeternae voluntati
@@ -185,8 +182,8 @@
             nisi abs te factum esset, omnino non esset. Ut ergo fieret corpus, unde ista verba
             fierent, quo verbo a te dictum est?</p>
         </div>
-        <div>
-          <head>7</head>
+        <div xml:id="aconf-l11-Dd1e186">
+          <head xml:id="aconf-l11-Hd1e188">7</head>
           <p xml:id="aconf-l11-d1e145" n="9">Vocas itaque nos ad intellegendum Verbum, Deum apud te
             Deum, quod sempiterne dicitur et eo sempiterne dicuntur omnia. Neque enim finitur, quod
             dicebatur, et dicitur aliud ut possint dici omnia, sed simul ac sempiterne omnia;
@@ -199,8 +196,8 @@
             dicis ut fiat; nec aliter quam dicendo facis; nec tamen simul et sempiterna fiunt omnia,
             quae dicendo facis.</p>
         </div>
-        <div>
-          <head>8</head>
+        <div xml:id="aconf-l11-Dd1e194">
+          <head xml:id="aconf-l11-Hd1e196">8</head>
           <p xml:id="aconf-l11-d1e150" n="10">Cur, quaeso, Domine Deus meus? Utcumque video, sed
             quomodo id eloquar nescio, nisi quia omne, quod esse incipit et esse desinit, tunc esse
             incipit et tunc desinit, quando debuisse incipere vel desinere in aeterna ratione
@@ -216,8 +213,8 @@
             rediremus. Cum autem redimus ab errore, cognoscendo utique redimus; ut autem
             cognoscamus, docet nos, quia principium est et loquitur nobis.</p>
         </div>
-        <div>
-          <head>9</head>
+        <div xml:id="aconf-l11-Dd1e202">
+          <head xml:id="aconf-l11-Hd1e204">9</head>
           <p xml:id="aconf-l11-d1e155" n="11">In hoc principio, Deus, fecisti caelum et terram in
             Verbo tuo, in Filio tuo, in virtute tua, in sapientia tua, in veritate tua miro modo
             dicens et miro modo faciens. Quis comprehendet? Quis enarrabit? Quid est illud, quod
@@ -226,16 +223,16 @@
             Sapientia, sapientia ipsa est, quae interlucet mihi, discindens nubilum meum, quod me
             rursus cooperit deficientem ab ea caligine atque aggere poenarum mearum, quoniam sic
             infirmatus est in egestate vigor meus, ut non sufferam bonum meum, donec tu, Domine, qui
-            <quote source="http://scta.info/resource/ps102_3@1-10 http://scta.info/resource/ps102_4@1-13 http://scta.info/resource/ps102_5@1-11">propitius factus es omnibus iniquitatibus meis, etiam sanes omnes languores meos, quia
+            <quote xml:id="aconf-l11-Qd1e208" source="http://scta.info/resource/ps102_3@1-10 http://scta.info/resource/ps102_4@1-13 http://scta.info/resource/ps102_5@1-11">propitius factus es omnibus iniquitatibus meis, etiam sanes omnes languores meos, quia
             et redimes de corruptione vitam meam et coronabis me in miseratione et misericordia et
-            satiabis in bonis desiderium meum, quoniam renovabitur iuventus mea sicut aquilae</quote>. <quote source="http://scta.info/resource/rom8_24@1-5">Spe
+            satiabis in bonis desiderium meum, quoniam renovabitur iuventus mea sicut aquilae</quote>. <quote xml:id="aconf-l11-Qd1e211" source="http://scta.info/resource/rom8_24@1-5">Spe
             enim salvi facti sumus</quote> et promissa tua per patientiam exspectamus. Audiat te intus
-            sermocinantem qui potest; ego fidenter ex oraculo tuo clamabo: <quote source="http://scta.info/resource/ps103_24@1-10">Quam magnificata sunt
+            sermocinantem qui potest; ego fidenter ex oraculo tuo clamabo: <quote xml:id="aconf-l11-Qd1e214" source="http://scta.info/resource/ps103_24@1-10">Quam magnificata sunt
             opera tua, Domine, omnia in sapientia fecisti</quote>! Et illa principium, et in eo principio
             fecisti caelum et terram. </p>
         </div>
-        <div>
-          <head>10</head>
+        <div xml:id="aconf-l11-Dd1e219">
+          <head xml:id="aconf-l11-Hd1e221">10</head>
           <p xml:id="aconf-l11-d1e163" n="12">Nonne ecce pleni sunt vetustatis suae qui nobis
             dicunt: "Quid faciebat Deus, antequam faceret caelum et terram? Si enim vacabat,
             inquiunt, et non operabatur aliquid, cur non sic semper et deinceps, quemadmodum retro
@@ -247,8 +244,8 @@
             quod prius non erat, non veraciter dicitur aeterna illa substantia; si autem Dei
             voluntas sempiterna erat, ut esset creatura, cur non sempiterna et creatura?".</p>
         </div>
-        <div>
-          <head>11</head>
+        <div xml:id="aconf-l11-Dd1e228">
+          <head xml:id="aconf-l11-Hd1e230">11</head>
           <p xml:id="aconf-l11-d1e168" n="13">Qui haec dicunt, nondum te intellegunt, o sapientia
             Dei, lux mentium, nondum intellegunt, quomodo fiant, quae per te atque in te fiunt, et
             conantur aeterna sapere, sed adhuc in praeteritis et futuris rerum motibus cor eorum
@@ -264,8 +261,8 @@
             manus oris mei per loquelas agit tam grandem rem?</p>
 
         </div>
-        <div>
-          <head>12</head>
+        <div xml:id="aconf-l11-Dd1e236">
+          <head xml:id="aconf-l11-Hd1e238">12</head>
           <p xml:id="aconf-l11-d1e173" n="14"> Ecce respondeo dicenti: "Quid faciebat Deus, antequam
             faceret caelum et terram?" Respondeo non illud, quod quidam respondisse perhibetur
             ioculariter eludens quaestionis violentiam: "Alta, inquit, scrutantibus gehennas
@@ -277,8 +274,8 @@
             faciebat? Et utinam sic sciam, quidquid utiliter scire cupio, quemadmodum scio, quod
             nulla fiebat creatura, antequam fieret ulla creatura. </p>
         </div>
-        <div>
-          <head>13</head>
+        <div xml:id="aconf-l11-Dd1e244">
+          <head xml:id="aconf-l11-Hd1e246">13</head>
           <p xml:id="aconf-l11-d1e179" n="15">At si cuiusquam volatilis sensus vagatur per imagines
             retro temporum et te, Deum omnipotentem et omnicreantem et omnitenentem, caeli et terrae
             artificem, ab opere tanto, antequam id faceres, per innumerabilia saecula cessasse
@@ -293,16 +290,16 @@
           <p xml:id="aconf-l11-d1e184" n="16">13.. Nec tu tempore tempora praecedis: alioquin non
             omnia tempora praecederes. Sed praecedis omnia praeterita celsitudine semper praesentis
             aeternitatis et superas omnia futura, quia illa futura sunt, et cum venerint, praeterita
-            erunt; <quote source="http://scta.info/resource/ps101_28@1-10">tu autem idem ipse es, et anni tui non deficiunt</quote>. Anni tui nec eunt nec veniunt:
+            erunt; <quote xml:id="aconf-l11-Qd1e253" source="http://scta.info/resource/ps101_28@1-10">tu autem idem ipse es, et anni tui non deficiunt</quote>. Anni tui nec eunt nec veniunt:
             isti enim nostri eunt et veniunt, ut omnes veniant. Anni tui omnes simul stant, quoniam
             stant, nec euntes a venientibus excluduntur, quia non transeunt; isti autem nostri omnes
             erunt, cum omnes non erunt. Anni tui dies unus, et dies tuus non quotidie, sed hodie,
             quia hodiernus tuus non cedit crastino; neque enim succedit hesterno. Hodiernus tuus
-            aeternitas: ideo coaeternum genuisti, cui dixisti: <quote source="http://scta.info/resource/ps2_7@9-12">Ego hodie genui te</quote>. Omnia tempora tu
+            aeternitas: ideo coaeternum genuisti, cui dixisti: <quote xml:id="aconf-l11-Qd1e256" source="http://scta.info/resource/ps2_7@9-12">Ego hodie genui te</quote>. Omnia tempora tu
             fecisti et ante omnia tempora tu es, nec aliquo tempore non erat tempus.</p>
         </div>
-        <div>
-          <head>14</head>
+        <div xml:id="aconf-l11-Dd1e261">
+          <head xml:id="aconf-l11-Hd1e263">14</head>
           <p xml:id="aconf-l11-d1e189" n="17">Nullo ergo tempore non feceras aliquid, quia ipsum
             tempus tu feceras. Et nulla tempora tibi coaeterna sunt, quia tu permanes; at illa si
             permanerent, non essent tempora. Quid est enim tempus? Quis hoc facile breviterque
@@ -319,8 +316,8 @@
             sit, illa est, quia non erit, ut scilicet non vere dicamus tempus esse, nisi quia tendit
             non esse? </p>
         </div>
-        <div>
-          <head>15</head>
+        <div xml:id="aconf-l11-Dd1e269">
+          <head xml:id="aconf-l11-Hd1e271">15</head>
           <p xml:id="aconf-l11-d1e195" n="18">Et tamen dicimus longum tempus et breve tempus neque
             hoc nisi de praeterito aut futuro dicimus. Praeteritum tempus longum verbi gratia
             vocamus ante centum annos, futurum itidem longum post centum annos, breve autem
@@ -337,8 +334,8 @@
             ut non esset, et ideo erat, quod longum esse posset; postea vero quam praeteriit, simul
             et longum esse destitit, quod esse destitit. </p>
         </div>
-        <div>
-          <head>15</head>
+        <div xml:id="aconf-l11-Dd1e277">
+          <head xml:id="aconf-l11-Hd1e279">15</head>
           <p xml:id="aconf-l11-d1e200" n="19">Videamus ergo, anima humana, utrum praesens tempus
             possit esse longum: datum enim tibi est sentire moras atque metiri. Quid respondebis
             mihi? An centum anni praesentes longum tempus est? Vide prius, utrum possint praesentes
@@ -371,8 +368,8 @@
             possit esse quod longum sit, iam superioribus vocibus clamat praesens tempus longum se
             esse non posse.</p>
         </div>
-        <div>
-          <head>16</head>
+        <div xml:id="aconf-l11-Dd1e289">
+          <head xml:id="aconf-l11-Hd1e291">16</head>
           <p xml:id="aconf-l11-d1e208" n="21">Et tamen, Domine, sentimus intervalla temporum et
             comparamus sibimet et dicimus alia longiora et alia breviora. Metimur etiam, quanto sit
             longius aut brevius illud tempus quam illud et respondemus duplum esse hoc vel triplum,
@@ -383,8 +380,8 @@
             quoniam non est, non potest.</p>
 
         </div>
-        <div>
-          <head>17</head>
+        <div xml:id="aconf-l11-Dd1e297">
+          <head xml:id="aconf-l11-Hd1e299">17</head>
           <p xml:id="aconf-l11-d1e214" n="22">Quaero, pater, non affirmo: Deus meus, praeside mihi
             et rege me. Quisnam est, qui dicat mihi non esse tria tempora, sicut pueri didicimus
             puerosque docuimus, praeteritum, praesens et futurum, sed tantum praesens, quoniam illa
@@ -394,8 +391,8 @@
             est. Et qui narrant praeterita, non utique vera narrarent, si animo illa non cernerent;
             quae si nulla essent, cerni omnino non possent. Sunt ergo et futura et praeterita. </p>
         </div>
-        <div>
-          <head>18</head>
+        <div xml:id="aconf-l11-Dd1e305">
+          <head xml:id="aconf-l11-Hd1e307">18</head>
           <p xml:id="aconf-l11-d1e219" n="23">Sine me, Domine, amplius quaerere, spes mea; non
             conturbetur intentio mea. Si enim sunt futura et praeterita, volo scire, ubi sint. Quod
             si nondum valeo, scio tamen, ubicumque sunt, non ibi ea futura esse aut praeterita, sed
@@ -427,8 +424,8 @@
             nondum sunt, non sunt, et si non sunt, videri omnino non possunt; sed praedici possunt
             ex praesentibus, quae iam sunt et videntur.</p>
         </div>
-        <div>
-          <head>19</head>
+        <div xml:id="aconf-l11-Dd1e316">
+          <head xml:id="aconf-l11-Hd1e318">19</head>
           <p xml:id="aconf-l11-d1e230"> Tu, itaque, regnator creaturae tuae, quis est modus, quo
             doces animas ea quae futura sunt? Docuisti enim Prophetas tuos. Quisnam ille modus est,
             quo doces futura, cui futurum quidquam non est? Vel potius de futuris doces praesentia?
@@ -436,8 +433,8 @@
             invaluit ex me non potero ad illum; potero autem ex te, cum dederis tu, dulce lumen
             occultorum oculorum meorum. </p>
         </div>
-        <div>
-          <head>20</head>
+        <div xml:id="aconf-l11-Dd1e324">
+          <head xml:id="aconf-l11-Hd1e326">20</head>
           <p xml:id="aconf-l11-d1e235" n="26"> Quod autem nunc liquet et claret, nec futura sunt nec
             praeterita, nec proprie dicitur: tempora sunt tria, praeteritum, praesens et futurum,
             sed fortasse proprie diceretur: tempora sunt tria, praesens de praeteritis, praesens de
@@ -450,8 +447,8 @@
             praeteritum est. Pauca sunt enim, quae proprie loquimur, plura non proprie, sed
             agnoscitur quid velimus.</p>
         </div>
-        <div>
-          <head>21</head>
+        <div xml:id="aconf-l11-Dd1e332">
+          <head xml:id="aconf-l11-Hd1e334">21</head>
           <p xml:id="aconf-l11-d1e240" n="27">Dixi ergo paulo ante, quod praetereuntia tempora
             metimur, ut possimus dicere duplum esse hoc temporis ad illud simplum aut tantum hoc
             quantum illud et si quid aliud de partibus temporum possumus renuntiare metiendo.
@@ -469,18 +466,18 @@
             non est, non metimur.</p>
 
         </div>
-        <div>
-          <head>22</head>
+        <div xml:id="aconf-l11-Dd1e341">
+          <head xml:id="aconf-l11-Hd1e343">22</head>
           <p xml:id="aconf-l11-d1e246" n="28">Exarsit animus meus nosse istuc implicatissimum
             aenigma. Noli claudere, Domine Deus meus, bone Pater, per Christum obsecro, noli
             claudere desiderio meo ista et usitata et abdita, quominus in ea penetret et dilucescant
             allucente misericordia tua, Domine. Quem percontabor de his? Et cui fructuosius
             confitebor imperitiam meam nisi tibi, cui non sunt molesta studia mea flammantia
             vehementer in Scripturas tuas? Da quod amo: amo enim, et hoc tu dedisti. Da, Pater, qui
-            vere <quote source="http://scta.info/resource/mt7_11@7-11">nosti data bona dare filiis tuis</quote>, da, quoniam suscepi cognoscere et <quote source="http://scta.info/resource/ps72_16@5-8">labor est ante
+            vere <quote xml:id="aconf-l11-Qd1e347" source="http://scta.info/resource/mt7_11@7-11">nosti data bona dare filiis tuis</quote>, da, quoniam suscepi cognoscere et <quote xml:id="aconf-l11-Qd1e350" source="http://scta.info/resource/ps72_16@5-8">labor est ante
             me</quote>, donec aperias. Per Christum obsecro, in nomine eius sancti sanctorum nemo mihi
-            obstrepat. Et ego <quote source="http://scta.info/resource/ps115_1@2-6">credidi, propter quod et loquor</quote>. Haec est spes mea; ad hanc vivo, <quote source="http://scta.info/resource/ps26_4@16-19">ut
-            contempler delectationem Domini</quote>. <quote source="http://scta.info/resource/ps38_6@1-5">Ecce veteres posuisti dies meos</quote> et transeunt, et
+            obstrepat. Et ego <quote xml:id="aconf-l11-Qd1e353" source="http://scta.info/resource/ps115_1@2-6">credidi, propter quod et loquor</quote>. Haec est spes mea; ad hanc vivo, <quote xml:id="aconf-l11-Qd1e356" source="http://scta.info/resource/ps26_4@16-19">ut
+            contempler delectationem Domini</quote>. <quote xml:id="aconf-l11-Qd1e359" source="http://scta.info/resource/ps38_6@1-5">Ecce veteres posuisti dies meos</quote> et transeunt, et
             quomodo, nescio. Et dicimus tempus et tempus, tempora et tempora: "Quandiu dixit hoc
             ille","Quandiu fecit hoc ille" et: "Quam longo tempore illud non vidi", et: "Duplum
             temporis habet haec syllaba ad illam simplam brevem". Dicimus haec et audivimus haec et
@@ -488,8 +485,8 @@
             latent et nova est inventio eorum.</p>
 
         </div>
-        <div>
-          <head>23</head>
+        <div xml:id="aconf-l11-Dd1e364">
+          <head xml:id="aconf-l11-Hd1e366">23</head>
           <p xml:id="aconf-l11-d1e251" n="29">Audivi a quodam homine docto, quod solis et lunae ac
             siderum motus ipsa sint tempora, et non adnui. Cur enim non potius omnium corporum motus
             sint tempora? An vero, si cessarent caeli lumina et moveretur rota figuli, non esset
@@ -498,7 +495,7 @@
             diceremus, non et nos in tempore loqueremur aut essent in verbis nostris aliae longae
             syllabae, aliae breves, nisi quia illae longiore tempore sonuissent, istae breviore?
             Deus, dona hominibus videre in parvo communes notitias rerum parvarum atque magnarum.
-            Sunt sidera et luminaria caeli <quote source="http://scta.info/resource/gen1_14@14-23">in signis et in temporibus et in diebus et in annis</quote>. Sunt
+            Sunt sidera et luminaria caeli <quote xml:id="aconf-l11-Qd1e370" source="http://scta.info/resource/gen1_14@14-23">in signis et in temporibus et in diebus et in annis</quote>. Sunt
             vero; sed nec ego dixerim circuitum illius ligneolae rotae diem esse, nec tamen ideo
             tempus non esse ille dixerit.</p>
 
@@ -527,8 +524,8 @@
             demonstrabis, Lux, Veritas.</p>
 
         </div>
-        <div>
-          <head>24</head>
+        <div xml:id="aconf-l11-Dd1e378">
+          <head xml:id="aconf-l11-Hd1e380">24</head>
           <p xml:id="aconf-l11-d1e259" n="31">Iubes ut approbem, si quis dicat tempus esse motum
             corporis? Non iubes. Nam corpus nullum nisi in tempore moveri audio: tu dicis. Ipsum
             autem corporis motum tempus esse non audio: non tu dicis. Cum enim movetur corpus,
@@ -548,19 +545,19 @@
             dici solet plus minus. Non est ergo tempus corporis motus.</p>
 
         </div>
-        <div>
-          <head>25</head>
+        <div xml:id="aconf-l11-Dd1e386">
+          <head xml:id="aconf-l11-Hd1e388">25</head>
           <p xml:id="aconf-l11-d1e265" n="32">Et confiteor tibi, Domine, ignorare me adhuc, quid sit
             tempus, et rursus confiteor tibi, Domine, scire me in tempore ista dicere et diu me iam
             loqui de tempore atque ipsum diu non esse diu nisi mora temporis. Quomodo igitur hoc
             scio, quando quid sit tempus nescio? An forte nescio, quemadmodum dicam quod scio? Ei
             mihi, qui nescio saltem quid nesciam! Ecce, Deus meus, coram te, quia non mentior; sicut
-            loquor, ita est cor meum. <quote source="http://scta.info/resource/ps17_29@1-11">Tu illuminabis lucernam meam, Domine, Deus meus, illuminabis
+            loquor, ita est cor meum. <quote xml:id="aconf-l11-Qd1e392" source="http://scta.info/resource/ps17_29@1-11">Tu illuminabis lucernam meam, Domine, Deus meus, illuminabis
             tenebras meas</quote>.</p>
 
         </div>
-        <div>
-          <head>26</head>
+        <div xml:id="aconf-l11-Dd1e397">
+          <head xml:id="aconf-l11-Hd1e399">26</head>
           <p xml:id="aconf-l11-d1e270" n="33">Nonne tibi confitetur anima mea confessione veridica
             metiri me tempora? Itane, Deus meus, metior et quid metiar nescio. Metior motum corporis
             tempore. Item ipsum tempus nonne metior? An vero corporis motum metirer, quandiu sit et
@@ -583,10 +580,10 @@
             non praeterita? Sic enim dixeram.</p>
 
         </div>
-        <div>
-          <head>27</head>
+        <div xml:id="aconf-l11-Dd1e405">
+          <head xml:id="aconf-l11-Hd1e407">27</head>
           <p xml:id="aconf-l11-d1e275" n="34">Insiste, anime meus, et attende fortiter: Deus adiutor
-            noster; <quote source="http://scta.info/resource/ps99_3@7-13">ipse fecit nos, et non nos</quote>. Attende, ubi albescit veritas. Ecce puta vox
+            noster; <quote xml:id="aconf-l11-Qd1e411" source="http://scta.info/resource/ps99_3@7-13">ipse fecit nos, et non nos</quote>. Attende, ubi albescit veritas. Ecce puta vox
             corporis incipit sonare et sonat et adhuc sonat et ecce desinit, iamque silentium est,
             et vox illa praeterita est et non est iam vox. Futura erat, antequam sonaret, et non
             poterat metiri, quia nondum erat, et nunc non potest, quia iam non est. Tunc ergo
@@ -640,8 +637,8 @@
             consumptione futuri sit totum praeteritum.</p>
 
         </div>
-        <div>
-          <head>28</head>
+        <div xml:id="aconf-l11-Dd1e423">
+          <head xml:id="aconf-l11-Hd1e425">28</head>
           <p xml:id="aconf-l11-d1e289" n="37">Sed quomodo minuitur aut consumitur futurum, quod
             nondum est, aut quomodo crescit praeteritum, quod iam non est, nisi quia in animo, qui
             illud agit, tria sunt? Nam et exspectat et attendit et meminit, ut id quod exspectat per
@@ -665,22 +662,22 @@
             vita hominis, cuius partes sunt omnes actiones hominis, hoc in toto saeculo filiorum
             hominum, cuius partes sunt omnes vitae hominum.</p>
         </div>
-        <div>
-          <head>29</head>
-          <p xml:id="aconf-l11-d1e302" n="39">Sed quoniam <quote source="http://scta.info/resource/ps62_4@2-7">melior est misericordia tua super vitas</quote>,
-            ecce distentio est vita mea, et <quote source="http://scta.info/resource/ps62_9@6-9">me suscepit dextera tua</quote> in Domino meo, mediatore Filio
+        <div xml:id="aconf-l11-Dd1e434">
+          <head xml:id="aconf-l11-Hd1e436">29</head>
+          <p xml:id="aconf-l11-d1e302" n="39">Sed quoniam <quote xml:id="aconf-l11-Qd1e440" source="http://scta.info/resource/ps62_4@2-7">melior est misericordia tua super vitas</quote>,
+            ecce distentio est vita mea, et <quote xml:id="aconf-l11-Qd1e443" source="http://scta.info/resource/ps62_9@6-9">me suscepit dextera tua</quote> in Domino meo, mediatore Filio
             hominis inter te unum et nos multos, in multis per multa, ut per eum apprehendam, in quo
             et apprehensus sum, et a veteribus diebus colligar sequens unum, praeterita oblitus, non
             in ea quae futura et transitura sunt, sed in ea quae ante sunt non distentus, sed
             extentus, non secundum distentionem, sed secundum intentionem sequor ad palmam supernae
-            vocationis, ubi <quote source="http://scta.info/resource/ps25_7@1-4">audiam vocem laudis</quote> et contempler delectationem tuam, nec venientem nec
-            praetereuntem. Nunc vero <quote source="http://scta.info/resource/ps30_11@7-11">anni mei in gemitibus</quote>, et tu solacium meum, Domine, Pater meus
+            vocationis, ubi <quote xml:id="aconf-l11-Qd1e446" source="http://scta.info/resource/ps25_7@1-4">audiam vocem laudis</quote> et contempler delectationem tuam, nec venientem nec
+            praetereuntem. Nunc vero <quote xml:id="aconf-l11-Qd1e449" source="http://scta.info/resource/ps30_11@7-11">anni mei in gemitibus</quote>, et tu solacium meum, Domine, Pater meus
             aeternus es; at ego in tempora dissilui, quorum ordinem nescio, et tumultuosis
             varietatibus dilaniantur cogitationes meae, intima viscera animae meae, donec in te
             confluam purgatus et liquidus igne amoris tui. </p>
         </div>
-        <div>
-          <head>30</head>
+        <div xml:id="aconf-l11-Dd1e454">
+          <head xml:id="aconf-l11-Hd1e456">30</head>
           <p xml:id="aconf-l11-d1e307" n="40">Et stabo atque solidabor in te in forma mea, veritate
             tua, nec patiar quaestiones hominum, qui poenali morbo plus sitiunt, quam capiunt, et
             dicunt: "Quid faciebat Deus, antequam faceret caelum et terram?", aut: "Quid ei venit in
@@ -693,8 +690,8 @@
             etiamsi est aliqua supra tempora.</p>
 
         </div>
-        <div>
-          <head>31</head>
+        <div xml:id="aconf-l11-Dd1e462">
+          <head xml:id="aconf-l11-Hd1e464">31</head>
           <p xml:id="aconf-l11-d1e312" n="40">Domine Deus meus, quis ille sinus est alti secreti tui
             et quam longe inde me proiecerunt consequentia delictorum meorum? Sana oculos meos, et
             congaudeam luci tuae. Certe si est tam grandi scientia et praescientia pollens animus,
