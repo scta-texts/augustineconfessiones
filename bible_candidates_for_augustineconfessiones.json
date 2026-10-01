@@ -1,0 +1,7116 @@
+{
+  "aconf-l1": {
+    "aconf-l1-d1e102": [
+      {
+        "candidate_id": "ps21_27",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom10_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "abridged paraphrase"
+      },
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "ps146_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "adapted to 2nd person"
+      }
+    ],
+    "aconf-l1-d1e107": [
+      {
+        "candidate_id": "ps138_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIchr2_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ap14_7",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier23_24",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps113_23",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps120_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps123_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps133_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps145_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "aconf-l1-d1e118": [
+      {
+        "candidate_id": "ps17_32",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l1-d1e123": [
+      {
+        "candidate_id": "ps34_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l1-d1e126": [
+      {
+        "candidate_id": "ps18_13",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps18_14",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps129_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l1-d1e148": [
+      {
+        "candidate_id": "ex13_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc10_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as mt11_25"
+      },
+      {
+        "candidate_id": "lc19_44",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt11_25",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps101_28",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l1-d1e156": [
+      {
+        "candidate_id": "ez20_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps50_7",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps91_2",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l1-d1e167": [
+      {
+        "candidate_id": "ps17_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps21_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l1-d1e196": [
+      {
+        "candidate_id": "Ith3_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "hab1_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps77_39",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l1-d1e215": [
+      {
+        "candidate_id": "io20_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps43_5",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps5_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; encoded as ps43_5 ('tu ... rex meus et Deus meus')"
+      },
+      {
+        "candidate_id": "ps83_4",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; encoded as ps43_5"
+      },
+      {
+        "candidate_id": "ps60_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l1-d1e234": [
+      {
+        "candidate_id": "ps102_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "MS 'longanimis et multum misericors et verax' matches ps85_15 (with 'verax'); encoded there"
+      },
+      {
+        "candidate_id": "ps85_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "ps26_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l2": {
+    "aconf-l2-d1e106": [
+      {
+        "candidate_id": "Icor7_32",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "Icor7_34",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "adjacent verse; quote is Icor7_32-33"
+      },
+      {
+        "candidate_id": "Icor7_1",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor7_33",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "Icor7_28",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l2-d1e120": [
+      {
+        "candidate_id": "ier2_27",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l2-d1e142": [
+      {
+        "candidate_id": "IIchr2_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac15_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan11_38",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex31_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex35_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ez16_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "hab2_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps105_47",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir30_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l2-d1e150": [
+      {
+        "candidate_id": "IIchr6_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ireg3_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "bar2_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan9_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex29_42",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir52_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir52_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tob8_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l2-d1e178": [
+      {
+        "candidate_id": "IIsam11_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc12_47",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt25_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l3": {
+    "aconf-l3-d1e102": [
+      {
+        "candidate_id": "ps58_18",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l3-d1e113": [
+      {
+        "candidate_id": "IIcor2_16",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l3-d1e139": [
+      {
+        "candidate_id": "mc13_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt24_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps118_149",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "col2_8",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col2_9",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l3-d1e152": [
+      {
+        "candidate_id": "IIth1_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iac1_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l3-d1e166": [
+      {
+        "candidate_id": "IIchr30_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IIreg13_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ichr29_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut6_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen48_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "num32_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IImac1_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut1_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex2_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier33_26",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt8_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "bar2_34",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc13_28",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l3-d1e174": [
+      {
+        "candidate_id": "deut26_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut6_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc10_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as mc12_33"
+      },
+      {
+        "candidate_id": "mc12_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; conflated great-commandment quote encoded as mc12_33"
+      },
+      {
+        "candidate_id": "mc12_33",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "conflation of Mt 22:37-39 / Mc 12:30-33"
+      }
+    ],
+    "aconf-l3-d1e178": [
+      {
+        "candidate_id": "rom1_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "allusion; verbatim phrase"
+      }
+    ],
+    "aconf-l3-d1e194": [
+      {
+        "candidate_id": "ps102_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps143_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l4": {
+    "aconf-l4-d1e118": [
+      {
+        "candidate_id": "ps50_19",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom2_6",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir17_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io5_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps40_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l4-d1e134": [
+      {
+        "candidate_id": "IItim1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l4-d1e144": [
+      {
+        "candidate_id": "act2_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps15_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps72_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir26_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps41_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "adapted to indirect speech"
+      }
+    ],
+    "aconf-l4-d1e155": [
+      {
+        "candidate_id": "IIreg1_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ireg20_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps24_15",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l4-d1e168": [
+      {
+        "candidate_id": "IIcor4_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is58_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps60_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps95_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir5_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l4-d1e173": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ag2_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan14_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex31_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier49_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier50_44",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps118_142",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IIchr2_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps113_23",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps120_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps123_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps133_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps145_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ap14_7",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l4-d1e178": [
+      {
+        "candidate_id": "dan9_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt13_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps79_4",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "refrain parallel; MS has 'Deus virtutum' = ps79_8, encoded there"
+      },
+      {
+        "candidate_id": "ps79_20",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "refrain parallel; MS lacks 'Domine'; encoded as ps79_8"
+      },
+      {
+        "candidate_id": "ps79_8",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l4-d1e184": [
+      {
+        "candidate_id": "iob30_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l4-d1e187": [
+      {
+        "candidate_id": "ios24_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps49_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps91_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l4-d1e192": [
+      {
+        "candidate_id": "is46_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l4-d1e195": [
+      {
+        "candidate_id": "Itim1_15",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps18_6",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps4_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps72_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l4-d1e225": [
+      {
+        "candidate_id": "iac1_17",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_9",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ion2_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps17_29",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l4-d1e245": [
+      {
+        "candidate_id": "ps39_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps58_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc15_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "aconf-l4-d1e250": [
+      {
+        "candidate_id": "IIchr14_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "bar2_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is46_4",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps60_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps62_8"
+      },
+      {
+        "candidate_id": "ps62_8",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "phrase also in ps60_5"
+      },
+      {
+        "candidate_id": "sir6_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ]
+  },
+  "aconf-l5": {
+    "aconf-l5-d1e102": [
+      {
+        "candidate_id": "Isam22_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan4_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut32_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ez7_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen40_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier13_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier2_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier9_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iob19_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is14_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is42_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is43_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is51_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lam1_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "nah2_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "nah2_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "nah3_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "os5_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps141_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps34_10",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tob13_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps18_7",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e107": [
+      {
+        "candidate_id": "gen27_45",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l5-d1e115": [
+      {
+        "candidate_id": "Ichr11_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan9_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sap13_9",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps137_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e120": [
+      {
+        "candidate_id": "iudic20_43",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iudic9_49",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l5-d1e123": [
+      {
+        "candidate_id": "rom1_25",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor1_30",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_21",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_23",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e134": [
+      {
+        "candidate_id": "sap11_21",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor6_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e142": [
+      {
+        "candidate_id": "eph4_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e161": [
+      {
+        "candidate_id": "ps21_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps36_23",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir51_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l5-d1e169": [
+      {
+        "candidate_id": "ps141_6",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e174": [
+      {
+        "candidate_id": "ios12_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l5-d1e179": [
+      {
+        "candidate_id": "Ichr21_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex8_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen28_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iob42_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor15_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e185": [
+      {
+        "candidate_id": "Imac4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps105_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps106_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps117_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps117_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps117_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps117_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps117_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps50_19",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e190": [
+      {
+        "candidate_id": "ps140_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "ps140_4",
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps85_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l5-d1e195": [
+      {
+        "candidate_id": "lc10_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'Domine caeli et terrae' address only; no quotation"
+      },
+      {
+        "candidate_id": "mt11_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'Domine caeli et terrae' address only; no quotation"
+      }
+    ]
+  },
+  "aconf-l6": {
+    "aconf-l6-d1e102": [
+      {
+        "candidate_id": "ier10_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps141_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps70_5",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc7_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io4_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l6-d1e107": [
+      {
+        "candidate_id": "IIsam7_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ichr17_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps34_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l6-d1e118": [
+      {
+        "candidate_id": "lev13_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IItim2_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l6-d1e129": [
+      {
+        "candidate_id": "IIcor3_6",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l6-d1e137": [
+      {
+        "candidate_id": "IIchr13_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l6-d1e146": [
+      {
+        "candidate_id": "cant4_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l6-d1e175": [
+      {
+        "candidate_id": "lc16_12",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc16_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc16_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l6-d1e192": [
+      {
+        "candidate_id": "IIcor4_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is58_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps60_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps95_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir5_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap8_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps54_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l6-d1e201": [
+      {
+        "candidate_id": "sir3_27",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l6-d1e222": [
+      {
+        "candidate_id": "is46_4",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion"
+      },
+      {
+        "candidate_id": "prov3_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps26_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps85_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'in via tua' only"
+      }
+    ]
+  },
+  "aconf-l7": {
+    "aconf-l7-d1e105": [
+      {
+        "candidate_id": "Isam24_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l7-d1e119": [
+      {
+        "candidate_id": "ps118_137",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion"
+      }
+    ],
+    "aconf-l7-d1e124": [
+      {
+        "candidate_id": "Ireg8_60",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut4_35",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l7-d1e130": [
+      {
+        "candidate_id": "Imac6_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l7-d1e147": [
+      {
+        "candidate_id": "ps37_11",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps37_9",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps37_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iob15_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "ps88_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e152": [
+      {
+        "candidate_id": "IIcor4_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is58_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps60_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps84_6",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps95_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir5_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps101_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e159": [
+      {
+        "candidate_id": "dan9_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io1_9",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_1",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 11,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_4",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_2",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_10",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_12",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iac4_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e163": [
+      {
+        "candidate_id": "Iio3_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Iio4_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Iio5_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut26_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io1_13",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc10_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "synoptic parallel; encoded as mt11_25"
+      },
+      {
+        "candidate_id": "mt11_25",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_10",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_21",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_22",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom5_6",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_11",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_7",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt11_29",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps24_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e166": [
+      {
+        "candidate_id": "io17_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps78_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps87_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act17_28",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_25",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_23",
+        "intersectionCount": 8,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e171": [
+      {
+        "candidate_id": "ex10_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc18_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps39_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps38_12",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e176": [
+      {
+        "candidate_id": "ps15_2",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps72_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e182": [
+      {
+        "candidate_id": "sap13_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_31",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "allusion"
+      }
+    ],
+    "aconf-l7-d1e187": [
+      {
+        "candidate_id": "ps148_3",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_4",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_8",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_7",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_9",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_11",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps148_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e192": [
+      {
+        "candidate_id": "Isam21_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "est6_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ez14_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ez14_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ez16_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is57_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps118_37",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e198": [
+      {
+        "candidate_id": "sir42_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l7-d1e208": [
+      {
+        "candidate_id": "sap9_15",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e214": [
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io14_6",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom9_5",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e219": [
+      {
+        "candidate_id": "Icor11_19",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e224": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l7-d1e230": [
+      {
+        "candidate_id": "Imac6_46",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "col2_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "dan9_5",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps50_19",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps61_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iud1_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom5_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom7_22",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom7_24",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom7_25",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom7_23",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "adapted to 3rd person"
+      },
+      {
+        "candidate_id": "ps61_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc10_21",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "synoptic parallel; encoded as mt11_25"
+      },
+      {
+        "candidate_id": "mt11_25",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps61_3",
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor4_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt11_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l8": {
+    "aconf-l8-d1e102": [
+      {
+        "candidate_id": "ps34_10",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps112_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps115_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps115_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e107": [
+      {
+        "candidate_id": "mt7_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir7_5",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps17_36",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_22",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap13_1",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_21",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e116": [
+      {
+        "candidate_id": "ps39_5",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps143_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps111_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e124": [
+      {
+        "candidate_id": "lc15_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc15_32",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel; MS refers to the younger son (filio), encoded as lc15_24"
+      },
+      {
+        "candidate_id": "lc15_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "aconf-l8-d1e131": [
+      {
+        "candidate_id": "mt24_31",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc15_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc15_32",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "parallel; encoded as lc15_24"
+      }
+    ],
+    "aconf-l8-d1e136": [
+      {
+        "candidate_id": "IItim3_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor1_28",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom4_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel phrase 'quae non sunt tamquam ea quae sunt'; quote is Icor1_28"
+      },
+      {
+        "candidate_id": "tit1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tit3_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IItim2_21",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor1_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e150": [
+      {
+        "candidate_id": "rom7_24",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iud1_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom5_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom7_23",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom7_25",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph5_14",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom7_22",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e157": [
+      {
+        "candidate_id": "ps137_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps53_8"
+      },
+      {
+        "candidate_id": "ps53_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "conflation"
+      },
+      {
+        "candidate_id": "ps18_15",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "conflation"
+      }
+    ],
+    "aconf-l8-d1e162": [
+      {
+        "candidate_id": "lc14_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc6_47",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l8-d1e168": [
+      {
+        "candidate_id": "IImac10_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IImac11_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IImac14_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IImac15_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IImac1_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IImac1_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac12_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac13_53",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac15_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac7_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac7_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac9_58",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac9_62",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act13_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act19_38",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act5_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen7_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc6_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mc15_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mc2_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt12_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt27_54",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt5_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc14_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "allusion"
+      }
+    ],
+    "aconf-l8-d1e173": [
+      {
+        "candidate_id": "is65_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps35_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e179": [
+      {
+        "candidate_id": "IIcor4_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is58_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps60_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps95_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir5_8",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion"
+      }
+    ],
+    "aconf-l8-d1e195": [
+      {
+        "candidate_id": "Iio4_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l8-d1e200": [
+      {
+        "candidate_id": "io1_9",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps33_6",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph5_8",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom7_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e221": [
+      {
+        "candidate_id": "IIchr16_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Isam30_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "os1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps65_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "col3_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps118_85",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e226": [
+      {
+        "candidate_id": "ps78_5",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps6_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps78_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e231": [
+      {
+        "candidate_id": "io10_40",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc18_22",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "synoptic parallel; Antony's text matches mt19_21 ('vade vende'), encoded there"
+      },
+      {
+        "candidate_id": "mc10_21",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "synoptic parallel; encoded as mt19_21"
+      },
+      {
+        "candidate_id": "mt19_21",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom13_14",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom13_13",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l8-d1e234": [
+      {
+        "candidate_id": "rom14_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "eph3_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps29_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l9": {
+    "aconf-l9-d1e102": [
+      {
+        "candidate_id": "IIreg16_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ireg18_36",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iob4_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps115_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps34_10",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps115_7",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps18_15",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps34_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sap9_5",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "shared phrase 'servus tuus et filius ancillae tuae'; source is ps115_7"
+      }
+    ],
+    "aconf-l9-d1e127": [
+      {
+        "candidate_id": "ps26_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e132": [
+      {
+        "candidate_id": "IItim1_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tit2_13",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is40_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "allusion"
+      },
+      {
+        "candidate_id": "ps28_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e137": [
+      {
+        "candidate_id": "Isam22_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan4_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut32_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ez7_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen40_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier13_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier2_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier9_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iob19_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is14_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is42_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is43_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is51_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lam1_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "nah2_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "nah2_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "nah3_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "os5_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps141_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sap2_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tob13_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps18_7",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "adapted to 2nd person"
+      },
+      {
+        "candidate_id": "ps4_2",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e143": [
+      {
+        "candidate_id": "Ipetr1_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ith5_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act17_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps4_3",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io7_39",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps4_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e146": [
+      {
+        "candidate_id": "ap6_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "eph4_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "Augustine is reading Ps 4 here; encoded as ps4_5"
+      },
+      {
+        "candidate_id": "neh7_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "os2_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "prov24_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps4_5",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "deut11_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ioel2_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "os2_8",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps4_7",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom2_5",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps4_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e149": [
+      {
+        "candidate_id": "Icor15_54",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps4_10",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e154": [
+      {
+        "candidate_id": "ier32_35",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l9-d1e206": [
+      {
+        "candidate_id": "ps58_18",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e212": [
+      {
+        "candidate_id": "Itim5_10",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e217": [
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil3_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "aconf-l9-d1e220": [
+      {
+        "candidate_id": "ier8_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is44_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc21_36",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "qoh12_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e223": [
+      {
+        "candidate_id": "mt25_21",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt25_23",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; encoded as mt25_21"
+      },
+      {
+        "candidate_id": "ps99_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "Icor15_51",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e240": [
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e249": [
+      {
+        "candidate_id": "ps100_1",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e254": [
+      {
+        "candidate_id": "IIchr6_40",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l9-d1e265": [
+      {
+        "candidate_id": "IIcor10_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as Icor1_31"
+      },
+      {
+        "candidate_id": "sir10_34",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor1_31",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt5_22",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e270": [
+      {
+        "candidate_id": "ps87_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom8_34",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt6_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "allusion"
+      },
+      {
+        "candidate_id": "ps142_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iac2_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom9_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l9-d1e273": [
+      {
+        "candidate_id": "col2_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps118_108",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l10": {
+    "aconf-l10-d1e102": [
+      {
+        "candidate_id": "ps50_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io3_21",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e113": [
+      {
+        "candidate_id": "Icor2_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "Icor13_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e123": [
+      {
+        "candidate_id": "ps50_3",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps143_8",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "identical refrain; encoded as ps143_11 (with 'filiorum alienorum')"
+      },
+      {
+        "candidate_id": "ps143_11",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e126": [
+      {
+        "candidate_id": "Icor4_3",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e132": [
+      {
+        "candidate_id": "gen32_30",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier18_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor2_11",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor10_13",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e139": [
+      {
+        "candidate_id": "act17_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ios6_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ios6_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir16_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tob8_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut10_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ichr16_32",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "neh9_6",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps145_6",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps95_12",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier51_48",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "generic formula 'caelum et terra et omnia quae in eis sunt'; no quotation of Jeremiah"
+      },
+      {
+        "candidate_id": "rom9_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e144": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ichr16_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "esd5_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier51_48",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io18_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "neh9_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps145_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps95_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir16_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tob8_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e148": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e153": [
+      {
+        "candidate_id": "tob6_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; source is ps31_9"
+      },
+      {
+        "candidate_id": "ps31_9",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e160": [
+      {
+        "candidate_id": "Imac13_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Itim1_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e171": [
+      {
+        "candidate_id": "tob8_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e208": [
+      {
+        "candidate_id": "Icor12_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor12_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex18_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex4_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io16_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io16_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iudic8_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "num23_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "zac5_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e257": [
+      {
+        "candidate_id": "ex18_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex4_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io16_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io16_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iudic8_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "num23_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "zac5_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e262": [
+      {
+        "candidate_id": "Iio2_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mc12_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir35_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e268": [
+      {
+        "candidate_id": "gal1_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gal5_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io12_35",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e299": [
+      {
+        "candidate_id": "Ith2_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iob7_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin text; Vulgate 'militia est vita hominis'"
+      }
+    ],
+    "aconf-l10-d1e305": [
+      {
+        "candidate_id": "sap8_21",
+        "intersectionCount": 12,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e312": [
+      {
+        "candidate_id": "ps34_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Iio2_16",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e324": [
+      {
+        "candidate_id": "Ichr17_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Iio2_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan14_41",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut4_35",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is45_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is45_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir35_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mc12_32",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e327": [
+      {
+        "candidate_id": "is29_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc15_24",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc15_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as lc15_24"
+      },
+      {
+        "candidate_id": "mc7_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt15_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor8_8",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc21_34",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_13",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir18_30",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_11",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir23_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e330": [
+      {
+        "candidate_id": "Icor8_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom14_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom14_3",
+        "intersectionCount": 10,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim4_4",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col2_16",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "tit1_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom14_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e333": [
+      {
+        "candidate_id": "deut4_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut7_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps138_16",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e352": [
+      {
+        "candidate_id": "IIcor5_2",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e356": [
+      {
+        "candidate_id": "ps24_15",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps120_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e359": [
+      {
+        "candidate_id": "ps25_3",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e370": [
+      {
+        "candidate_id": "bar3_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e379": [
+      {
+        "candidate_id": "ion2_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps102_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "ps102_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "ps102_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "aconf-l10-d1e386": [
+      {
+        "candidate_id": "ps9_24",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iac4_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps17_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "allusion"
+      }
+    ],
+    "aconf-l10-d1e392": [
+      {
+        "candidate_id": "deut3_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l10-d1e398": [
+      {
+        "candidate_id": "iob13_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "prov30_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps140_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e403": [
+      {
+        "candidate_id": "ps108_22",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e421": [
+      {
+        "candidate_id": "ps30_23",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e427": [
+      {
+        "candidate_id": "IIcor11_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom6_23",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e432": [
+      {
+        "candidate_id": "Itim2_5",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e435": [
+      {
+        "candidate_id": "mc10_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt20_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom8_32",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil2_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps87_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io10_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps102_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_34",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io1_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l10-d1e438": [
+      {
+        "candidate_id": "IIcor5_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "adjacent verse; quote is IIcor5_15"
+      },
+      {
+        "candidate_id": "IIcor5_15",
+        "intersectionCount": 12,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps118_18",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps21_27",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col2_3",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l11": {
+    "aconf-l11-d1e102": [
+      {
+        "candidate_id": "Ichr16_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps144_3"
+      },
+      {
+        "candidate_id": "Imac4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps117_1"
+      },
+      {
+        "candidate_id": "ps105_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps117_1"
+      },
+      {
+        "candidate_id": "ps106_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps117_1"
+      },
+      {
+        "candidate_id": "ps117_1",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "refrain also ps105_1, ps106_1, ps117_29"
+      },
+      {
+        "candidate_id": "ps117_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps117_1"
+      },
+      {
+        "candidate_id": "ps117_29",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps117_1"
+      },
+      {
+        "candidate_id": "ps117_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps117_1"
+      },
+      {
+        "candidate_id": "ps117_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps117_1"
+      },
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps47_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps144_3"
+      },
+      {
+        "candidate_id": "ps95_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps144_3"
+      },
+      {
+        "candidate_id": "mt6_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e113": [
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps118_18",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps25_7",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps73_16",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e116": [
+      {
+        "candidate_id": "IIchr2_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Imac15_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act20_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan11_38",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "eph6_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex31_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex35_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ez16_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "hab2_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iud1_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mc10_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt20_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps26_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps40_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps4_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir30_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor15_57",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ith5_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps79_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel refrain; MS 'virum dexterae tuae' = ps79_18"
+      },
+      {
+        "candidate_id": "ps79_18",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom15_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom5_1",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom5_11",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "col2_3",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps118_85",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e123": [
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e129": [
+      {
+        "candidate_id": "io11_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is1_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir40_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l11-d1e134": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ag2_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ap14_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan14_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex31_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'fecisti caelum et terram' is the topic under discussion, not a quotation"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps148_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ap5_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps32_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e139": [
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IIpetr1_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; encoded as mt17_5"
+      },
+      {
+        "candidate_id": "mt3_17",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parallel; transfiguration voice 'de nube' = mt17_5"
+      },
+      {
+        "candidate_id": "lc9_35",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "synoptic parallel ('electus'); MS 'dilectus' matches mt17_5"
+      },
+      {
+        "candidate_id": "mc9_6",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "synoptic parallel ('carissimus'); encoded as mt17_5"
+      },
+      {
+        "candidate_id": "mt17_5",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e155": [
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ion2_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps65_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom8_24",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps91_6",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parallel opening; MS continues 'omnia in sapientia fecisti' = ps103_24"
+      },
+      {
+        "candidate_id": "ps103_24",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps102_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "ps102_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "ps102_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "aconf-l11-d1e173": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'faceret caelum et terram' is the topic under discussion, not a quotation"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l11-d1e184": [
+      {
+        "candidate_id": "act13_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps2_7"
+      },
+      {
+        "candidate_id": "hebr1_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps2_7"
+      },
+      {
+        "candidate_id": "hebr5_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps2_7"
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "hebr1_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; Augustine quotes ps101_28"
+      },
+      {
+        "candidate_id": "ps101_28",
+        "intersectionCount": 6,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e240": [
+      {
+        "candidate_id": "Imac13_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Itim1_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l11-d1e246": [
+      {
+        "candidate_id": "ps38_6",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "ps72_16",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt7_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps115_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "also IIcor4_13"
+      },
+      {
+        "candidate_id": "ps26_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e251": [
+      {
+        "candidate_id": "bar2_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e259": [
+      {
+        "candidate_id": "Imac13_39",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Itim1_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l11-d1e265": [
+      {
+        "candidate_id": "ion2_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps17_29",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e275": [
+      {
+        "candidate_id": "Iio2_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mc12_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir35_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps99_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l11-d1e302": [
+      {
+        "candidate_id": "iob7_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps25_7",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps30_11",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps62_9",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps62_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l12": {
+    "aconf-l12-d1e102": [
+      {
+        "candidate_id": "lc11_10",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "synoptic parallel; encoded as mt7_8"
+      },
+      {
+        "candidate_id": "mt7_8",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc11_9",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "synoptic parallel; continuation 'omnis enim qui petit' follows mt7_7-8, encoded there"
+      },
+      {
+        "candidate_id": "mt7_7",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_31",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e107": [
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps113_24",
+        "intersectionCount": 5,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e134": [
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is6_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel trisagion; MS 'Dominus Deus omnipotens' = ap4_8"
+      },
+      {
+        "candidate_id": "ap4_8",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e155": [
+      {
+        "candidate_id": "ps37_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Itim6_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e164": [
+      {
+        "candidate_id": "ps41_4",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps41_11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps26_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "aconf-l12-d1e180": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is gen1_1"
+      },
+      {
+        "candidate_id": "gen1_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      }
+    ],
+    "aconf-l12-d1e192": [
+      {
+        "candidate_id": "gal3_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l12-d1e198": [
+      {
+        "candidate_id": "Ichr22_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps44_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps47_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps51_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps9_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps9_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir42_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps148_6",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps118_44",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps144_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps144_2",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps144_21",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps20_5",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l12-d1e201": [
+      {
+        "candidate_id": "IIcor5_21",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut10_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir1_4",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal4_26",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps113_24",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e204": [
+      {
+        "candidate_id": "ps25_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps118_176",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e215": [
+      {
+        "candidate_id": "ps58_18",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e220": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is gen1_1"
+      }
+    ],
+    "aconf-l12-d1e225": [
+      {
+        "candidate_id": "bar6_50",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l12-d1e231": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is gen1_1"
+      }
+    ],
+    "aconf-l12-d1e236": [
+      {
+        "candidate_id": "Itim1_8",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim1_5",
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IItim2_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e241": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ag2_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ap14_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan14_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex31_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps148_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l12-d1e247": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ichr16_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is gen1_1"
+      },
+      {
+        "candidate_id": "ier51_48",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "neh9_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps145_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps95_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir16_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tob8_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l12-d1e252": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ichr16_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier51_48",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "neh9_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps145_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps95_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir16_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "tob8_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      }
+    ],
+    "aconf-l12-d1e257": [
+      {
+        "candidate_id": "IIchr2_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ap14_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is gen1_1"
+      },
+      {
+        "candidate_id": "ps113_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps120_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps123_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps133_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps145_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      },
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      }
+    ],
+    "aconf-l12-d1e263": [
+      {
+        "candidate_id": "IItim1_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps6_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l12-d1e268": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "quote is gen1_1"
+      },
+      {
+        "candidate_id": "ps65_13",
+        "intersectionCount": 1,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e279": [
+      {
+        "candidate_id": "Icor4_6",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt22_37",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt22_39",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l12-d1e289": [
+      {
+        "candidate_id": "ez3_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "iob6_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l12-d1e300": [
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act13_40",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc2_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt1_22",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l12-d1e323": [
+      {
+        "candidate_id": "neh9_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps142_10"
+      },
+      {
+        "candidate_id": "ps142_10",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ]
+  },
+  "aconf-l13": {
+    "aconf-l13-d1e102": [
+      {
+        "candidate_id": "ps43_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'rex meus et Deus meus' not in MS"
+      },
+      {
+        "candidate_id": "ps58_18",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps5_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'rex meus et Deus meus' not in MS"
+      },
+      {
+        "candidate_id": "ps83_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'rex meus et Deus meus' not in MS"
+      },
+      {
+        "candidate_id": "io20_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "devotional formula 'Dominus meus et Deus meus'; no quotation of Thomas"
+      }
+    ],
+    "aconf-l13-d1e118": [
+      {
+        "candidate_id": "gen1_3",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e123": [
+      {
+        "candidate_id": "ps35_10",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion"
+      }
+    ],
+    "aconf-l13-d1e129": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IIreg19_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ag2_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ap14_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "dan14_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex31_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ez17_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_17",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is37_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps148_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l13-d1e139": [
+      {
+        "candidate_id": "IItim1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is9_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e145": [
+      {
+        "candidate_id": "gen1_3",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is58_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e150": [
+      {
+        "candidate_id": "ps121_1",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps83_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e166": [
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_3",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen2_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps29_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps41_7",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "paraphrase"
+      },
+      {
+        "candidate_id": "ps7_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps7_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps85_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "eph5_8",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps38_12",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt3_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e171": [
+      {
+        "candidate_id": "IIcor11_3",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "IIcor5_2",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor14_20",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal3_1",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps41_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps41_8",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom12_2",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor3_1",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps41_4",
+        "intersectionCount": 8,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_24",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e177": [
+      {
+        "candidate_id": "IItim1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Ith5_5",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom8_11",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_5",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps41_5",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps41_12",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "identical refrain; encoded as ps41_6"
+      },
+      {
+        "candidate_id": "ps41_6",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps42_5",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "identical refrain; encoded as ps41_6"
+      }
+    ],
+    "aconf-l13-d1e185": [
+      {
+        "candidate_id": "mt21_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "parallel; encoded as ps8_3"
+      },
+      {
+        "candidate_id": "ps8_3",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps8_4",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps18_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e190": [
+      {
+        "candidate_id": "lc21_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "synoptic parallel; encoded as mt24_35"
+      },
+      {
+        "candidate_id": "mc13_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "synoptic parallel; encoded as mt24_35"
+      },
+      {
+        "candidate_id": "mt24_35",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps15_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps39_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps35_6",
+        "intersectionCount": 5,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e196": [
+      {
+        "candidate_id": "ps142_6",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps35_10",
+        "intersectionCount": 2,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e206": [
+      {
+        "candidate_id": "sir4_9",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e212": [
+      {
+        "candidate_id": "phil2_15",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "prov24_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps84_12",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom13_12",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ier33_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IIcor5_17",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps101_28",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom13_11",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is58_7",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "paraphrase"
+      }
+    ],
+    "aconf-l13-d1e215": [
+      {
+        "candidate_id": "bar2_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier32_21",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor12_8",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_11",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor3_1",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_9",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor12_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor2_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e220": [
+      {
+        "candidate_id": "gen1_15",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is1_16",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_14",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "lc18_22",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; encoded as mt19_21 (context of mt19_16-21)"
+      },
+      {
+        "candidate_id": "mc10_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "parallel; encoded as mt19_21 (context of mt19_16-21)"
+      },
+      {
+        "candidate_id": "mt19_21",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "paraphrase with gloss"
+      },
+      {
+        "candidate_id": "is1_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is1_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt19_17",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt19_18",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e223": [
+      {
+        "candidate_id": "Ipetr2_9",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is14_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "'super omnem terram' only"
+      },
+      {
+        "candidate_id": "gen1_14",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps18_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act2_2",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "act2_3",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt5_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt5_15",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e229": [
+      {
+        "candidate_id": "rom10_18",
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "Augustine is reading Ps 18:4-5 here (preceding verse quoted); encoded as ps18_5 (Rom 10:18 quotes it verbatim)"
+      },
+      {
+        "candidate_id": "ps18_5",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps18_4",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e234": [
+      {
+        "candidate_id": "gen1_15",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l13-d1e242": [
+      {
+        "candidate_id": "IIcor4_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io4_48",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is58_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps60_9",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps95_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir5_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor14_22",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim5_6",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e246": [
+      {
+        "candidate_id": "est1_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ex34_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_24",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "is55_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps50_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom12_2",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps68_33",
+        "intersectionCount": 3,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e251": [
+      {
+        "candidate_id": "rom12_2",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal4_12",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "sir3_19",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor8_8",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "allusion"
+      }
+    ],
+    "aconf-l13-d1e256": [
+      {
+        "candidate_id": "col3_10",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom12_2",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e262": [
+      {
+        "candidate_id": "Icor2_14",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Itim3_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen8_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir43_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Icor5_12",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col3_10",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "ps48_13",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "refrain also ps48_21"
+      },
+      {
+        "candidate_id": "ps48_21",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "parallel; encoded as ps48_13"
+      },
+      {
+        "candidate_id": "eph2_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gal3_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "iac4_11",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt7_20",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e265": [
+      {
+        "candidate_id": "IImac11_31",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen8_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "sir43_27",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l13-d1e273": [
+      {
+        "candidate_id": "IIchr2_12",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ap14_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps113_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps120_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps123_8",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps133_3",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps145_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e276": [
+      {
+        "candidate_id": "Imac8_23",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps134_6",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "gen1_28",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "also gen1_22 (Augustine applies to both)"
+      }
+    ],
+    "aconf-l13-d1e282": [
+      {
+        "candidate_id": "Icor14_13",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Isam17_44",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "Isam17_46",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "deut28_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier16_4",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier19_7",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier34_20",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ier7_33",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "is14_26",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom3_4",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "rom10_18",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "IItim4_16",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "io8_44",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "gen1_29",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin text; no clean range"
+      },
+      {
+        "candidate_id": "ps18_5",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e287": [
+      {
+        "candidate_id": "phil4_13",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_11",
+        "intersectionCount": 6,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_12",
+        "intersectionCount": 7,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_10",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded",
+        "note": "Old Latin wording"
+      }
+    ],
+    "aconf-l13-d1e292": [
+      {
+        "candidate_id": "Ith2_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io4_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps4_2",
+        "intersectionCount": 1,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "col3_10",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_12",
+        "intersectionCount": 2,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_16",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_15",
+        "intersectionCount": 9,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "phil4_14",
+        "intersectionCount": 0,
+        "manually_found": true,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e295": [
+      {
+        "candidate_id": "io13_16",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io5_19",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "io6_32",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt11_11",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt24_2",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mt8_10",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "mc9_40",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "parallel; 'aquae frigidae ... uni ex minimis ... in nomine discipuli' matches mt10_42"
+      },
+      {
+        "candidate_id": "phil4_17",
+        "intersectionCount": 4,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt10_42",
+        "intersectionCount": 7,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e311": [
+      {
+        "candidate_id": "ps30_5",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "ps39_18",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l13-d1e317": [
+      {
+        "candidate_id": "ps34_24",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ],
+    "aconf-l13-d1e322": [
+      {
+        "candidate_id": "IItim1_14",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "lc20_25",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 11,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor2_12",
+        "intersectionCount": 13,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "mt10_20",
+        "intersectionCount": 3,
+        "status": "encoded"
+      },
+      {
+        "candidate_id": "Icor2_11",
+        "intersectionCount": 9,
+        "status": "encoded"
+      }
+    ],
+    "aconf-l13-d1e329": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "adapted to 2nd person"
+      }
+    ],
+    "aconf-l13-d1e340": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 1,
+        "status": "encoded",
+        "note": "allusion"
+      },
+      {
+        "candidate_id": "neh9_37",
+        "intersectionCount": 1,
+        "status": "not_found",
+        "note": "shared common phrase only (score 1-3); no quotation"
+      }
+    ]
+  }
+}
